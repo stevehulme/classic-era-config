@@ -1,0 +1,4 @@
+VER 3 0000000001000001 "Mark + Pet" "132212"
+/cast Hunter's Mark
+/petattack
+END

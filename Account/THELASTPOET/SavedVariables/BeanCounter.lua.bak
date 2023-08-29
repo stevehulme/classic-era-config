@@ -1,0 +1,52 @@
+
+BeanCounterDB = {
+	["Zandalar Tribe"] = {
+		["Rawnok"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["configator.left"] = 666.666931152344,
+	["Zandalar Tribe"] = {
+		["Rawnok"] = {
+			["tasks.sortArray"] = 1568189313,
+			["version"] = 3.04,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1568189313,
+			["wealth"] = 17688,
+			["tasks.prunePostedDB"] = 1568189313,
+			["mailbox"] = {
+			},
+		},
+	},
+	["util.beancounter.ButtonuseDateCheck"] = false,
+	["configator.top"] = 825.000183105469,
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil
+BeanCounterMailPatch = nil

@@ -1,0 +1,33 @@
+
+beqlDBnew = {
+	["profileKeys"] = {
+		["Durthal - Stitches"] = "Default",
+	},
+	["global"] = {
+		["timer"] = {
+		},
+		["_G"] = {
+			["QUEST_SUGGESTED_GROUP_NUM_TAG"] = "Group: %d",
+			["QUEST_LOG_COUNT_TEMPLATE"] = "Quests: |cffffffff%d/%d|r",
+			["QUEST_ITEMS_NEEDED"] = "%s: %d/%d",
+			["QUEST_PROGRESS_NEEDED"] = "Progress: %1$d",
+			["QUEST_LOG_DAILY_COUNT_TEMPLATE"] = "Daily: |cffffffff%d|r",
+			["QUEST_SPELL_NEEDED"] = "Learn Spell: %s",
+			["QUEST_LOG_COUNT"] = "Quests: %d / %d",
+			["QUEST_FACTION_NEEDED"] = "%s:  %s / %s",
+			["QUEST_MONSTERS_KILLED"] = "%s slain: %d/%d",
+			["QUEST_INTERMEDIATE_ITEMS_NEEDED"] = "%s: (%d)",
+			["QUEST_PLAYERS_KILLED"] = "Players slain: %d/%d",
+			["QUEST_OBJECTS_FOUND"] = "%s: %d/%d",
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+			["revision"] = "1.1.1 Alpha 3",
+			["disabled"] = {
+				["markers"] = false,
+				["style"] = false,
+			},
+		},
+	},
+}

@@ -1,0 +1,8 @@
+
+SoulSortOptions = {
+	["AutoSort"] = true,
+	["MaxShards"] = 0,
+	["AutoMax"] = false,
+	["ShowCounterPerBag"] = true,
+	["ShowCounter"] = false,
+}

@@ -1,0 +1,8 @@
+Details: disabled
+ClassicThreatMeter: disabled
+EZJunk: disabled
+DruidMana: disabled
+MapCoords: disabled
+EZCoordinates: disabled
+Clique: disabled
+PitBull4: disabled

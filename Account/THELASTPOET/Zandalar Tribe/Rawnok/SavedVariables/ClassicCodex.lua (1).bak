@@ -1,0 +1,50 @@
+
+CodexConfig = {
+	["showLowLevel"] = false,
+	["showHighLevel"] = false,
+	["colorBySpawn"] = true,
+	["autoAccept"] = false,
+	["questMarkerSize"] = 14,
+	["spawnMarkerSize"] = 10,
+	["allQuestGivers"] = true,
+	["trackingMethod"] = 4,
+	["currentQuestGivers"] = true,
+	["showFestival"] = true,
+	["autoTurnin"] = false,
+	["nameplateIcon"] = true,
+	["minimumDropChance"] = 2,
+}
+CodexHiddenQuests = {
+}
+CodexBrowserFavorites = {
+	["items"] = {
+	},
+	["objets"] = {
+	},
+	["quests"] = {
+	},
+	["units"] = {
+	},
+}
+CodexColors = {
+	["Farmer Saldean"] = {
+		0.207843137254902, -- [1]
+		0.368627450980392, -- [2]
+		0.0156862745098039, -- [3]
+	},
+	["Sprinkle"] = {
+		1, -- [1]
+		0.0196078431372549, -- [2]
+		0.901960784313726, -- [3]
+	},
+	["Mountaineer Stormpike"] = {
+		0.505882352941176, -- [1]
+		0.870588235294118, -- [2]
+		0.917647058823529, -- [3]
+	},
+	["Caretaker Alen"] = {
+		0.392156862745098, -- [1]
+		0.517647058823529, -- [2]
+		0.607843137254902, -- [3]
+	},
+}

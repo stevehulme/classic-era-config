@@ -1,0 +1,8 @@
+
+GoldSave = {
+	["Rawnok_Zandalar Tribe::Alliance"] = {
+		["show"] = true,
+		["name"] = "Rawnok",
+		["gold"] = 1164259,
+	},
+}

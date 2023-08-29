@@ -1,0 +1,37 @@
+
+CliqueDB = nil
+CliqueDB3 = {
+	["char"] = {
+		["Rawnok - Zandalar Tribe"] = {
+			["spec1_profileKey"] = "Rawnok - Zandalar Tribe",
+			["specswap"] = false,
+			["downclick"] = false,
+			["alerthidden"] = true,
+			["fastooc"] = false,
+		},
+	},
+	["profileKeys"] = {
+		["Rawnok - Zandalar Tribe"] = "Rawnok - Zandalar Tribe",
+	},
+	["profiles"] = {
+		["Rawnok - Zandalar Tribe"] = {
+			["bindings"] = {
+				{
+					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+	},
+}

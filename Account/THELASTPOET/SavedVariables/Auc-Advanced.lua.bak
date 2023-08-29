@@ -1,0 +1,37 @@
+
+AucAdvancedConfig = {
+	["version"] = 1,
+	["profile.Default"] = {
+		["stat"] = {
+			["sales"] = {
+				["upgraded32"] = true,
+				["ignoredsigs"] = {
+				},
+			},
+		},
+		["util"] = {
+			["automagic"] = {
+				["SavedMailButtons"] = {
+				},
+			},
+		},
+	},
+	["users.Zandalar Tribe.Rawnok"] = "Default",
+}
+AucAdvancedData = {
+	["Stats"] = {
+	},
+}
+AucAdvancedServers = {
+	["Version"] = 1,
+	["KnownServerKeys"] = {
+		["ZandalarTribe"] = 1567939546,
+	},
+	["KnownRealms"] = {
+		["ZandalarTribe"] = "ZandalarTribe",
+	},
+	["Timestamp"] = 1567937606,
+	["ExpandedNames"] = {
+		["ZandalarTribe"] = "Zandalar Tribe",
+	},
+}
