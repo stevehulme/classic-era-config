@@ -309,6 +309,23 @@ whoTrackerSaved = {
 		"Tue Aug 29 14:20 end of tracking (logout)", -- [306]
 		"Tue Aug 29 14:24 end of tracking (logout)", -- [307]
 		"Tue Aug 29 14:53 end of tracking (logout)", -- [308]
+		"Tue Aug 29 15:18 end of tracking (logout)", -- [309]
+		"Tue Aug 29 16:21 end of tracking (logout)", -- [310]
+		"Wed Aug 30 20:57 end of tracking (logout)", -- [311]
+		"Thu Aug 31 19:24 end of tracking (logout)", -- [312]
+		"Thu Aug 31 20:02 end of tracking (logout)", -- [313]
+		"Fri Sep 01 18:18 end of tracking (logout)", -- [314]
+		"Fri Sep 01 21:04 end of tracking (logout)", -- [315]
+		"Sat Sep 02 08:08 end of tracking (logout)", -- [316]
+		"Sat Sep 02 09:18 end of tracking (logout)", -- [317]
+		"Sat Sep 02 10:31 end of tracking (logout)", -- [318]
+		"Sat Sep 02 12:10 end of tracking (logout)", -- [319]
+		"Sat Sep 02 13:35 end of tracking (logout)", -- [320]
+		"Sat Sep 02 15:31 end of tracking (logout)", -- [321]
+		"Sat Sep 02 16:37 end of tracking (logout)", -- [322]
+		"Sat Sep 02 20:07 end of tracking (logout)", -- [323]
+		"Sun Sep 03 08:55 end of tracking (logout)", -- [324]
+		"Sun Sep 03 09:20 end of tracking (logout)", -- [325]
 	},
 	["paused"] = 1,
 	["query"] = "g-ChangeThis",

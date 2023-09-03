@@ -8,6 +8,6 @@ GoldSave = {
 	["Durthal_Stitches::Horde"] = {
 		["show"] = true,
 		["name"] = "Durthal",
-		["gold"] = 13417,
+		["gold"] = 56708,
 	},
 }

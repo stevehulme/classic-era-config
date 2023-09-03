@@ -19,6 +19,7 @@ RangeDisplayDB3 = {
 				["arena2"] = {
 				},
 				["mouseover"] = {
+					["enabled"] = false,
 					["y"] = -211.7608795166016,
 					["x"] = -316.75244140625,
 				},

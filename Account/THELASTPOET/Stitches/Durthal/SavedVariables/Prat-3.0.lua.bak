@@ -28,1941 +28,2065 @@ Prat3CharDB = {
 Prat3HighCPUPerCharDB = {
 	["scrollback"] = {
 		["ChatFrame5"] = {
-			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
-			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["PushBack"] = nil --[[ skipped inline function ]],
-			["RemoveIf"] = nil --[[ skipped inline function ]],
-			["Clear"] = nil --[[ skipped inline function ]],
-			["PushFront"] = nil --[[ skipped inline function ]],
-			["OnLoad"] = nil --[[ skipped inline function ]],
-			["IsEmpty"] = nil --[[ skipped inline function ]],
-			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 			},
+			["headIndex"] = 0,
 			["maxElements"] = 128,
-			["TransformIf"] = nil --[[ skipped inline function ]],
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
-			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
-			["GetNumElements"] = nil --[[ skipped inline function ]],
-			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 		["ChatFrame4"] = {
-			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
-			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["PushBack"] = nil --[[ skipped inline function ]],
-			["RemoveIf"] = nil --[[ skipped inline function ]],
-			["Clear"] = nil --[[ skipped inline function ]],
-			["PushFront"] = nil --[[ skipped inline function ]],
-			["OnLoad"] = nil --[[ skipped inline function ]],
-			["IsEmpty"] = nil --[[ skipped inline function ]],
-			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 			},
+			["headIndex"] = 0,
 			["maxElements"] = 128,
-			["TransformIf"] = nil --[[ skipped inline function ]],
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
-			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
-			["GetNumElements"] = nil --[[ skipped inline function ]],
-			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 		["ChatFrame3"] = {
-			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 6,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
-			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["PushBack"] = nil --[[ skipped inline function ]],
-			["RemoveIf"] = nil --[[ skipped inline function ]],
-			["Clear"] = nil --[[ skipped inline function ]],
-			["PushFront"] = nil --[[ skipped inline function ]],
-			["OnLoad"] = nil --[[ skipped inline function ]],
-			["IsEmpty"] = nil --[[ skipped inline function ]],
-			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["b"] = 0,
 					["r"] = 1,
-					["serverTime"] = 1693315025,
-					["timestamp"] = 1547047.823,
-					["g"] = 1,
+					["b"] = 0,
+					["serverTime"] = 1693639702,
+					["timestamp"] = 1956484.683,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["g"] = 1,
 				}, -- [1]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["g"] = 1,
-					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315190,
 					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1956484.683,
+					["serverTime"] = 1693643504,
+					["r"] = 1,
 				}, -- [2]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["serverTime"] = 1693315220,
-					["r"] = 1,
 					["b"] = 0,
-					["timestamp"] = 1547047.823,
+					["r"] = 1,
+					["serverTime"] = 1693649712,
+					["timestamp"] = 1956484.683,
+					["g"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["g"] = 1,
 				}, -- [3]
 				{
-					["message"] = "0 days, 0 hours, 0 minutes, 0 seconds",
-					["timestamp"] = 1547047.823,
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["g"] = 1,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 1956484.683,
+					["serverTime"] = 1693654159,
+					["b"] = 0,
 				}, -- [4]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 1547047.823,
-				}, -- [5]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
 					["r"] = 1,
+					["b"] = 0,
+					["serverTime"] = 1693660485,
+					["timestamp"] = 1956484.683,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 1547047.823,
 					["g"] = 1,
-					["b"] = 0,
-				}, -- [6]
-			},
-			["maxElements"] = 128,
-			["TransformIf"] = nil --[[ skipped inline function ]],
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
-			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
-			["GetNumElements"] = nil --[[ skipped inline function ]],
-			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
-		},
-		["ChatFrame7"] = {
-			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
-			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["PushBack"] = nil --[[ skipped inline function ]],
-			["RemoveIf"] = nil --[[ skipped inline function ]],
-			["Clear"] = nil --[[ skipped inline function ]],
-			["PushFront"] = nil --[[ skipped inline function ]],
-			["OnLoad"] = nil --[[ skipped inline function ]],
-			["IsEmpty"] = nil --[[ skipped inline function ]],
-			["IsFull"] = nil --[[ skipped inline function ]],
-			["elements"] = {
-			},
-			["maxElements"] = 128,
-			["TransformIf"] = nil --[[ skipped inline function ]],
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
-			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
-			["GetNumElements"] = nil --[[ skipped inline function ]],
-			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
-		},
-		["ChatFrame6"] = {
-			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
-			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["PushBack"] = nil --[[ skipped inline function ]],
-			["RemoveIf"] = nil --[[ skipped inline function ]],
-			["Clear"] = nil --[[ skipped inline function ]],
-			["PushFront"] = nil --[[ skipped inline function ]],
-			["OnLoad"] = nil --[[ skipped inline function ]],
-			["IsEmpty"] = nil --[[ skipped inline function ]],
-			["IsFull"] = nil --[[ skipped inline function ]],
-			["elements"] = {
-			},
-			["maxElements"] = 128,
-			["TransformIf"] = nil --[[ skipped inline function ]],
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
-			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
-			["GetNumElements"] = nil --[[ skipped inline function ]],
-			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
-		},
-		["ChatFrame8"] = {
-			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
-			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["PushBack"] = nil --[[ skipped inline function ]],
-			["RemoveIf"] = nil --[[ skipped inline function ]],
-			["Clear"] = nil --[[ skipped inline function ]],
-			["PushFront"] = nil --[[ skipped inline function ]],
-			["OnLoad"] = nil --[[ skipped inline function ]],
-			["IsEmpty"] = nil --[[ skipped inline function ]],
-			["IsFull"] = nil --[[ skipped inline function ]],
-			["elements"] = {
-			},
-			["maxElements"] = 128,
-			["TransformIf"] = nil --[[ skipped inline function ]],
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
-			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
-			["GetNumElements"] = nil --[[ skipped inline function ]],
-			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
-		},
-		["ChatFrame10"] = {
-			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
-			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["PushBack"] = nil --[[ skipped inline function ]],
-			["RemoveIf"] = nil --[[ skipped inline function ]],
-			["Clear"] = nil --[[ skipped inline function ]],
-			["PushFront"] = nil --[[ skipped inline function ]],
-			["OnLoad"] = nil --[[ skipped inline function ]],
-			["IsEmpty"] = nil --[[ skipped inline function ]],
-			["IsFull"] = nil --[[ skipped inline function ]],
-			["elements"] = {
-			},
-			["maxElements"] = 128,
-			["TransformIf"] = nil --[[ skipped inline function ]],
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
-			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
-			["GetNumElements"] = nil --[[ skipped inline function ]],
-			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
-		},
-		["ChatFrame9"] = {
-			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
-			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["PushBack"] = nil --[[ skipped inline function ]],
-			["RemoveIf"] = nil --[[ skipped inline function ]],
-			["Clear"] = nil --[[ skipped inline function ]],
-			["PushFront"] = nil --[[ skipped inline function ]],
-			["OnLoad"] = nil --[[ skipped inline function ]],
-			["IsEmpty"] = nil --[[ skipped inline function ]],
-			["IsFull"] = nil --[[ skipped inline function ]],
-			["elements"] = {
-			},
-			["maxElements"] = 128,
-			["TransformIf"] = nil --[[ skipped inline function ]],
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
-			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
-			["GetNumElements"] = nil --[[ skipped inline function ]],
-			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
-		},
-		["ChatFrame1"] = {
-			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 39,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
-			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["PushBack"] = nil --[[ skipped inline function ]],
-			["RemoveIf"] = nil --[[ skipped inline function ]],
-			["Clear"] = nil --[[ skipped inline function ]],
-			["PushFront"] = nil --[[ skipped inline function ]],
-			["OnLoad"] = nil --[[ skipped inline function ]],
-			["IsEmpty"] = nil --[[ skipped inline function ]],
-			["IsFull"] = nil --[[ skipped inline function ]],
-			["elements"] = {
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:14]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Bankmank:224:CHANNEL:2|h|cffc69b6dBankmank|r|h|cffd8d8d8]|r: WTS |cff1eff00|Hitem:15303::::::840:1489841408:1:::::::::|h[Grizzly Pants of the Eagle]|h|r",
-					["serverTime"] = 1693315333,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						42, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547168.483,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [1]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:20]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Bankmank-Stitches:225:CHANNEL:2|h|cffc69b6dBankmank|r|h|cffd8d8d8]|r: WTS |cff1eff00|Hitem:15969::::::1951:2112717696:1:::::::::|h[Beaded Orb of Frozen Wrath]|h|r",
-					["serverTime"] = 1693315339,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						42, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547173.654,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [2]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:23]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Arakasi:226:GUILD|h|cffd84e4e29|r:|cffff7c0aArakasi|r|h|cffd8d8d8]|r: omg the Hilsbrad quest line is not for faint of heart :D the density and respawns due to so many people i narea is NUTS",
-					["serverTime"] = 1693315342,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						1, -- [3]
-						44, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547177.156,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [3]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:28]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Хастон-Stitches:227:CHANNEL:2|h|cff0070ddХастон|r|h|cffd8d8d8]|r: RFK tank dd 30+ fast push(2 slot)",
-					["serverTime"] = 1693315347,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						26, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547182.167,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [4]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:31]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Arakasi-Stitches:230:GUILD|h|cffd84e4e29|r:|cffff7c0aArakasi|r|h|cffd8d8d8]|r: but god damn is it fun :D",
-					["serverTime"] = 1693315350,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						1, -- [3]
-						44, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547184.696,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:32]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Dengobank:232:CHANNEL:2|h|cffc69b6dDengobank|r|h|cffd8d8d8]|r: wts |cff1eff00|Hitem:4564::::::1550:1879881344:1:::::::::|h[Spiked Club of Power]|h|r",
-					["serverTime"] = 1693315351,
-					["r"] = 1,
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
 					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						45, -- [4]
-						["n"] = 4,
+						1, -- [1]
+						["n"] = 1,
 					},
-					["timestamp"] = 1547185.887,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 1956484.683,
+					["serverTime"] = 1693665720,
+					["r"] = 1,
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:41]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Aoefarmin-Stitches:233:CHANNEL:2|h|cff3fc6eaAoefarmin|r|h|cffd8d8d8]|r: LF2M : TANK & HEAL -- WC --",
-					["serverTime"] = 1693315360,
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["b"] = 0,
 					["r"] = 1,
+					["serverTime"] = 1693673550,
+					["timestamp"] = 1956484.683,
+					["g"] = 1,
 					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						38, -- [4]
-						["n"] = 4,
+						1, -- [1]
+						["n"] = 1,
 					},
-					["timestamp"] = 1547194.737,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [7]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:42]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Zavina-Stitches:234:CHANNEL:2|h|cff3fc6eaZavina|r|h|cffd8d8d8]|r: lfm tank for wc /w me",
-					["serverTime"] = 1693315361,
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["g"] = 1,
 					["r"] = 1,
 					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						21, -- [4]
-						["n"] = 4,
+						1, -- [1]
+						["n"] = 1,
 					},
-					["timestamp"] = 1547196.447,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["timestamp"] = 1956484.683,
+					["serverTime"] = 1693724644,
+					["b"] = 0,
 				}, -- [8]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:49]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Apprehension-Stitches:235:GUILD|h|cff8b8b8b5|r:|cff8787edApprehension|r|h|cffd8d8d8]|r: Who could have known WoW could turn into fun",
-					["serverTime"] = 1693315368,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						1, -- [3]
-						47, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547202.882,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
+					["message"] = "0 days, 0 hours, 0 minutes, 0 seconds",
+					["timestamp"] = 1956484.683,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:50]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Vanquisher-Stitches:236:CHANNEL:2|h|cfffff468Vanquisher|r|h|cffd8d8d8]|r: LF1M Tank SM GY last spot",
-					["serverTime"] = 1693315369,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547203.584,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 1956484.683,
 				}, -- [10]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:06]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Amadorrvas:243:CHANNEL:2|h|cffc69b6dAmadorrvas|r|h|cffd8d8d8]|r: Gente española buscando guild tiradme dm",
-					["serverTime"] = 1693315385,
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
 					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 1956468.47,
 					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						48, -- [4]
-						["n"] = 4,
+						1, -- [1]
+						["n"] = 1,
 					},
-					["timestamp"] = 1547220.519,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["g"] = 1,
 				}, -- [11]
+			},
+			["headIndex"] = 11,
+			["maxElements"] = 128,
+		},
+		["ChatFrame7"] = {
+			["elements"] = {
+			},
+			["headIndex"] = 0,
+			["maxElements"] = 128,
+		},
+		["ChatFrame6"] = {
+			["elements"] = {
+			},
+			["headIndex"] = 0,
+			["maxElements"] = 128,
+		},
+		["ChatFrame8"] = {
+			["elements"] = {
+			},
+			["headIndex"] = 0,
+			["maxElements"] = 128,
+		},
+		["ChatFrame10"] = {
+			["elements"] = {
+			},
+			["headIndex"] = 0,
+			["maxElements"] = 128,
+		},
+		["ChatFrame9"] = {
+			["elements"] = {
+			},
+			["headIndex"] = 0,
+			["maxElements"] = 128,
+		},
+		["ChatFrame1"] = {
+			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:10]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Zavina-Stitches:245:CHANNEL:2|h|cff3fc6eaZavina|r|h|cffd8d8d8]|r: lfm tank and dps for wc /w me",
-					["serverTime"] = 1693315389,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[08:51:57]|h|r You receive loot: |cffffffff|Hitem:2592::::::::24:::::::::|h[Wool Cloth]|h|rx2.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1959358.311,
+					["serverTime"] = 1693727516,
 					["extraData"] = {
-						70, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						21, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547223.758,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [12]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:11]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Dengobank-Stitches:246:CHANNEL:2|h|cffc69b6dDengobank|r|h|cffd8d8d8]|r: WTS |cff1eff00|Hitem:4564::::::1550:1879881344:1:::::::::|h[Spiked Club of Power]|h|r 7silver",
-					["serverTime"] = 1693315390,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						45, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547225.127,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [13]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:24]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Nukemz:247:CHANNEL:2|h|cff3fc6eaNukemz|r|h|cffd8d8d8]|r: mage LFG SFK 25lvl",
-					["serverTime"] = 1693315403,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						50, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547238.365,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [14]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:26]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Hublug-Stitches:248:CHANNEL:2|h|cffaad372Hublug|r|h|cffd8d8d8]|r: need heal tank for RFC",
-					["serverTime"] = 1693315405,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547240.254,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [15]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:28]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Goaganepries:249:CHANNEL:2|h|cffffffffGoaganepries|r|h|cffd8d8d8]|r: crafting woolen bags free with mats in orgi",
-					["serverTime"] = 1693315407,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						52, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547241.921,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [16]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:32]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Vanquisher-Stitches:250:CHANNEL:2|h|cfffff468Vanquisher|r|h|cffd8d8d8]|r: LF1M Tank SM GY last spot",
-					["serverTime"] = 1693315411,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547245.72,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [17]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:40]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Tildoss-Stitches:252:CHANNEL:2|h|cff0070ddTildoss|r|h|cffd8d8d8]|r: WTS |cff1eff00|Hitem:4379::::::::17::::1:3524:::::|h[Fusil plaqué argent]|h|r /w me with price :)",
-					["serverTime"] = 1693315419,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547254.336,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [18]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:41]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sonder:253:GUILD|h|cffd8d83f18|r:|cff0070ddSonder|r|h|cffd8d8d8]|r: hello all",
-					["serverTime"] = 1693315420,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						1, -- [3]
-						54, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547255.226,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [19]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:45]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Shaikara-Stitches:255:GUILD|h|cffd8d83f17|r:|cfffff468Shaikara|r|h|cffd8d8d8]|r: hai",
-					["serverTime"] = 1693315424,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547258.832,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [20]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:47]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Bankofperpi:256:CHANNEL:2|h|cfffff468Bankofperpi|r|h|cffd8d8d8]|r: WTS |cffffffff|Hitem:2318::::::::1:::::::::|h[Light Leather]|h|r",
-					["serverTime"] = 1693315426,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						55, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547260.681,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [21]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:50]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Oráj:258:CHANNEL:2|h|cff0070ddOráj|r|h|cffd8d8d8]|r: Shamy 33 LFG SM GY",
-					["serverTime"] = 1693315429,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						57, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547264.304,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [22]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:53]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Elron-Stitches:259:CHANNEL:2|h|cffaad372Elron|r|h|cffd8d8d8]|r: LF2M WC +20, need heals + tank",
-					["serverTime"] = 1693315432,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						34, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547266.637,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [23]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:53]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Arakasi-Stitches:260:GUILD|h|cffd84e4e29|r:|cffff7c0aArakasi|r|h|cffd8d8d8]|r: seeing 4 peopla running away from big pull of mobs = ideal time to run in as druid to steal the q item and stealth before the npc get back :D",
-					["serverTime"] = 1693315432,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						1, -- [3]
+						43, -- [3]
 						44, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547266.637,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:51:57]|h|r You receive loot: |cffffffff|Hitem:4538::::::::24:::::::::|h[Snapvine Watermelon]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1959358.311,
+					["serverTime"] = 1693727516,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:51:58]|h|r Torek says: For the Horde!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
 					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:55]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Apprehension-Stitches:261:GUILD|h|cff8b8b8b5|r:|cff8787edApprehension|r|h|cffd8d8d8]|r: Hello friend!!",
-					["serverTime"] = 1693315434,
-					["r"] = 0.250980406999588,
+					["timestamp"] = 1959358.999,
+					["serverTime"] = 1693727517,
 					["extraData"] = {
-						5, -- [1]
+						13, -- [1]
 						false, -- [2]
-						1, -- [3]
-						47, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547269.371,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:56]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Castiza:262:CHANNEL:2|h|cff8787edCastiza|r|h|cffd8d8d8]|r: need a stick deep in casillas",
-					["serverTime"] = 1693315435,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						59, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547270.071,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:24:01]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Lyxion:263:CHANNEL:2|h|cffff7c0aLyxion|r|h|cffd8d8d8]|r: wts |cff1eff00|Hitem:15268::::::1185:530441088:20:::::::::|h[Twin-bladed Axe of the Bear]|h|r",
-					["serverTime"] = 1693315440,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						61, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547274.837,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [27]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:24:07]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Zavina-Stitches:264:CHANNEL:2|h|cff3fc6eaZavina|r|h|cffd8d8d8]|r: lfm tank for wc /w me",
-					["serverTime"] = 1693315446,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						21, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547281.337,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [28]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:24:08]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Hublug-Stitches:265:CHANNEL:2|h|cffaad372Hublug|r|h|cffd8d8d8]|r: need heal and tank for RFC",
-					["serverTime"] = 1693315447,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547281.671,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:24:11]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Crunchylock:266:CHANNEL:2|h|cff8787edCrunchylock|r|h|cffd8d8d8]|r: Crafting wool bags for you in Thunderbluff 9 wool per bag",
-					["serverTime"] = 1693315450,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						63, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547285.337,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:24:14]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Shaikara-Stitches:267:GUILD|h|cffd8d83f17|r:|cfffff468Shaikara|r|h|cffd8d8d8]|r: sounds like something a sneaky druid would do!",
-					["serverTime"] = 1693315453,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547288.071,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [31]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:24:14]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Omegon-Stitches:268:CHANNEL:2|h|cffaad372Omegon|r|h|cffd8d8d8]|r: wts |cffffffff|Hitem:20744::::::::23:::::::::|h[Minor Wizard Oil]|h|r, +3 str/stam on wrists, +2 damage to 1h wep (got mats for all)",
-					["serverTime"] = 1693315453,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						19, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547288.504,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [32]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:24:15]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Quiinn-Stitches:269:CHANNEL:2|h|cff3fc6eaQuiinn|r|h|cffd8d8d8]|r: Quiinn's Quilting is back in Orgrimmar! Selling pre-made |cffffffff|Hitem:4238::::::::18:::::::::|h[Linen Bag]|h|rs, 3s per bag or 4 for 10s! /w me if interested!",
-					["serverTime"] = 1693315454,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						16, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547289.204,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [33]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:24:20]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Voldes:270:CHANNEL:2|h|cffffffffVoldes|r|h|cffd8d8d8]|r: Priest LF SM (GY/LIB) lvl 30 Heal w me",
-					["serverTime"] = 1693315459,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
+						64, -- [3]
 						65, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547294.171,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [34]
+				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:24:24]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Arakasi-Stitches:271:GUILD|h|cffd84e4e29|r:|cffff7c0aArakasi|r|h|cffd8d8d8]|r: I did, it was glourious",
-					["serverTime"] = 1693315463,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						1, -- [3]
-						44, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547298.44,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [35]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:24:35]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Runnoft-Stitches:273:GUILD|h|cffd8d83f15|r:|cffff7c0aRunnoft|r|h|cffd8d8d8]|r: that was what killed me",
-					["serverTime"] = 1693315474,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						1, -- [3]
-						23, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547308.64,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [36]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:24:42]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Hublug-Stitches:275:CHANNEL:2|h|cffaad372Hublug|r|h|cffd8d8d8]|r: need tank for RFC last spot",
-					["serverTime"] = 1693315481,
+					["message"] = "|cff979797|Hpratcopy|h[08:51:58]|h|r You loot 21 Copper",
+					["b"] = 0,
 					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547315.572,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [37]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:24:45]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Runnoft-Stitches:276:GUILD|h|cffd8d83f15|r:|cffff7c0aRunnoft|r|h|cffd8d8d8]|r: snuck in to get the keg in the barrens",
-					["serverTime"] = 1693315484,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						1, -- [3]
-						23, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547318.999,
 					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [38]
+					["timestamp"] = 1959359.395,
+					["serverTime"] = 1693727517,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [4]
 				{
-					["message"] = "Tue Aug 29 14:24 end of tracking (logout)",
-					["r"] = 0,
-					["timestamp"] = 1547323.092,
-					["g"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[08:52:03]|h|r Your skill in Bows has increased to 120.",
 					["b"] = 1,
-				}, -- [39]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:18:48]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sybreed-Stitches:73:CHANNEL:2|h|cff8787edSybreed|r|h|cffd8d8d8]|r: Lock 21 LF WC",
+					["r"] = 0.3333333432674408,
+					["g"] = 0.3333333432674408,
+					["timestamp"] = 1959364.134,
+					["serverTime"] = 1693727522,
 					["extraData"] = {
-						70, -- [1]
+						27, -- [1]
 						false, -- [2]
-						4, -- [3]
-						27, -- [4]
+						58, -- [3]
+						59, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315127,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
-				}, -- [40]
+				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:18:49]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Vanquisher:74:CHANNEL:2|h|cfffff468Vanquisher|r|h|cffd8d8d8]|r: LF2M SM GY need tank & 1 dd",
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						4, -- [3]
-						46, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315128,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
-				}, -- [41]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:18:54]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Scotlant:78:CHANNEL:2|h|cffff7c0aScotlant|r|h|cffd8d8d8]|r: LF Tank RFC! /w me",
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						4, -- [3]
-						48, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315133,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
-				}, -- [42]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:18:57]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Durthal-Stitches:80:GUILD|h|cffd8d83f17|r:|cffaad372Durthal|r|h|cffd8d8d8]|r: i guess its only a matter of time before i die :)",
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						13, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[08:52:14]|h|r Silverwing Sentinel attempts to run away in fear!",
 					["b"] = 0.250980406999588,
-					["serverTime"] = 1693315136,
-					["timestamp"] = 1547047.823,
-					["g"] = 1,
-					["r"] = 0.250980406999588,
-				}, -- [43]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:03]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Shaikara-Stitches:82:GUILD|h|cffd8d83f17|r:|cfffff468Shaikara|r|h|cffd8d8d8]|r: someone is afk!",
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						13, -- [3]
-						14, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.250980406999588,
-					["serverTime"] = 1693315142,
-					["timestamp"] = 1547047.823,
-					["g"] = 1,
-					["r"] = 0.250980406999588,
-				}, -- [44]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:06]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Apprehension-Stitches:83:GUILD|h|cff8b8b8b5|r:|cff8787edApprehension|r|h|cffd8d8d8]|r: Never!",
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						13, -- [3]
-						21, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.250980406999588,
-					["serverTime"] = 1693315145,
-					["timestamp"] = 1547047.823,
-					["g"] = 1,
-					["r"] = 0.250980406999588,
-				}, -- [45]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:14]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Shaikara-Stitches:85:GUILD|h|cffd8d83f17|r:|cfffff468Shaikara|r|h|cffd8d8d8]|r: no no this random warrior",
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						13, -- [3]
-						14, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.250980406999588,
-					["serverTime"] = 1693315153,
-					["timestamp"] = 1547047.823,
-					["g"] = 1,
-					["r"] = 0.250980406999588,
-				}, -- [46]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:15]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Дирижаблик-Stitches:86:CHANNEL:2|h|cfffff468Дирижаблик|r|h|cffd8d8d8]|r: LF RFC only tank/last slot",
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						4, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315154,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
 					["r"] = 1,
-				}, -- [47]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:15]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Halfiish:87:CHANNEL:2|h|cffff7c0aHalfiish|r|h|cffd8d8d8]|r: @AH |cff1eff00|Hitem:4345::::::::22:::::::::|h[Pattern: Red Woolen Boots]|h|r|cffffffff|Hitem:5470::::::::22:::::::::|h[Thunder Lizard Tail]|h|r|cffffffff|Hitem:5997::::::::22:::::::::|h[Elixir of Minor Defense]|h|r",
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1959374.954,
+					["serverTime"] = 1693727533,
 					["extraData"] = {
-						70, -- [1]
+						17, -- [1]
 						false, -- [2]
-						4, -- [3]
-						50, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315154,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
-				}, -- [48]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:16]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Asver-Stitches:88:CHANNEL:2|h|cffaad372Asver|r|h|cffd8d8d8]|r: LF Heal RFC last spot",
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						4, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315155,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
-				}, -- [49]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:17]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Asver-Stitches:89:CHANNEL:2|h|cffaad372Asver|r|h|cffd8d8d8]|r: LF Heal RFC last spot",
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						4, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315156,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
-				}, -- [50]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:20]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Shaikara-Stitches:90:GUILD|h|cffd8d83f17|r:|cfffff468Shaikara|r|h|cffd8d8d8]|r: I saved him from a raptor :D",
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						13, -- [3]
-						14, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.250980406999588,
-					["serverTime"] = 1693315159,
-					["timestamp"] = 1547047.823,
-					["g"] = 1,
-					["r"] = 0.250980406999588,
-				}, -- [51]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:20]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Vanquisher-Stitches:91:CHANNEL:2|h|cfffff468Vanquisher|r|h|cffd8d8d8]|r: LF2M SM GY need tank & 1 dd",
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						4, -- [3]
-						46, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315159,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
-				}, -- [52]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:21]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Zavina-Stitches:92:CHANNEL:2|h|cff3fc6eaZavina|r|h|cffd8d8d8]|r: lfm tank for wc /w me",
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						4, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315160,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
-				}, -- [53]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:22]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Ofc:93:CHANNEL:2|h|cff3fc6eaOfc|r|h|cffd8d8d8]|r: Tailor LFW! |cffffffff|Hitem:4245::::::::32::::1:3524:::::|h[Small Silk Pack]|h|r Your Mats [12x |cffffffff|Hitem:4306::::::::32:::::::::|h[Silk Cloth]|h|r + 2x|cffffffff|Hitem:4234::::::::32:::::::::|h[Heavy Leather]|h|r + 3x|cffffffff|Hitem:2321::::::::32:::::::::|h[Fine Thread]|h|r] No Fee Required Also Crafting |cff1eff00|Hitem:4322::::::::32::::1:3524:::::|h[Enchanter's Cowl]|h|r Your Mats",
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						4, -- [3]
+						51, -- [3]
 						52, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315161,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:52:24]|h|r You loot 76 Copper",
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1959385.177,
+					["serverTime"] = 1693727543,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:52:26]|h|r You loot 46 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1959387.282,
+					["serverTime"] = 1693727545,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:52:40]|h|r Silverwing Warrior attempts to run away in fear!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1959400.91,
+					["serverTime"] = 1693727559,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						51, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:52:41]|h|r Silverwing Sentinel attempts to run away in fear!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1959402.536,
+					["serverTime"] = 1693727560,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						51, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:01]|h|r Silverwing Sentinel attempts to run away in fear!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1959421.98,
+					["serverTime"] = 1693727580,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						51, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:02]|h|r Silverwing Warrior attempts to run away in fear!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1959423.6,
+					["serverTime"] = 1693727581,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						51, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:06]|h|r You loot 55 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1959426.741,
+					["serverTime"] = 1693727585,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:07]|h|r You receive loot: |cff9d9d9d|Hitem:1819::::::::24:::::::::|h[Gouging Pick]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1959427.964,
+					["serverTime"] = 1693727586,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:08]|h|r You loot 49 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1959428.992,
+					["serverTime"] = 1693727587,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:16]|h|r Your skill in Defense has increased to 87.",
+					["b"] = 1,
+					["r"] = 0.3333333432674408,
+					["g"] = 0.3333333432674408,
+					["timestamp"] = 1959436.963,
+					["serverTime"] = 1693727595,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						58, -- [3]
+						59, -- [4]
+						["n"] = 4,
+					},
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:26]|h|r Your skill in Defense has increased to 88.",
+					["b"] = 1,
+					["r"] = 0.3333333432674408,
+					["g"] = 0.3333333432674408,
+					["timestamp"] = 1959447.151,
+					["serverTime"] = 1693727605,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						58, -- [3]
+						59, -- [4]
+						["n"] = 4,
+					},
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:35]|h|r Your skill in Defense has increased to 89.",
+					["b"] = 1,
+					["r"] = 0.3333333432674408,
+					["g"] = 0.3333333432674408,
+					["timestamp"] = 1959456.421,
+					["serverTime"] = 1693727614,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						58, -- [3]
+						59, -- [4]
+						["n"] = 4,
+					},
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:35]|h|r |Hplayer:Durthal|h[Durthal]|h has died at level 24 while in Silverwing Outpost, slain by: Silverwing Warrior.",
+					["b"] = 0.02745098248124123,
+					["r"] = 0.8588235974311829,
+					["g"] = 0.02745098248124123,
+					["timestamp"] = 1959456.528,
+					["serverTime"] = 1693727614,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						66, -- [3]
+						67, -- [4]
+						["n"] = 4,
+					},
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:42]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Shaikabank-Stitches:487:GUILD|h|cff8b8b8b1|r:|cffff7c0aShaikabank|r|h|cffd8d8d8]|r: noooo",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1959463.463,
+					["serverTime"] = 1693727621,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						68, -- [4]
+						["n"] = 4,
+					},
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:43]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kossu-Stitches:488:GUILD|h|cffd84e4e31|r:|cff0070ddKossu|r|h|cffd8d8d8]|r: F",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1959463.929,
+					["serverTime"] = 1693727622,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:44]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Shaikabank-Stitches:489:GUILD|h|cff8b8b8b1|r:|cffff7c0aShaikabank|r|h|cffd8d8d8]|r: RIP :(",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1959464.985,
+					["serverTime"] = 1693727623,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						68, -- [4]
+						["n"] = 4,
+					},
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:45]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Huckter-Stitches:491:GUILD|h|cff65b26519|r:|cffaad372Huckter|r|h|cffd8d8d8]|r: RIP :/",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1959466.611,
+					["serverTime"] = 1693727624,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:46]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Møjn-Stitches:492:GUILD|h|cff8b8b8b13|r:|cffff7c0aMøjn|r|h|cffd8d8d8]|r: :<",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1959467.299,
+					["serverTime"] = 1693727625,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						46, -- [4]
+						["n"] = 4,
+					},
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:53:48]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Durthal-Stitches:493:GUILD|h|cffd8d83f24|r:|cffaad372Durthal|r|h|cffd8d8d8]|r: %^&*",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1959469.342,
+					["serverTime"] = 1693727627,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						69, -- [4]
+						["n"] = 4,
+					},
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:54:06]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Huckter-Stitches:497:GUILD|h|cff65b26519|r:|cffaad372Huckter|r|h|cffd8d8d8]|r: Was that the escort quest?",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1959487.015,
+					["serverTime"] = 1693727645,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:54:09]|h|r Splintertree Raider becomes enraged!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1959490.239,
+					["serverTime"] = 1693727648,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						51, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:54:10]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Durthal-Stitches:499:GUILD|h|cffd8d83f24|r:|cffaad372Durthal|r|h|cffd8d8d8]|r: yeah",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1959490.997,
+					["serverTime"] = 1693727649,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						69, -- [4]
+						["n"] = 4,
+					},
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:54:20]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Bubulina-Stitches:503:GUILD|h|cff8b8b8b8|r:|cffc69b6dBubulina|r|h|cffd8d8d8]|r: :'(",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1959501.24,
+					["serverTime"] = 1693727659,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						70, -- [4]
+						["n"] = 4,
+					},
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:55:02]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Durthal-Stitches:525:GUILD|h|cffd8d83f24|r:|cffaad372Durthal|r|h|cffd8d8d8]|r: :(",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1959543.11,
+					["serverTime"] = 1693727701,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						69, -- [4]
+						["n"] = 4,
+					},
+				}, -- [30]
+				{
+					["message"] = "Sun Sep 03 08:55 end of tracking (logout)",
+					["r"] = 0,
+					["timestamp"] = 1959547.418,
+					["g"] = 0,
+					["b"] = 1,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:08:49]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Orgrimmar]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1956770.497,
+					["serverTime"] = 1693724928,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:08:57]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Feralheist:34:CHANNEL:2|h|cffc69b6dFeralheist|r|h|cffd8d8d8]|r: LFG Deadmines, Warrior",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1956778.465,
+					["serverTime"] = 1693724936,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						4, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:09:03]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Ængel-Stitches:35:CHANNEL:2|h|cff8787edÆngel|r|h|cffd8d8d8]|r: LFM RFC Tank/Heal",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1956783.782,
+					["serverTime"] = 1693724942,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						4, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:09:06]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Kenoô:36:CHANNEL:2|h|cffaad372Kenoô|r|h|cffd8d8d8]|r: 21 HUNT LFG WC",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1956787.388,
+					["serverTime"] = 1693724945,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						4, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:09:32]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Posfifo:42:CHANNEL:2|h|cfffff468Posfifo|r|h|cffd8d8d8]|r: Hi",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1956812.957,
+					["serverTime"] = 1693724971,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						4, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:09:37]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Azshara]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1956818.42,
+					["serverTime"] = 1693724976,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:09:37]|h|r |Hchannel:channel:2|h[2] |h Left Channel: |Hchannel:CHANNEL:2|h[2. Trade - City]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1956818.42,
+					["serverTime"] = 1693724976,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						4, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:09:37]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Azshara]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1956818.42,
+					["serverTime"] = 1693724976,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:09:59]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Ashenvale]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1956839.869,
+					["serverTime"] = 1693724998,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						25, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:09:59]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Ashenvale]|h",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1956839.869,
+					["serverTime"] = 1693724998,
+					["extraData"] = {
+						71, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:10:55]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Møjn:50:CHANNEL:4|h|cff8b8b8b13|r:|cffff7c0aMøjn|r|h|cffd8d8d8]|r: joined channel.",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1956896.383,
+					["serverTime"] = 1693725054,
+					["extraData"] = {
+						72, -- [1]
+						false, -- [2]
+						1, -- [3]
+						39, -- [4]
+						["n"] = 4,
+					},
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:12:18]|h|r Quest accepted: Warsong Supplies",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1956979.324,
+					["serverTime"] = 1693725137,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:12:23]|h|r Quest accepted: Ashenvale Outrunners",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1956984.64,
+					["serverTime"] = 1693725142,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:12:59]|h|r You loot 32 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957019.738,
+					["serverTime"] = 1693725178,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:13:06]|h|r Discovered The Dor'Danil Barrow Den: 235 experience gained",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957026.688,
+					["serverTime"] = 1693725185,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:13:31]|h|r You receive loot: |cffffffff|Hitem:4306::::::::24:::::::::|h[Silk Cloth]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1957052.241,
+					["serverTime"] = 1693725210,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:13:32]|h|r You loot 29 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957053.277,
+					["serverTime"] = 1693725211,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:14:15]|h|r You loot 70 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957096.488,
+					["serverTime"] = 1693725254,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:15:25]|h|r You loot 61 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957166.008,
+					["serverTime"] = 1693725324,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:16:32]|h|r You loot 72 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957233.591,
+					["serverTime"] = 1693725391,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:17:18]|h|r You receive loot: |cff9d9d9d|Hitem:3669::::::::24:::::::::|h[Gelatinous Goo]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1957279.519,
+					["serverTime"] = 1693725437,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:17:20]|h|r You receive loot: |cffffffff|Hitem:4538::::::::24:::::::::|h[Snapvine Watermelon]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1957281.409,
+					["serverTime"] = 1693725439,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:17:21]|h|r You loot 90 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957282.472,
+					["serverTime"] = 1693725440,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
 				}, -- [54]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:30]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sybreed-Stitches:98:CHANNEL:2|h|cff8787edSybreed|r|h|cffd8d8d8]|r: Lock 21 LF WC",
+					["message"] = "|cff979797|Hpratcopy|h[08:17:29]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Møjn-Stitches:108:GUILD|h|cff8b8b8b13|r:|cffff7c0aMøjn|r|h|cffd8d8d8]|r: oof",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1957290.255,
+					["serverTime"] = 1693725448,
 					["extraData"] = {
-						70, -- [1]
+						5, -- [1]
 						false, -- [2]
-						4, -- [3]
-						27, -- [4]
+						45, -- [3]
+						46, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315169,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
 				}, -- [55]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:30]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sybreed-Stitches:99:CHANNEL:2|h|cff8787edSybreed|r|h|cffd8d8d8]|r: Lock 21 LF WC",
+					["message"] = "|cff979797|Hpratcopy|h[08:17:42]|h|r You feel normal.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957303.07,
+					["serverTime"] = 1693725461,
 					["extraData"] = {
-						70, -- [1]
+						1, -- [1]
 						false, -- [2]
-						4, -- [3]
-						27, -- [4]
+						17, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315169,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
 				}, -- [56]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:31]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Tildoss-Stitches:100:CHANNEL:2|h|cff0070ddTildoss|r|h|cffd8d8d8]|r: WTS |cff1eff00|Hitem:4379::::::::17::::1:3524:::::|h[Fusil plaqué argent]|h|r /w me with price :)",
+					["message"] = "|cff979797|Hpratcopy|h[08:17:46]|h|r You loot 48 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957306.878,
+					["serverTime"] = 1693725465,
 					["extraData"] = {
-						70, -- [1]
+						29, -- [1]
 						false, -- [2]
-						4, -- [3]
-						17, -- [4]
+						41, -- [3]
+						42, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315170,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
 				}, -- [57]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:32]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Matlaku:101:CHANNEL:2|h|cffc69b6dMatlaku|r|h|cffd8d8d8]|r: wts |cff1eff00|Hitem:4564::::::1180:914943104:9:::::::::|h[Spiked Club of the Bear]|h|r 7s",
+					["message"] = "|cff979797|Hpratcopy|h[08:17:46]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Møjn-Stitches:112:GUILD|h|cff8b8b8b13|r:|cffff7c0aMøjn|r|h|cffd8d8d8]|r: a lot of 30+ dieing",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1957307.247,
+					["serverTime"] = 1693725465,
 					["extraData"] = {
-						70, -- [1]
+						5, -- [1]
 						false, -- [2]
-						4, -- [3]
-						54, -- [4]
+						45, -- [3]
+						46, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315171,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
 				}, -- [58]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:32]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Quiinn:102:CHANNEL:2|h|cff3fc6eaQuiinn|r|h|cffd8d8d8]|r: Quiinn's Quilting is back in Orgrimmar! Selling pre-made |cffffffff|Hitem:4238::::::::18:::::::::|h[Linen Bag]|h|r, 4s per bag or 4 for 12s! /w me if interested!",
+					["message"] = "|cff979797|Hpratcopy|h[08:19:09]|h|r You receive loot: |cffffffff|Hitem:2592::::::::24:::::::::|h[Wool Cloth]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1957390.212,
+					["serverTime"] = 1693725548,
 					["extraData"] = {
-						70, -- [1]
+						28, -- [1]
 						false, -- [2]
-						4, -- [3]
-						56, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315171,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
 				}, -- [59]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:35]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Scotlant-Stitches:103:CHANNEL:2|h|cffff7c0aScotlant|r|h|cffd8d8d8]|r: LF Tank RFC! /w me",
+					["message"] = "|cff979797|Hpratcopy|h[08:19:10]|h|r You loot 64 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957391.289,
+					["serverTime"] = 1693725549,
 					["extraData"] = {
-						70, -- [1]
+						29, -- [1]
 						false, -- [2]
-						4, -- [3]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:19:40]|h|r You loot 80 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957421.609,
+					["serverTime"] = 1693725579,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:20:05]|h|r Your Darkspear Trolls reputation has increased by 100.",
+					["b"] = 1,
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1957446.599,
+					["serverTime"] = 1693725604,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						47, -- [3]
 						48, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315174,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
-				}, -- [60]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:35]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Дирижаблик-Stitches:104:CHANNEL:2|h|cfffff468Дирижаблик|r|h|cffd8d8d8]|r: LF RFC only tank/last slot",
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						4, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315174,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
-				}, -- [61]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:41]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Хастон:105:CHANNEL:2|h|cff0070ddХастон|r|h|cffd8d8d8]|r: RFK tank dd 30+ fast push",
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						4, -- [3]
-						58, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315180,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
 				}, -- [62]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:42]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Lollock:107:CHANNEL:2|h|cff8787edLollock|r|h|cffd8d8d8]|r: WTS |cff1eff00|Hitem:8178::::::1012:2098759680:9:::::::::|h[Training Sword of the Whale]|h|r",
+					["message"] = "|cff979797|Hpratcopy|h[08:20:05]|h|r Ashenvale Outrunners completed.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957446.648,
+					["serverTime"] = 1693725604,
 					["extraData"] = {
-						70, -- [1]
+						1, -- [1]
 						false, -- [2]
-						4, -- [3]
-						60, -- [4]
+						17, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1693315181,
-					["timestamp"] = 1547047.823,
-					["g"] = 0.7529412508010864,
-					["r"] = 1,
 				}, -- [63]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:51]|h|r Guild Message of the Day: only dumb%^&*s go to skull rock",
-					["serverTime"] = 1693315220,
-					["r"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
-					["timestamp"] = 1547047.823,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[08:20:05]|h|r Experience gained: 1950.",
+					["b"] = 0,
+					["r"] = 1,
 					["g"] = 1,
+					["timestamp"] = 1957446.648,
+					["serverTime"] = 1693725604,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
 				}, -- [64]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:52]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Shaikara-Stitches:109:GUILD|h|cffd8d83f17|r:|cfffff468Shaikara|r|h|cffd8d8d8]|r: this deed is sure to give me good karma",
+					["message"] = "|cff979797|Hpratcopy|h[08:20:07]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kossu:139:GUILD|h|cffd84e4e31|r:|cff0070ddKossu|r|h|cffd8d8d8]|r: STV feels safe because the mobs have basically no abilities and there seems to be a lot of space to escape into",
 					["b"] = 0.250980406999588,
 					["r"] = 0.250980406999588,
 					["g"] = 1,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315191,
+					["timestamp"] = 1957448.031,
+					["serverTime"] = 1693725606,
 					["extraData"] = {
 						5, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						45, -- [3]
+						49, -- [4]
 						["n"] = 4,
 					},
 				}, -- [65]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:52]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Asver-Stitches:111:CHANNEL:2|h|cffaad372Asver|r|h|cffd8d8d8]|r: LF Heal RFC last spot",
-					["b"] = 0.7529412508010864,
-					["r"] = 1,
-					["g"] = 0.7529412508010864,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315191,
+					["message"] = "|cff979797|Hpratcopy|h[08:20:21]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kossu-Stitches:140:GUILD|h|cffd84e4e31|r:|cff0070ddKossu|r|h|cffd8d8d8]|r: but it's easy to pull extras and then have no where to run except more mobs",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1957462.382,
+					["serverTime"] = 1693725620,
 					["extraData"] = {
-						70, -- [1]
+						5, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						45, -- [3]
+						49, -- [4]
 						["n"] = 4,
 					},
 				}, -- [66]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:52]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Omegon-Stitches:112:CHANNEL:2|h|cffaad372Omegon|r|h|cffd8d8d8]|r: wts Minor Wizard Oil",
-					["b"] = 0.7529412508010864,
-					["r"] = 1,
-					["g"] = 0.7529412508010864,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315191,
+					["message"] = "|cff979797|Hpratcopy|h[08:21:15]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Huckter:174:GUILD|h|cff65b26518|r:|cffaad372Huckter|r|h|cffd8d8d8]|r: That one died to the elite ogres though",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1957515.748,
+					["serverTime"] = 1693725674,
 					["extraData"] = {
-						70, -- [1]
+						5, -- [1]
 						false, -- [2]
-						3, -- [3]
-						6, -- [4]
+						45, -- [3]
+						50, -- [4]
 						["n"] = 4,
 					},
 				}, -- [67]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:52]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Kliskarn-Stitches:113:CHANNEL:2|h|cffff7c0aKliskarn|r|h|cffd8d8d8]|r: 26 healer LFG SFK",
-					["b"] = 0.7529412508010864,
-					["r"] = 1,
-					["g"] = 0.7529412508010864,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315191,
+					["message"] = "|cff979797|Hpratcopy|h[08:21:22]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Huckter-Stitches:175:GUILD|h|cff65b26518|r:|cffaad372Huckter|r|h|cffd8d8d8]|r: Possibly in a cave!",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1957522.892,
+					["serverTime"] = 1693725681,
 					["extraData"] = {
-						70, -- [1]
+						5, -- [1]
 						false, -- [2]
-						3, -- [3]
-						8, -- [4]
+						45, -- [3]
+						50, -- [4]
 						["n"] = 4,
 					},
 				}, -- [68]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:53]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Wildgaze:115:CHANNEL:2|h|cffc69b6dWildgaze|r|h|cffd8d8d8]|r: LF RFC im lvl 16 dps war",
-					["b"] = 0.7529412508010864,
-					["r"] = 1,
-					["g"] = 0.7529412508010864,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315192,
+					["message"] = "|cff979797|Hpratcopy|h[08:21:42]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Huckter-Stitches:177:GUILD|h|cff65b26518|r:|cffaad372Huckter|r|h|cffd8d8d8]|r: Theres always room to make bad decisions",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1957542.869,
+					["serverTime"] = 1693725701,
 					["extraData"] = {
-						70, -- [1]
+						5, -- [1]
 						false, -- [2]
-						3, -- [3]
-						10, -- [4]
+						45, -- [3]
+						50, -- [4]
 						["n"] = 4,
 					},
 				}, -- [69]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:53]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Payakán:116:CHANNEL:2|h|cffaad372Payakán|r|h|cffd8d8d8]|r: WTS |cffffffff|Hitem:6447::::::::19:::::::::|h[Abgenutzter Schildkrötenpanzer-Schild]|h|r",
-					["b"] = 0.7529412508010864,
+					["message"] = "|cff979797|Hpratcopy|h[08:23:17]|h|r Silverwing Sentinel attempts to run away in fear!",
+					["b"] = 0.250980406999588,
 					["r"] = 1,
-					["g"] = 0.7529412508010864,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315192,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1957638.314,
+					["serverTime"] = 1693725796,
 					["extraData"] = {
-						70, -- [1]
+						17, -- [1]
 						false, -- [2]
-						3, -- [3]
-						12, -- [4]
+						51, -- [3]
+						52, -- [4]
 						["n"] = 4,
 					},
 				}, -- [70]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:54]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Apprehension-Stitches:120:GUILD|h|cff8b8b8b5|r:|cff8787edApprehension|r|h|cffd8d8d8]|r: Whats the matter with this karma thing?",
+					["message"] = "|cff979797|Hpratcopy|h[08:23:35]|h|r Silverwing Sentinel attempts to run away in fear!",
 					["b"] = 0.250980406999588,
-					["r"] = 0.250980406999588,
-					["g"] = 1,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315193,
+					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1957656.125,
+					["serverTime"] = 1693725814,
 					["extraData"] = {
-						5, -- [1]
+						17, -- [1]
 						false, -- [2]
-						1, -- [3]
-						14, -- [4]
+						51, -- [3]
+						52, -- [4]
 						["n"] = 4,
 					},
 				}, -- [71]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:55]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Дирижаблик-Stitches:121:CHANNEL:2|h|cfffff468Дирижаблик|r|h|cffd8d8d8]|r: LF RFC only tank/last slot",
-					["b"] = 0.7529412508010864,
-					["r"] = 1,
-					["g"] = 0.7529412508010864,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315194,
+					["message"] = "|cff979797|Hpratcopy|h[08:23:37]|h|r You receive loot: |cffffffff|Hitem:4306::::::::24:::::::::|h[Silk Cloth]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1957657.661,
+					["serverTime"] = 1693725816,
 					["extraData"] = {
-						70, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						15, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
 				}, -- [72]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:01]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Хастон-Stitches:130:CHANNEL:2|h|cff0070ddХастон|r|h|cffd8d8d8]|r: RFK tank dd 30+ fast push",
-					["b"] = 0.7529412508010864,
+					["message"] = "|cff979797|Hpratcopy|h[08:23:38]|h|r You loot 50 Copper",
+					["b"] = 0,
 					["r"] = 1,
-					["g"] = 0.7529412508010864,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315200,
+					["g"] = 1,
+					["timestamp"] = 1957658.745,
+					["serverTime"] = 1693725817,
 					["extraData"] = {
-						70, -- [1]
+						29, -- [1]
 						false, -- [2]
-						3, -- [3]
-						17, -- [4]
+						41, -- [3]
+						42, -- [4]
 						["n"] = 4,
 					},
 				}, -- [73]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:04]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Asver-Stitches:135:CHANNEL:2|h|cffaad372Asver|r|h|cffd8d8d8]|r: LF Heal RFC last spot",
-					["b"] = 0.7529412508010864,
-					["r"] = 1,
-					["g"] = 0.7529412508010864,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315203,
+					["message"] = "|cff979797|Hpratcopy|h[08:23:38]|h|r You receive loot: |cffffffff|Hitem:2592::::::::24:::::::::|h[Wool Cloth]|h|rx2.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1957659.524,
+					["serverTime"] = 1693725817,
 					["extraData"] = {
-						70, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
 				}, -- [74]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:08]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sorannjr:138:CHANNEL:2|h|cffffffffSorannjr|r|h|cffd8d8d8]|r: Hello ! Tailoring (150) crafting bags (10 slots) & co and Enchant (90) crafting your wands or anything ! Tips are appreciated ! [Org]",
-					["b"] = 0.7529412508010864,
+					["message"] = "|cff979797|Hpratcopy|h[08:23:39]|h|r You loot 65 Copper",
+					["b"] = 0,
 					["r"] = 1,
-					["g"] = 0.7529412508010864,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315207,
+					["g"] = 1,
+					["timestamp"] = 1957660.601,
+					["serverTime"] = 1693725818,
 					["extraData"] = {
-						70, -- [1]
+						29, -- [1]
 						false, -- [2]
-						3, -- [3]
-						19, -- [4]
+						41, -- [3]
+						42, -- [4]
 						["n"] = 4,
 					},
 				}, -- [75]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:10]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Omegon-Stitches:139:CHANNEL:2|h|cffaad372Omegon|r|h|cffd8d8d8]|r: wts |cffffffff|Hitem:20744::::::::23:::::::::|h[Minor Wizard Oil]|h|r",
-					["b"] = 0.7529412508010864,
+					["message"] = "|cff979797|Hpratcopy|h[08:27:21]|h|r Laughing Sister attempts to run away in fear!",
+					["b"] = 0.250980406999588,
 					["r"] = 1,
-					["g"] = 0.7529412508010864,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315209,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 1957882.644,
+					["serverTime"] = 1693726040,
 					["extraData"] = {
-						70, -- [1]
+						17, -- [1]
 						false, -- [2]
-						3, -- [3]
-						6, -- [4]
+						51, -- [3]
+						52, -- [4]
 						["n"] = 4,
 					},
 				}, -- [76]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:13]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Shaikara-Stitches:147:GUILD|h|cffd8d83f17|r:|cfffff468Shaikara|r|h|cffd8d8d8]|r: last time I helped someone, a |cff1eff00|Hitem:15494::::::1181:106195712:17:::::::::|h[Bloodspattered Shield of the Bear]|h|r dropped a few kills after",
-					["b"] = 0.250980406999588,
-					["r"] = 0.250980406999588,
-					["g"] = 1,
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315212,
+					["message"] = "|cff979797|Hpratcopy|h[08:27:25]|h|r You receive loot: |cffffffff|Hitem:16645::::::::24:::::::::|h[Shredder Operating Manual - Page 1]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1957885.847,
+					["serverTime"] = 1693726044,
 					["extraData"] = {
-						5, -- [1]
+						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
 				}, -- [77]
 				{
-					["message"] = "0 days, 0 hours, 0 minutes, 8 seconds",
-					["timestamp"] = 1547047.823,
+					["message"] = "|cff979797|Hpratcopy|h[08:27:26]|h|r You loot 58 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1957886.91,
+					["serverTime"] = 1693726045,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
 				}, -- [78]
 				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 1547047.823,
+					["message"] = "|cff979797|Hpratcopy|h[08:30:57]|h|r You loot 70 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1958098.258,
+					["serverTime"] = 1693726256,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
 				}, -- [79]
 				{
-					["message"] = "|Hbuggrabber:Durthal:000001BB29142360:|h|cffff0000[Error 000001BB29142360]|r|h |cffffff00captured, click the link for more information.|r",
-					["timestamp"] = 1547047.823,
+					["message"] = "|cff979797|Hpratcopy|h[08:31:20]|h|r You loot 20 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1958120.906,
+					["serverTime"] = 1693726279,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
 				}, -- [80]
 				{
-					["message"] = "|cff33ff99ArkInventory|r: Loading Connected Realm (EU) Data",
-					["timestamp"] = 1547047.823,
+					["message"] = "|cff979797|Hpratcopy|h[08:31:44]|h|r You receive loot: |cffffffff|Hitem:5867::::::::24:::::::::|h[Etched Phial]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958145.222,
+					["serverTime"] = 1693726303,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
 				}, -- [81]
 				{
-					["message"] = "|Hbuggrabber:Durthal:000001BB291423B0:|h|cffff0000[Error 000001BB291423B0]|r|h |cffffff00captured, click the link for more information.|r",
-					["timestamp"] = 1547047.823,
+					["message"] = "|cff979797|Hpratcopy|h[08:31:45]|h|r You loot 1 Silver, 10 Copper",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1958146.264,
+					["serverTime"] = 1693726304,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						41, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
 				}, -- [82]
 				{
-					["message"] = "|Hbuggrabber:Durthal:000001BB29142400:|h|cffff0000[Error 000001BB29142400]|r|h |cffffff00captured, click the link for more information.|r",
-					["timestamp"] = 1547047.823,
+					["message"] = "|cff979797|Hpratcopy|h[08:32:15]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Wolfofwall:306:CHANNEL:4|h|cff8b8b8b1|r:|cffc69b6dWolfofwall|r|h|cffd8d8d8]|r: joined channel.",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1958176.382,
+					["serverTime"] = 1693726334,
+					["extraData"] = {
+						72, -- [1]
+						false, -- [2]
+						1, -- [3]
+						53, -- [4]
+						["n"] = 4,
+					},
 				}, -- [83]
 				{
-					["message"] = "|Hbuggrabber:Durthal:000001BB29142450:|h|cffff0000[Error 000001BB29142450]|r|h |cffffff00captured, click the link for more information.|r",
-					["timestamp"] = 1547047.823,
+					["message"] = "|cff979797|Hpratcopy|h[08:33:32]|h|r You receive item: |cffffffff|Hitem:5868::::::::24:::::::::|h[Filled Etched Phial]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958253.48,
+					["serverTime"] = 1693726411,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
 				}, -- [84]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:18]|h|r |cff30fc96Questie|r: |cff00bc32Hiding drop-down menus on the World Map.|r This is currently necessary as a workaround for a bug in the default Blizzard UI related to drop-down menus.",
-					["timestamp"] = 1547047.823,
+					["message"] = "|cff979797|Hpratcopy|h[08:34:50]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Shaikara:338:CHANNEL:4|h|cffd8d83f25|r:|cfffff468Shaikara|r|h|cffd8d8d8]|r: joined channel.",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1958331.136,
+					["serverTime"] = 1693726489,
+					["extraData"] = {
+						72, -- [1]
+						false, -- [2]
+						1, -- [3]
+						55, -- [4]
+						["n"] = 4,
+					},
 				}, -- [85]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:19]|h|r |cffCC33FFTodoChecklister|r You have no pending tasks.",
-					["timestamp"] = 1547047.823,
+					["message"] = "|cff979797|Hpratcopy|h[08:34:57]|h|r Discovered Mystral Lake: 200 experience gained",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1958337.89,
+					["serverTime"] = 1693726496,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
 				}, -- [86]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:21]|h|r Guild Message of the Day: only dumb!@#$s go to skull rock",
+					["message"] = "|cff979797|Hpratcopy|h[08:35:24]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Shaikara-Stitches:344:GUILD|h|cffd8d83f25|r:|cfffff468Shaikara|r|h|cffd8d8d8]|r: morning",
+					["b"] = 0.250980406999588,
 					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1958364.951,
+					["serverTime"] = 1693726523,
 					["extraData"] = {
 						5, -- [1]
-						["n"] = 1,
+						false, -- [2]
+						45, -- [3]
+						57, -- [4]
+						["n"] = 4,
 					},
-					["timestamp"] = 1547047.823,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
 				}, -- [87]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:21]|h|r |cff33ff99ArkInventory|r: Rules Enabled",
-					["timestamp"] = 1547047.823,
+					["message"] = "|cff979797|Hpratcopy|h[08:35:28]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Kossu-Stitches:348:GUILD|h|cffd84e4e31|r:|cff0070ddKossu|r|h|cffd8d8d8]|r: 'ello",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1958368.794,
+					["serverTime"] = 1693726527,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
 				}, -- [88]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:22]|h|r |cff33ff99ArkInventory|r: v31016 [Classic] Enabled",
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315221,
+					["message"] = "|cff979797|Hpratcopy|h[08:35:30]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Møjn-Stitches:349:GUILD|h|cff8b8b8b13|r:|cffff7c0aMøjn|r|h|cffd8d8d8]|r: mojn",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1958371.525,
+					["serverTime"] = 1693726529,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						46, -- [4]
+						["n"] = 4,
+					},
 				}, -- [89]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:22]|h|r Distance set to: 80",
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315221,
+					["message"] = "|cff979797|Hpratcopy|h[08:35:41]|h|r Your skill in Defense has increased to 86.",
+					["b"] = 1,
+					["r"] = 0.3333333432674408,
+					["g"] = 0.3333333432674408,
+					["timestamp"] = 1958382.22,
+					["serverTime"] = 1693726540,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						58, -- [3]
+						59, -- [4]
+						["n"] = 4,
+					},
 				}, -- [90]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:22]|h|r |cff9900ffWeakAuras:|r  Aura 'Soul Shards Bar - Not's mod': This aura has caused a Lua error.\nInstall the addons BugSack and BugGrabber for detailed error logs.",
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315221,
+					["message"] = "|cff979797|Hpratcopy|h[08:35:46]|h|r Your skill in Two-Handed Swords has increased to 29.",
+					["b"] = 1,
+					["r"] = 0.3333333432674408,
+					["g"] = 0.3333333432674408,
+					["timestamp"] = 1958387.05,
+					["serverTime"] = 1693726545,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						58, -- [3]
+						59, -- [4]
+						["n"] = 4,
+					},
 				}, -- [91]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:22]|h|r |cff9900ffWeakAuras:|r  Aura 'Power Bar': This aura has caused a Lua error.\nInstall the addons BugSack and BugGrabber for detailed error logs.",
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315221,
+					["message"] = "|cff979797|Hpratcopy|h[08:35:49]|h|r Your skill in Two-Handed Swords has increased to 30.",
+					["b"] = 1,
+					["r"] = 0.3333333432674408,
+					["g"] = 0.3333333432674408,
+					["timestamp"] = 1958390.393,
+					["serverTime"] = 1693726548,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						58, -- [3]
+						59, -- [4]
+						["n"] = 4,
+					},
 				}, -- [92]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:22]|h|r MoLib embedded in WhoTracker / WhoTracker v3.2.2-classic / 1 running on WoW classic v1.14.4-51056",
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315221,
+					["message"] = "|cff979797|Hpratcopy|h[08:35:52]|h|r Your skill in Two-Handed Swords has increased to 31.",
+					["b"] = 1,
+					["r"] = 0.3333333432674408,
+					["g"] = 0.3333333432674408,
+					["timestamp"] = 1958393.263,
+					["serverTime"] = 1693726551,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						58, -- [3]
+						59, -- [4]
+						["n"] = 4,
+					},
 				}, -- [93]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:22]|h|r WhoTracker is paused.  /wt resume or /wt query [query] to resume.",
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315221,
+					["message"] = "|cff979797|Hpratcopy|h[08:36:06]|h|r You receive loot: |cffffffff|Hitem:9451::::::::24:::::::::|h[Bubbling Water]|h|rx2.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958407.564,
+					["serverTime"] = 1693726565,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
 				}, -- [94]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:22]|h|r |cffffd700Titan Panel Classic|r|cff19ff19 1.3.3.11404|r|cffffd700|cffffd700 by the |cffff8c00Titan Panel Development Team|r|cff19ff19|r",
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315221,
+					["message"] = "|cff979797|Hpratcopy|h[08:36:06]|h|r You receive loot: |cffffffff|Hitem:7070::::::::24:::::::::|h[Elemental Water]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958407.564,
+					["serverTime"] = 1693726565,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
 				}, -- [95]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:22]|h|r |cffffd700Titan: |r|r|cff19ff19Register Titan Panel Classic plugins...|r",
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315221,
+					["message"] = "|cff979797|Hpratcopy|h[08:36:13]|h|r You receive loot: |cff9d9d9d|Hitem:5451::::::::24:::::::::|h[Crushed Elemental Bracer]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958414.159,
+					["serverTime"] = 1693726572,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
 				}, -- [96]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:22]|h|r |cffffd700Titan: |r|r|cff19ff19Registration process done. 35|r",
-					["timestamp"] = 1547047.823,
-					["serverTime"] = 1693315221,
+					["message"] = "|cff979797|Hpratcopy|h[08:36:53]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Huckter-Stitches:368:GUILD|h|cff65b26519|r:|cffaad372Huckter|r|h|cffd8d8d8]|r: o/",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 1958454.535,
+					["serverTime"] = 1693726612,
+					["extraData"] = {
+						5, -- [1]
+						false, -- [2]
+						45, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
 				}, -- [97]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:22]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Shaikara-Stitches:153:GUILD|h|cffd8d83f17|r:|cfffff468Shaikara|r|h|cffd8d8d8]|r: surely it will happen again :D",
-					["serverTime"] = 1693315221,
-					["r"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[08:38:29]|h|r You receive loot: |cff1eff00|Hitem:16408::::::::24:::::::::|h[Befouled Water Globe]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958549.871,
+					["serverTime"] = 1693726708,
 					["extraData"] = {
-						5, -- [1]
+						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547056.547,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
 				}, -- [98]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:22]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Mindblastt-Stitches:154:CHANNEL:2|h|cffffffffMindblastt|r|h|cffd8d8d8]|r: LF Tank RFC last spot",
-					["serverTime"] = 1693315221,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547056.547,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["message"] = "|cff979797|Hpratcopy|h[08:38:29]|h|r |cff33ff99Questie|r: You picked up |cff1eff00|Hitem:16408::::::::24:::::::::|h[Befouled Water Globe]|h|r which starts |Hquestie:1918:Player-5220-01A70E4E|h|cFFFF8040[|r|cFFFF8040[27] The Befouled Element|r|cFFFF8040]|r|h!",
+					["timestamp"] = 1958549.871,
+					["serverTime"] = 1693726708,
 				}, -- [99]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:22]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Hublug-Stitches:155:CHANNEL:2|h|cffaad372Hublug|r|h|cffd8d8d8]|r: NEED ALL FOR RFC",
-					["serverTime"] = 1693315221,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[08:38:29]|h|r You receive loot: |cffffffff|Hitem:9451::::::::24:::::::::|h[Bubbling Water]|h|rx3.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958549.871,
+					["serverTime"] = 1693726708,
 					["extraData"] = {
-						70, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						6, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547056.547,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [100]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:23]|h|r |cff33ff99ArkInventory|r: English (US) translations - attempt 1 of 5.",
-					["timestamp"] = 1547056.547,
-					["serverTime"] = 1693315222,
+					["message"] = "|cff979797|Hpratcopy|h[08:38:36]|h|r You receive loot: |cff9d9d9d|Hitem:5447::::::::24:::::::::|h[Damaged Elemental Bracer]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958557.403,
+					["serverTime"] = 1693726715,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
 				}, -- [101]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:23]|h|r |cff33ff99ArkInventory|r: English (US) translations successfully loaded.",
-					["timestamp"] = 1547056.547,
-					["serverTime"] = 1693315222,
+					["message"] = "|cff979797|Hpratcopy|h[08:38:41]|h|r Quest accepted: The Befouled Element",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1958562.539,
+					["serverTime"] = 1693726720,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
 				}, -- [102]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:23]|h|r |cff30fc96Questie|r: |cffff0000Please note:|r One of the next Questie releases will reset your settings. We advise you to backup your Questie related Saved Variables as a precaution. This can be done by creating a copy of the WTF folder of your WoW install.",
-					["timestamp"] = 1547056.696,
-					["serverTime"] = 1693315222,
+					["message"] = "|cff979797|Hpratcopy|h[08:39:04]|h|r You receive loot: |cff9d9d9d|Hitem:5446::::::::24:::::::::|h[Broken Elemental Bracer]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958584.951,
+					["serverTime"] = 1693726743,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
 				}, -- [103]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:23]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Tildoss-Stitches:169:CHANNEL:2|h|cff0070ddTildoss|r|h|cffd8d8d8]|r: WTS |cff1eff00|Hitem:4379::::::::17::::1:3524:::::|h[Fusil plaqué argent]|h|r /w me with price :)",
-					["serverTime"] = 1693315222,
+					["message"] = "|cff979797|Hpratcopy|h[08:39:08]|h|r Wolof has reached level 60!",
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1958588.71,
+					["serverTime"] = 1693726747,
 					["extraData"] = {
-						70, -- [1]
+						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						8, -- [4]
+						17, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547057.534,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [104]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:30]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Дирижаблик-Stitches:171:CHANNEL:2|h|cfffff468Дирижаблик|r|h|cffd8d8d8]|r: LF RFC only tank/last slot",
-					["serverTime"] = 1693315229,
+					["message"] = "|cff979797|Hpratcopy|h[08:39:21]|h|r Discovered Silverwind Refuge: 200 experience gained",
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1958602.31,
+					["serverTime"] = 1693726760,
 					["extraData"] = {
-						70, -- [1]
+						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						10, -- [4]
+						17, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547064.064,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [105]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:31]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Asver-Stitches:172:CHANNEL:2|h|cffaad372Asver|r|h|cffd8d8d8]|r: LF Heal RFC last spot",
-					["serverTime"] = 1693315230,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[08:39:51]|h|r You receive loot: |cffffffff|Hitem:16654::::::::24:::::::::|h[Shredder Operating Manual - Page 10]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958631.998,
+					["serverTime"] = 1693726790,
 					["extraData"] = {
-						70, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						12, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547064.8,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [106]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:32]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Galrokh:173:CHANNEL:2|h|cff3fc6eaGalrokh|r|h|cffd8d8d8]|r: mage lfg rfc",
-					["serverTime"] = 1693315231,
+					["message"] = "|cff979797|Hpratcopy|h[08:41:50]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Wolfofwall-Stitches:389:CHANNEL:4|h|cff8b8b8b1|r:|cffc69b6dWolfofwall|r|h|cffd8d8d8]|r: left channel.",
+					["b"] = 0.7529412508010864,
 					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1958750.983,
+					["serverTime"] = 1693726909,
 					["extraData"] = {
-						70, -- [1]
+						72, -- [1]
 						false, -- [2]
-						3, -- [3]
-						14, -- [4]
+						1, -- [3]
+						60, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547065.85,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [107]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:43]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Quiinn-Stitches:178:CHANNEL:2|h|cff3fc6eaQuiinn|r|h|cffd8d8d8]|r: Quiinn's Quilting is back in Orgrimmar! Selling pre-made |cffffffff|Hitem:4238::::::::18:::::::::|h[Linen Bag]|h|rs, 4s per bag or 4 for 12s! /w me if interested!",
-					["serverTime"] = 1693315242,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[08:41:57]|h|r You receive loot: |cffffffff|Hitem:7070::::::::24:::::::::|h[Elemental Water]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958758.003,
+					["serverTime"] = 1693726916,
 					["extraData"] = {
-						70, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						16, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547076.816,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [108]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:47]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Asver-Stitches:180:CHANNEL:2|h|cffaad372Asver|r|h|cffd8d8d8]|r: LF Heal RFC last spot",
-					["serverTime"] = 1693315246,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[08:42:30]|h|r You receive loot: |cff9d9d9d|Hitem:5448::::::::24:::::::::|h[Fractured Elemental Bracer]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958791.332,
+					["serverTime"] = 1693726949,
 					["extraData"] = {
-						70, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						12, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547081.36,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [109]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:55]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Durthal-Stitches:188:GUILD|h|cffd8d83f17|r:|cffaad372Durthal|r|h|cffd8d8d8]|r: does anyone have any recommendations for a better quest log frame ? Wide quest log seems borked",
-					["serverTime"] = 1693315254,
-					["r"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[08:43:03]|h|r You receive loot: |cff9d9d9d|Hitem:5446::::::::24:::::::::|h[Broken Elemental Bracer]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958823.702,
+					["serverTime"] = 1693726982,
 					["extraData"] = {
-						5, -- [1]
+						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						18, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547088.97,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
 				}, -- [110]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:02]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Omegon-Stitches:191:CHANNEL:2|h|cffaad372Omegon|r|h|cffd8d8d8]|r: wts |cffffffff|Hitem:20744::::::::23:::::::::|h[Minor Wizard Oil]|h|r, +3 str/stam on wrists, +2 damage to 1h wep (got mats for all)",
-					["serverTime"] = 1693315261,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[08:43:03]|h|r You receive loot: |cffffffff|Hitem:9451::::::::24:::::::::|h[Bubbling Water]|h|rx3.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958823.702,
+					["serverTime"] = 1693726982,
 					["extraData"] = {
-						70, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						19, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547096.269,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [111]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:07]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Дирижаблик-Stitches:194:CHANNEL:2|h|cfffff468Дирижаблик|r|h|cffd8d8d8]|r: LF RFC only tank/last slot",
-					["serverTime"] = 1693315266,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[08:43:19]|h|r You receive loot: |cffffffff|Hitem:16647::::::::24:::::::::|h[Shredder Operating Manual - Page 3]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958840.416,
+					["serverTime"] = 1693726998,
 					["extraData"] = {
-						70, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						10, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547101.21,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [112]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:08]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Zavina-Stitches:195:CHANNEL:2|h|cff3fc6eaZavina|r|h|cffd8d8d8]|r: lfm tank for wc /w me",
-					["serverTime"] = 1693315267,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[08:43:19]|h|r You receive loot: |cffffffff|Hitem:9451::::::::24:::::::::|h[Bubbling Water]|h|rx3.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958840.416,
+					["serverTime"] = 1693726998,
 					["extraData"] = {
-						70, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						21, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547102.137,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [113]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:11]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Runnoft:197:GUILD|h|cffd8d83f15|r:|cffff7c0aRunnoft|r|h|cffd8d8d8]|r: get leatrix plus",
-					["serverTime"] = 1693315270,
-					["r"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[08:45:36]|h|r You receive loot: |cff9d9d9d|Hitem:2940::::::::24:::::::::|h[Bloody Bear Paw]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958977.579,
+					["serverTime"] = 1693727135,
 					["extraData"] = {
-						5, -- [1]
+						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						23, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547105.092,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
 				}, -- [114]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:15]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Kliskarn-Stitches:199:CHANNEL:2|h|cffff7c0aKliskarn|r|h|cffd8d8d8]|r: 26 healer LFG SFK",
-					["serverTime"] = 1693315274,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[08:45:36]|h|r You receive loot: |cff1eff00|Hitem:16303::::::::24:::::::::|h[Ursangous's Paw]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958977.579,
+					["serverTime"] = 1693727135,
 					["extraData"] = {
-						70, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						24, -- [4]
+						43, -- [3]
+						44, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547108.85,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [115]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:15]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Hublug-Stitches:200:CHANNEL:2|h|cffaad372Hublug|r|h|cffd8d8d8]|r: need all for RFC",
-					["serverTime"] = 1693315274,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547109.054,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
+					["message"] = "|cff979797|Hpratcopy|h[08:45:36]|h|r |cff33ff99Questie|r: You picked up |cff1eff00|Hitem:16303::::::::24:::::::::|h[Ursangous's Paw]|h|r which starts |Hquestie:23:Player-5220-01A70E4E|h|cFFFFFF00[|r|cFFFFFF00[24] Ursangous's Paw|r|cFFFFFF00]|r|h!",
+					["timestamp"] = 1958977.579,
+					["serverTime"] = 1693727135,
 				}, -- [116]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:20]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Хастон-Stitches:202:CHANNEL:2|h|cff0070ddХастон|r|h|cffd8d8d8]|r: RFK tank dd 30+ fast push",
-					["serverTime"] = 1693315279,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						26, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547114.538,
-					["g"] = 0.7529412508010864,
+					["message"] = "|cff979797|Hpratcopy|h[08:45:39]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Shaikara-Stitches:416:CHANNEL:4|h|cffd8d83f25|r:|cfffff468Shaikara|r|h|cffd8d8d8]|r: left channel.",
 					["b"] = 0.7529412508010864,
-				}, -- [117]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:23]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Tildoss-Stitches:205:CHANNEL:2|h|cff0070ddTildoss|r|h|cffd8d8d8]|r: WTS |cff1eff00|Hitem:4379::::::::17::::1:3524:::::|h[Fusil plaqué argent]|h|r /w me with price :)",
-					["serverTime"] = 1693315282,
 					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547116.992,
 					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [118]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:31]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Schøxxtwo:206:CHANNEL:2|h|cff3fc6eaSchøxxtwo|r|h|cffd8d8d8]|r: can someone craft line bags?",
-					["serverTime"] = 1693315290,
-					["r"] = 1,
+					["timestamp"] = 1958980.158,
+					["serverTime"] = 1693727138,
 					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						28, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547124.725,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [119]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:34]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Ohforfs:207:CHANNEL:2|h|cffaad372Ohforfs|r|h|cffd8d8d8]|r: |cff1eff00|Hitem:2309::::::::10:::::::::|h[Embossed Leather Boots]|h|r 4s and |cffffffff|Hitem:4239::::::::10:::::::::|h[Embossed Leather Gloves]|h|r 1s in outside org bank",
-					["serverTime"] = 1693315293,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						30, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547127.625,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [120]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:38]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Hublug-Stitches:209:CHANNEL:2|h|cffaad372Hublug|r|h|cffd8d8d8]|r: need tank and heal for RFC",
-					["serverTime"] = 1693315297,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547131.658,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [121]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:41]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Sivv:210:CHANNEL:2|h|cffffffffSivv|r|h|cffd8d8d8]|r: crafting |cffffffff|Hitem:4238::::::::11::::1:3524:::::|h[Linen Bag]|h|r for matts in ok /w me ^^",
-					["serverTime"] = 1693315300,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						32, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547135.525,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [122]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:46]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Elron:212:CHANNEL:2|h|cffaad372Elron|r|h|cffd8d8d8]|r: LF2M WC +20. Need heals, tank",
-					["serverTime"] = 1693315305,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						34, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547139.658,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [123]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:46]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Omegon-Stitches:213:CHANNEL:2|h|cffaad372Omegon|r|h|cffd8d8d8]|r: wts |cffffffff|Hitem:20744::::::::23:::::::::|h[Minor Wizard Oil]|h|r, +3 str/stam on wrists, +2 damage to 1h wep (got mats for all)",
-					["serverTime"] = 1693315305,
-					["r"] = 1,
-					["extraData"] = {
-						70, -- [1]
-						false, -- [2]
-						3, -- [3]
-						19, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 1547139.925,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [124]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:53]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Durthal-Stitches:216:GUILD|h|cffd8d83f17|r:|cffaad372Durthal|r|h|cffd8d8d8]|r: cheers, will have a look",
-					["serverTime"] = 1693315312,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
+						72, -- [1]
 						false, -- [2]
 						1, -- [3]
+						61, -- [4]
+						["n"] = 4,
+					},
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:45:47]|h|r You receive loot: |cffffffff|Hitem:3730::::::::24:::::::::|h[Big Bear Meat]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 1958988.219,
+					["serverTime"] = 1693727146,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						43, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:45:49]|h|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Shaikabank:419:CHANNEL:4|h|cff8b8b8b1|r:|cffff7c0aShaikabank|r|h|cffd8d8d8]|r: joined channel.",
+					["b"] = 0.7529412508010864,
+					["r"] = 1,
+					["g"] = 0.7529412508010864,
+					["timestamp"] = 1958989.859,
+					["serverTime"] = 1693727148,
+					["extraData"] = {
+						72, -- [1]
+						false, -- [2]
+						1, -- [3]
+						62, -- [4]
+						["n"] = 4,
+					},
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:45:53]|h|r Quest accepted: Ursangous's Paw",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1958994.224,
+					["serverTime"] = 1693727152,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						17, -- [3]
 						18, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547147.398,
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:49:08]|h|r Discovered Greenpaw Village: 195 experience gained",
+					["b"] = 0,
+					["r"] = 1,
 					["g"] = 1,
-					["b"] = 0.250980406999588,
+					["timestamp"] = 1959189.296,
+					["serverTime"] = 1693727347,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:50:52]|h|r Quest accepted: Torek's Assault",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1959293.014,
+					["serverTime"] = 1693727451,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:50:52]|h|r Torek says: Everyone ready?",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1959293.285,
+					["serverTime"] = 1693727451,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						64, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:50:56]|h|r Torek says: Ok, let's move out!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1959297.17,
+					["serverTime"] = 1693727455,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						64, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:50:58]|h|r Torek says: With luck, we'll gain some good scars today.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1959298.859,
+					["serverTime"] = 1693727457,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						64, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
 				}, -- [125]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:01]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Vanquisher-Stitches:219:CHANNEL:2|h|cfffff468Vanquisher|r|h|cffd8d8d8]|r: LF1M Tank SM GY last spot",
-					["serverTime"] = 1693315320,
+					["message"] = "|cff979797|Hpratcopy|h[08:51:10]|h|r Torek says: Prepare yourselves.  Silverwing is just around the bend.",
+					["b"] = 0.6235294342041016,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1959311.312,
+					["serverTime"] = 1693727469,
 					["extraData"] = {
-						70, -- [1]
+						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						36, -- [4]
+						64, -- [3]
+						65, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547155.064,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [126]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:10]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Aoefarmin:222:CHANNEL:2|h|cff3fc6eaAoefarmin|r|h|cffd8d8d8]|r: LFM WC NEED ALL",
-					["serverTime"] = 1693315329,
+					["message"] = "|cff979797|Hpratcopy|h[08:51:34]|h|r You loot 58 Copper",
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1959335.232,
+					["serverTime"] = 1693727493,
 					["extraData"] = {
-						70, -- [1]
+						29, -- [1]
 						false, -- [2]
-						3, -- [3]
-						38, -- [4]
+						41, -- [3]
+						42, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547163.64,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [127]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:14]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Драко:223:CHANNEL:2|h|cfffff468Драко|r|h|cffd8d8d8]|r: im rogue 22 LFG  WC",
-					["serverTime"] = 1693315333,
+					["message"] = "|cff979797|Hpratcopy|h[08:51:57]|h|r You loot 76 Copper",
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 1959357.859,
+					["serverTime"] = 1693727516,
 					["extraData"] = {
-						70, -- [1]
+						29, -- [1]
 						false, -- [2]
-						3, -- [3]
-						40, -- [4]
+						41, -- [3]
+						42, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 1547167.893,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
 				}, -- [128]
 			},
+			["headIndex"] = 31,
 			["maxElements"] = 128,
-			["TransformIf"] = nil --[[ skipped inline function ]],
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
-			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
-			["GetNumElements"] = nil --[[ skipped inline function ]],
-			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 	},
 }

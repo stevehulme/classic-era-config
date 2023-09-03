@@ -6,6 +6,7 @@ PlaterDBChr = {
 	["buffsBanned"] = {
 	},
 	["first_run3"] = {
+		["Player-5220-01BBA9F5"] = true,
 		["Player-5220-01A70E4E"] = true,
 	},
 	["spellRangeCheckRangeEnemy"] = {

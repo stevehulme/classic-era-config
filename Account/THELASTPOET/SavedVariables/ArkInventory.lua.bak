@@ -1342,200 +1342,209 @@ ARKINVDB = {
 					["info"] = {
 						["guid"] = "Player-5220-01A70E4E",
 						["class"] = "HUNTER",
-						["player_id"] = "Durthal - Stitches",
+						["class_local"] = "Hunter",
 						["race"] = "Tauren",
-						["level"] = 17,
+						["level"] = 24,
 						["realm"] = "Stitches",
 						["isplayer"] = true,
-						["money"] = 13417,
+						["money"] = 56708,
 						["gender"] = 2,
 						["itemlevel"] = 1,
 						["name"] = "Durthal",
 						["faction"] = "Horde",
 						["race_local"] = "Tauren",
-						["guild_id"] = "+Goon Squad - Stitches",
-						["class_local"] = "Hunter",
+						["player_id"] = "Durthal - Stitches",
 						["faction_local"] = "Horde",
 					},
 					["location"] = {
 						{
-							["slot_count"] = 46,
+							["slot_count"] = 60,
 							["bag"] = {
 								{
 									["q"] = 0,
 									["type"] = 1,
 									["slot"] = {
 										{
-											["h"] = "|cffffffff|Hitem:6948::::::::17:::::::::|h[Hearthstone]|h|r",
+											["h"] = "|cffffffff|Hitem:6948::::::::24:::::::::|h[Hearthstone]|h|r",
 											["slot_id"] = 1,
 											["sb"] = 3,
-											["loc_id"] = 1,
-											["bag_id"] = 1,
 											["count"] = 1,
+											["bag_id"] = 1,
+											["loc_id"] = 1,
 										}, -- [1]
 										{
 											["loc_id"] = 1,
 											["slot_id"] = 2,
 											["sb"] = 0,
-											["h"] = "|cffffffff|Hitem:117::::::::17:::::::::|h[Tough Jerky]|h|r",
+											["count"] = 3,
 											["bag_id"] = 1,
-											["count"] = 12,
+											["h"] = "|cffffffff|Hitem:117::::::::24:::::::::|h[Tough Jerky]|h|r",
 										}, -- [2]
 										{
 											["loc_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2589::::::::17:::::::::|h[Linen Cloth]|h|r",
-											["count"] = 20,
-											["sb"] = 0,
 											["slot_id"] = 3,
+											["sb"] = 0,
+											["age"] = 28228773,
+											["count"] = 1,
 											["bag_id"] = 1,
-											["age"] = 28218841,
+											["h"] = "|cff9d9d9d|Hitem:3669::::::::24:::::::::|h[Gelatinous Goo]|h|r",
 										}, -- [3]
 										{
 											["loc_id"] = 1,
-											["slot_id"] = 4,
+											["count"] = 7,
 											["sb"] = 0,
+											["age"] = 28227715,
+											["slot_id"] = 4,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["h"] = "|cffffffff|Hitem:1205::::::::24:::::::::|h[Melon Juice]|h|r",
 										}, -- [4]
 										{
-											["loc_id"] = 1,
-											["slot_id"] = 5,
+											["h"] = "|cffffffff|Hitem:4538::::::::24:::::::::|h[Snapvine Watermelon]|h|r",
+											["count"] = 2,
 											["sb"] = 0,
+											["age"] = 28228783,
+											["slot_id"] = 5,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["loc_id"] = 1,
 										}, -- [5]
 										{
 											["loc_id"] = 1,
 											["slot_id"] = 6,
 											["sb"] = 0,
+											["age"] = 28227635,
+											["count"] = 2,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["h"] = "|cffffffff|Hitem:2251::::::::24:::::::::|h[Gooey Spider Leg]|h|r",
 										}, -- [6]
 										{
-											["h"] = "|cffffffff|Hitem:2457::::::::17:::::::::|h[Elixir of Minor Agility]|h|r",
 											["loc_id"] = 1,
 											["slot_id"] = 7,
 											["sb"] = 0,
-											["count"] = 3,
 											["bag_id"] = 1,
-											["age"] = 28218616,
+											["count"] = 3,
+											["age"] = 28227926,
+											["h"] = "|cffffffff|Hitem:2770::::::::24:::::::::|h[Copper Ore]|h|r",
 										}, -- [7]
 										{
 											["loc_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2835::::::::17:::::::::|h[Rough Stone]|h|r",
-											["count"] = 2,
+											["count"] = 1,
 											["sb"] = 0,
 											["slot_id"] = 8,
 											["bag_id"] = 1,
-											["age"] = 28219013,
+											["h"] = "|cffffffff|Hitem:6888::::::::24:::::::::|h[Herb Baked Egg]|h|r",
 										}, -- [8]
 										{
-											["h"] = "|cffffffff|Hitem:5088::::::::17:::::::::|h[Control Console Operating Manual]|h|r",
 											["loc_id"] = 1,
-											["slot_id"] = 9,
-											["sb"] = 3,
 											["count"] = 1,
-											["age"] = 28217589,
+											["sb"] = 3,
 											["bag_id"] = 1,
+											["slot_id"] = 9,
+											["age"] = 28217589,
+											["h"] = "|cffffffff|Hitem:5088::::::::24:::::::::|h[Control Console Operating Manual]|h|r",
 										}, -- [9]
 										{
-											["h"] = "|cffffffff|Hitem:2581::::::::17:::::::::|h[Heavy Linen Bandage]|h|r",
-											["loc_id"] = 1,
-											["count"] = 12,
-											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:2592::::::::24:::::::::|h[Wool Cloth]|h|r",
 											["slot_id"] = 10,
+											["sb"] = 0,
+											["age"] = 28227997,
+											["count"] = 14,
 											["bag_id"] = 1,
-											["age"] = 28218733,
+											["loc_id"] = 1,
 										}, -- [10]
 										{
 											["loc_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2770::::::::17:::::::::|h[Copper Ore]|h|r",
-											["count"] = 2,
+											["count"] = 11,
 											["sb"] = 0,
+											["age"] = 28225044,
 											["slot_id"] = 11,
 											["bag_id"] = 1,
-											["age"] = 28219033,
+											["h"] = "|cffffffff|Hitem:2836::::::::24:::::::::|h[Coarse Stone]|h|r",
 										}, -- [11]
 										{
-											["h"] = "|cffffffff|Hitem:5469::::::::17:::::::::|h[Strider Meat]|h|r",
-											["loc_id"] = 1,
-											["slot_id"] = 12,
+											["h"] = "|cffffffff|Hitem:9451::::::::24:::::::::|h[Bubbling Water]|h|r",
+											["count"] = 11,
 											["sb"] = 0,
-											["count"] = 10,
-											["age"] = 28217589,
+											["age"] = 28228783,
+											["slot_id"] = 12,
 											["bag_id"] = 1,
+											["loc_id"] = 1,
 										}, -- [12]
 										{
 											["loc_id"] = 1,
-											["count"] = 8,
+											["count"] = 1,
 											["sb"] = 0,
-											["h"] = "|cffffffff|Hitem:2672::::::::17:::::::::|h[Stringy Wolf Meat]|h|r",
-											["bag_id"] = 1,
+											["age"] = 28227986,
 											["slot_id"] = 13,
+											["bag_id"] = 1,
+											["h"] = "|cffffffff|Hitem:16208::::::::24:::::::::|h[Enchanted Gaea Seeds]|h|r",
 										}, -- [13]
 										{
-											["h"] = "|cffffffff|Hitem:2589::::::::17:::::::::|h[Linen Cloth]|h|r",
-											["loc_id"] = 1,
-											["count"] = 20,
-											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:5503::::::::24:::::::::|h[Clam Meat]|h|r",
 											["slot_id"] = 14,
+											["sb"] = 0,
+											["age"] = 28227901,
+											["count"] = 3,
 											["bag_id"] = 1,
-											["age"] = 28218789,
+											["loc_id"] = 1,
 										}, -- [14]
 										{
-											["loc_id"] = 1,
-											["h"] = "|cffffffff|Hitem:858::::::::17:::::::::|h[Lesser Healing Potion]|h|r",
-											["count"] = 4,
-											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:2770::::::::24:::::::::|h[Copper Ore]|h|r",
 											["slot_id"] = 15,
+											["sb"] = 0,
+											["age"] = 28227588,
+											["count"] = 10,
 											["bag_id"] = 1,
-											["age"] = 28217799,
+											["loc_id"] = 1,
 										}, -- [15]
 										{
 											["loc_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2455::::::::17:::::::::|h[Minor Mana Potion]|h|r",
-											["count"] = 5,
-											["sb"] = 0,
 											["slot_id"] = 16,
+											["sb"] = 0,
+											["age"] = 28228771,
+											["count"] = 1,
 											["bag_id"] = 1,
-											["age"] = 28218821,
+											["h"] = "|cffffffff|Hitem:5868::::::::24:::::::::|h[Filled Etched Phial]|h|r",
 										}, -- [16]
 										{
-											["loc_id"] = 1,
-											["slot_id"] = 17,
+											["h"] = "|cffffffff|Hitem:2835::::::::24:::::::::|h[Rough Stone]|h|r",
+											["count"] = 20,
 											["sb"] = 0,
+											["slot_id"] = 17,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["loc_id"] = 1,
 										}, -- [17]
 										{
-											["loc_id"] = 1,
-											["count"] = 1,
+											["h"] = "|cffffffff|Hitem:7070::::::::24:::::::::|h[Elemental Water]|h|r",
+											["count"] = 2,
 											["sb"] = 0,
-											["bag_id"] = 1,
+											["age"] = 28228778,
 											["slot_id"] = 18,
+											["bag_id"] = 1,
+											["loc_id"] = 1,
 										}, -- [18]
 										{
-											["h"] = "|cffffffff|Hitem:1179::::::::17:::::::::|h[Ice Cold Milk]|h|r",
 											["loc_id"] = 1,
 											["slot_id"] = 19,
 											["sb"] = 0,
-											["count"] = 4,
+											["age"] = 28228778,
+											["count"] = 1,
 											["bag_id"] = 1,
-											["age"] = 28218787,
+											["h"] = "|cff9d9d9d|Hitem:5451::::::::24:::::::::|h[Crushed Elemental Bracer]|h|r",
 										}, -- [19]
 										{
 											["loc_id"] = 1,
-											["count"] = 1,
+											["count"] = 6,
 											["sb"] = 0,
-											["bag_id"] = 1,
+											["age"] = 28227743,
 											["slot_id"] = 20,
+											["bag_id"] = 1,
+											["h"] = "|cffffffff|Hitem:4306::::::::24:::::::::|h[Silk Cloth]|h|r",
 										}, -- [20]
 									},
 									["bag_id"] = 1,
 									["loc_id"] = 1,
 									["count"] = 20,
 									["status"] = -3,
-									["empty"] = 6,
 									["texture"] = "Interface\\Icons\\INV_Misc_Bag_07_Green",
 								}, -- [1]
 								{
@@ -1543,65 +1552,102 @@ ARKINVDB = {
 									["type"] = 1,
 									["slot"] = {
 										{
-											["loc_id"] = 1,
-											["h"] = "|cffffffff|Hitem:4541::::::::17:::::::::|h[Freshly Baked Bread]|h|r",
+											["h"] = "|cffffffff|Hitem:2835::::::::24:::::::::|h[Rough Stone]|h|r",
 											["slot_id"] = 1,
 											["sb"] = 0,
-											["count"] = 1,
+											["age"] = 28227801,
+											["count"] = 2,
 											["bag_id"] = 2,
-											["age"] = 28219009,
+											["loc_id"] = 1,
 										}, -- [1]
 										{
 											["loc_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2287::::::::17:::::::::|h[Haunch of Meat]|h|r",
-											["count"] = 11,
-											["sb"] = 0,
 											["slot_id"] = 2,
-											["bag_id"] = 2,
+											["sb"] = 0,
 											["age"] = 28218698,
+											["count"] = 12,
+											["bag_id"] = 2,
+											["h"] = "|cffffffff|Hitem:2287::::::::24:::::::::|h[Haunch of Meat]|h|r",
 										}, -- [2]
 										{
 											["loc_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2592::::::::17:::::::::|h[Wool Cloth]|h|r",
-											["count"] = 5,
-											["sb"] = 0,
 											["slot_id"] = 3,
+											["sb"] = 3,
+											["age"] = 28228778,
+											["count"] = 1,
 											["bag_id"] = 2,
-											["age"] = 28218842,
+											["h"] = "|cff1eff00|Hitem:16408::::::::24:::::::::|h[Befouled Water Globe]|h|r",
 										}, -- [3]
 										{
-											["h"] = "|cffffffff|Hitem:2589::::::::17:::::::::|h[Linen Cloth]|h|r",
-											["loc_id"] = 1,
-											["count"] = 20,
-											["sb"] = 0,
+											["h"] = "|cff9d9d9d|Hitem:5447::::::::24:::::::::|h[Damaged Elemental Bracer]|h|r",
 											["slot_id"] = 4,
+											["sb"] = 0,
+											["age"] = 28228778,
+											["count"] = 1,
 											["bag_id"] = 2,
-											["age"] = 28218970,
+											["loc_id"] = 1,
 										}, -- [4]
 										{
-											["h"] = "|cffffffff|Hitem:11146::::::::17:::::::::|h[Broken and Battered Samophlange]|h|r",
 											["loc_id"] = 1,
 											["slot_id"] = 5,
 											["sb"] = 0,
-											["count"] = 1,
+											["age"] = 28228783,
+											["count"] = 2,
 											["bag_id"] = 2,
-											["age"] = 28219054,
+											["h"] = "|cff9d9d9d|Hitem:5446::::::::24:::::::::|h[Broken Elemental Bracer]|h|r",
 										}, -- [5]
 										{
-											["loc_id"] = 1,
-											["count"] = 3,
-											["sb"] = 0,
-											["h"] = "|cffffffff|Hitem:6361::::::::17:::::::::|h[Raw Rainbow Fin Albacore]|h|r",
-											["bag_id"] = 2,
+											["h"] = "|cffffffff|Hitem:16654::::::::24:::::::::|h[Shredder Operating Manual - Page 10]|h|r",
 											["slot_id"] = 6,
+											["sb"] = 0,
+											["age"] = 28228783,
+											["count"] = 1,
+											["bag_id"] = 2,
+											["loc_id"] = 1,
 										}, -- [6]
+										{
+											["loc_id"] = 1,
+											["count"] = 1,
+											["sb"] = 0,
+											["age"] = 28228783,
+											["slot_id"] = 7,
+											["bag_id"] = 2,
+											["h"] = "|cff9d9d9d|Hitem:5448::::::::24:::::::::|h[Fractured Elemental Bracer]|h|r",
+										}, -- [7]
+										{
+											["loc_id"] = 1,
+											["count"] = 1,
+											["sb"] = 0,
+											["age"] = 28228783,
+											["slot_id"] = 8,
+											["bag_id"] = 2,
+											["h"] = "|cffffffff|Hitem:16647::::::::24:::::::::|h[Shredder Operating Manual - Page 3]|h|r",
+										}, -- [8]
+										{
+											["h"] = "|cff9d9d9d|Hitem:2940::::::::24:::::::::|h[Bloody Bear Paw]|h|r",
+											["count"] = 1,
+											["sb"] = 0,
+											["slot_id"] = 9,
+											["bag_id"] = 2,
+											["age"] = 28228785,
+											["loc_id"] = 1,
+										}, -- [9]
+										{
+											["h"] = "|cff1eff00|Hitem:16303::::::::24:::::::::|h[Ursangous's Paw]|h|r",
+											["count"] = 1,
+											["sb"] = 3,
+											["slot_id"] = 10,
+											["bag_id"] = 2,
+											["age"] = 28228785,
+											["loc_id"] = 1,
+										}, -- [10]
 									},
 									["bag_id"] = 2,
 									["loc_id"] = 1,
-									["count"] = 6,
+									["count"] = 10,
 									["status"] = -3,
-									["h"] = "|cffffffff|Hitem:4238::::::::17:::::::::|h[Linen Bag]|h|r",
-									["texture"] = 133622,
+									["h"] = "|cffffffff|Hitem:4245::::::::24:::::::::|h[Small Silk Pack]|h|r",
+									["texture"] = 133628,
 								}, -- [2]
 								{
 									["q"] = 1,
@@ -1609,40 +1655,42 @@ ARKINVDB = {
 									["slot"] = {
 										{
 											["loc_id"] = 1,
-											["slot_id"] = 1,
-											["sb"] = 0,
-											["bag_id"] = 3,
 											["count"] = 1,
+											["sb"] = 0,
+											["age"] = 28228793,
+											["slot_id"] = 1,
+											["bag_id"] = 3,
+											["h"] = "|cffffffff|Hitem:3730::::::::24:::::::::|h[Big Bear Meat]|h|r",
 										}, -- [1]
 										{
-											["loc_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2589::::::::17:::::::::|h[Linen Cloth]|h|r",
-											["count"] = 6,
-											["sb"] = 0,
+											["h"] = "|cff9d9d9d|Hitem:1819::::::::24:::::::::|h[Gouging Pick]|h|r",
 											["slot_id"] = 2,
+											["sb"] = 0,
+											["count"] = 1,
 											["bag_id"] = 3,
-											["age"] = 28219032,
+											["age"] = 28228793,
+											["loc_id"] = 1,
 										}, -- [2]
 										{
 											["loc_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 3,
 											["sb"] = 0,
 											["bag_id"] = 3,
-											["slot_id"] = 3,
+											["count"] = 1,
 										}, -- [3]
 										{
 											["loc_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 4,
 											["sb"] = 0,
 											["bag_id"] = 3,
-											["slot_id"] = 4,
+											["count"] = 1,
 										}, -- [4]
 										{
 											["loc_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 5,
 											["sb"] = 0,
 											["bag_id"] = 3,
-											["slot_id"] = 5,
+											["count"] = 1,
 										}, -- [5]
 										{
 											["loc_id"] = 1,
@@ -1651,150 +1699,240 @@ ARKINVDB = {
 											["bag_id"] = 3,
 											["count"] = 1,
 										}, -- [6]
+										{
+											["loc_id"] = 1,
+											["count"] = 1,
+											["sb"] = 0,
+											["bag_id"] = 3,
+											["slot_id"] = 7,
+										}, -- [7]
+										{
+											["loc_id"] = 1,
+											["count"] = 1,
+											["sb"] = 0,
+											["bag_id"] = 3,
+											["slot_id"] = 8,
+										}, -- [8]
+										{
+											["loc_id"] = 1,
+											["count"] = 2,
+											["sb"] = 0,
+											["age"] = 28228013,
+											["slot_id"] = 9,
+											["bag_id"] = 3,
+											["h"] = "|cffffffff|Hitem:2771::::::::24:::::::::|h[Tin Ore]|h|r",
+										}, -- [9]
+										{
+											["loc_id"] = 1,
+											["slot_id"] = 10,
+											["sb"] = 0,
+											["age"] = 28228013,
+											["count"] = 1,
+											["bag_id"] = 3,
+											["h"] = "|cffffffff|Hitem:4363::::::::24:::::::::|h[Copper Modulator]|h|r",
+										}, -- [10]
 									},
 									["bag_id"] = 3,
-									["h"] = "|cffffffff|Hitem:4238::::::::17:::::::::|h[Linen Bag]|h|r",
-									["count"] = 6,
+									["h"] = "|cffffffff|Hitem:4245::::::::24:::::::::|h[Small Silk Pack]|h|r",
+									["count"] = 10,
 									["status"] = -3,
-									["empty"] = 5,
+									["empty"] = 6,
 									["loc_id"] = 1,
-									["texture"] = 133622,
+									["texture"] = 133628,
 								}, -- [3]
 								{
 									["q"] = 1,
 									["type"] = 1,
 									["slot"] = {
 										{
-											["loc_id"] = 1,
+											["h"] = "|cffffffff|Hitem:16645::::::::24:::::::::|h[Shredder Operating Manual - Page 1]|h|r",
 											["count"] = 1,
 											["sb"] = 0,
-											["bag_id"] = 4,
 											["slot_id"] = 1,
+											["bag_id"] = 4,
+											["loc_id"] = 1,
 										}, -- [1]
 										{
-											["loc_id"] = 1,
-											["count"] = 1,
-											["sb"] = 0,
-											["bag_id"] = 4,
+											["h"] = "|cffffffff|Hitem:3531::::::::24:::::::::|h[Heavy Wool Bandage]|h|r",
 											["slot_id"] = 2,
+											["sb"] = 0,
+											["age"] = 28228026,
+											["count"] = 20,
+											["bag_id"] = 4,
+											["loc_id"] = 1,
 										}, -- [2]
 										{
-											["loc_id"] = 1,
-											["count"] = 1,
-											["sb"] = 0,
-											["bag_id"] = 4,
+											["h"] = "|cffffffff|Hitem:1081::::::::24:::::::::|h[Crisp Spider Meat]|h|r",
 											["slot_id"] = 3,
+											["sb"] = 0,
+											["count"] = 10,
+											["bag_id"] = 4,
+											["loc_id"] = 1,
 										}, -- [3]
 										{
-											["loc_id"] = 1,
+											["h"] = "|cffffffff|Hitem:2457::::::::24:::::::::|h[Elixir of Minor Agility]|h|r",
 											["slot_id"] = 4,
 											["sb"] = 0,
+											["count"] = 2,
 											["bag_id"] = 4,
-											["count"] = 1,
+											["loc_id"] = 1,
 										}, -- [4]
 										{
-											["loc_id"] = 1,
-											["count"] = 1,
-											["sb"] = 0,
-											["h"] = "|cffffffff|Hitem:6256::::::::17:::::::::|h[Fishing Pole]|h|r",
-											["bag_id"] = 4,
+											["h"] = "|cffffffff|Hitem:6256::::::::24:::::::::|h[Fishing Pole]|h|r",
 											["slot_id"] = 5,
+											["sb"] = 0,
+											["count"] = 1,
+											["bag_id"] = 4,
+											["loc_id"] = 1,
 										}, -- [5]
 										{
-											["loc_id"] = 1,
-											["slot_id"] = 6,
-											["sb"] = 0,
-											["h"] = "|cffffffff|Hitem:2901::::::::17:::::::::|h[Mining Pick]|h|r",
-											["bag_id"] = 4,
+											["h"] = "|cffffffff|Hitem:2901::::::::24:::::::::|h[Mining Pick]|h|r",
 											["count"] = 1,
+											["sb"] = 0,
+											["slot_id"] = 6,
+											["bag_id"] = 4,
+											["loc_id"] = 1,
 										}, -- [6]
+										{
+											["h"] = "|cffffffff|Hitem:929::::::::24:::::::::|h[Healing Potion]|h|r",
+											["slot_id"] = 7,
+											["sb"] = 0,
+											["count"] = 2,
+											["bag_id"] = 4,
+											["loc_id"] = 1,
+										}, -- [7]
+										{
+											["h"] = "|cffffffff|Hitem:2455::::::::24:::::::::|h[Minor Mana Potion]|h|r",
+											["count"] = 5,
+											["sb"] = 0,
+											["slot_id"] = 8,
+											["bag_id"] = 4,
+											["loc_id"] = 1,
+										}, -- [8]
+										{
+											["loc_id"] = 1,
+											["count"] = 1,
+											["sb"] = 0,
+											["slot_id"] = 9,
+											["bag_id"] = 4,
+											["h"] = "|cffffffff|Hitem:16649::::::::24:::::::::|h[Shredder Operating Manual - Page 5]|h|r",
+										}, -- [9]
+										{
+											["h"] = "|cffffffff|Hitem:16655::::::::24:::::::::|h[Shredder Operating Manual - Page 11]|h|r",
+											["slot_id"] = 10,
+											["sb"] = 0,
+											["count"] = 1,
+											["bag_id"] = 4,
+											["loc_id"] = 1,
+										}, -- [10]
 									},
 									["bag_id"] = 4,
-									["h"] = "|cffffffff|Hitem:4238::::::::17:::::::::|h[Linen Bag]|h|r",
-									["count"] = 6,
+									["h"] = "|cffffffff|Hitem:4245::::::::24:::::::::|h[Small Silk Pack]|h|r",
+									["count"] = 10,
 									["status"] = -3,
-									["empty"] = 4,
 									["loc_id"] = 1,
-									["texture"] = 133622,
+									["texture"] = 133628,
 								}, -- [4]
 								{
 									["q"] = 1,
 									["type"] = 12,
 									["slot"] = {
 										{
-											["h"] = "|cffffffff|Hitem:2519::::::::17:::::::::|h[Heavy Shot]|h|r",
+											["loc_id"] = 1,
 											["slot_id"] = 1,
 											["sb"] = 0,
-											["loc_id"] = 1,
 											["bag_id"] = 5,
-											["count"] = 200,
+											["count"] = 1,
 										}, -- [1]
 										{
-											["h"] = "|cffffffff|Hitem:2519::::::::17:::::::::|h[Heavy Shot]|h|r",
-											["count"] = 200,
+											["h"] = "|cffffffff|Hitem:2515::::::::24:::::::::|h[Sharp Arrow]|h|r",
+											["count"] = 33,
 											["sb"] = 0,
-											["loc_id"] = 1,
-											["bag_id"] = 5,
+											["age"] = 28228013,
 											["slot_id"] = 2,
+											["bag_id"] = 5,
+											["loc_id"] = 1,
 										}, -- [2]
 										{
 											["loc_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2519::::::::17:::::::::|h[Heavy Shot]|h|r",
 											["slot_id"] = 3,
 											["sb"] = 0,
-											["count"] = 200,
 											["bag_id"] = 5,
-											["age"] = 28218728,
+											["count"] = 200,
+											["age"] = 28228013,
+											["h"] = "|cffffffff|Hitem:2515::::::::24:::::::::|h[Sharp Arrow]|h|r",
 										}, -- [3]
 										{
-											["h"] = "|cffffffff|Hitem:2519::::::::17:::::::::|h[Heavy Shot]|h|r",
 											["loc_id"] = 1,
 											["slot_id"] = 4,
 											["sb"] = 0,
+											["age"] = 28226476,
 											["count"] = 200,
 											["bag_id"] = 5,
-											["age"] = 28218728,
+											["h"] = "|cffffffff|Hitem:2515::::::::24:::::::::|h[Sharp Arrow]|h|r",
 										}, -- [4]
 										{
-											["loc_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2519::::::::17:::::::::|h[Heavy Shot]|h|r",
+											["h"] = "|cffffffff|Hitem:2515::::::::24:::::::::|h[Sharp Arrow]|h|r",
 											["slot_id"] = 5,
 											["sb"] = 0,
+											["age"] = 28226476,
 											["count"] = 200,
 											["bag_id"] = 5,
-											["age"] = 28218787,
+											["loc_id"] = 1,
 										}, -- [5]
 										{
-											["h"] = "|cffffffff|Hitem:2519::::::::17:::::::::|h[Heavy Shot]|h|r",
-											["loc_id"] = 1,
+											["h"] = "|cffffffff|Hitem:2515::::::::24:::::::::|h[Sharp Arrow]|h|r",
 											["slot_id"] = 6,
 											["sb"] = 0,
+											["age"] = 28226476,
 											["count"] = 200,
 											["bag_id"] = 5,
-											["age"] = 28218787,
+											["loc_id"] = 1,
 										}, -- [6]
 										{
 											["loc_id"] = 1,
-											["slot_id"] = 7,
+											["count"] = 200,
 											["sb"] = 0,
+											["age"] = 28226476,
+											["slot_id"] = 7,
 											["bag_id"] = 5,
-											["count"] = 1,
+											["h"] = "|cffffffff|Hitem:2515::::::::24:::::::::|h[Sharp Arrow]|h|r",
 										}, -- [7]
 										{
-											["loc_id"] = 1,
+											["h"] = "|cffffffff|Hitem:2515::::::::24:::::::::|h[Sharp Arrow]|h|r",
 											["slot_id"] = 8,
 											["sb"] = 0,
+											["age"] = 28226476,
+											["count"] = 200,
 											["bag_id"] = 5,
-											["count"] = 1,
+											["loc_id"] = 1,
 										}, -- [8]
+										{
+											["h"] = "|cffffffff|Hitem:2515::::::::24:::::::::|h[Sharp Arrow]|h|r",
+											["slot_id"] = 9,
+											["sb"] = 0,
+											["age"] = 28226476,
+											["count"] = 200,
+											["bag_id"] = 5,
+											["loc_id"] = 1,
+										}, -- [9]
+										{
+											["loc_id"] = 1,
+											["slot_id"] = 10,
+											["sb"] = 0,
+											["bag_id"] = 5,
+											["count"] = 200,
+											["age"] = 28226476,
+											["h"] = "|cffffffff|Hitem:2515::::::::24:::::::::|h[Sharp Arrow]|h|r",
+										}, -- [10]
 									},
 									["bag_id"] = 5,
-									["h"] = "|cffffffff|Hitem:7279::::::::17:::::::::|h[Small Leather Ammo Pouch]|h|r",
-									["count"] = 8,
+									["h"] = "|cffffffff|Hitem:11362::::::::24:::::::::|h[Medium Quiver]|h|r",
+									["count"] = 10,
 									["status"] = -3,
-									["empty"] = 2,
+									["empty"] = 1,
 									["loc_id"] = 1,
-									["texture"] = 133581,
+									["texture"] = 134410,
 								}, -- [5]
 							},
 						}, -- [1]
@@ -1807,227 +1945,227 @@ ARKINVDB = {
 									["slot"] = {
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 1,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 1,
 										}, -- [1]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 2,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 2,
 										}, -- [2]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 3,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 3,
 										}, -- [3]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 4,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 4,
 										}, -- [4]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 5,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 5,
 										}, -- [5]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 6,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 6,
 										}, -- [6]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 7,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 7,
 										}, -- [7]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 8,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 8,
 										}, -- [8]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 9,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 9,
 										}, -- [9]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 10,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 10,
 										}, -- [10]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 11,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 11,
 										}, -- [11]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 12,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 12,
 										}, -- [12]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 13,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 13,
 										}, -- [13]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 14,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 14,
 										}, -- [14]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 15,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 15,
 										}, -- [15]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 16,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 16,
 										}, -- [16]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 17,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 17,
 										}, -- [17]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 18,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 18,
 										}, -- [18]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 19,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 19,
 										}, -- [19]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 20,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 20,
 										}, -- [20]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 21,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 21,
 										}, -- [21]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 22,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 22,
 										}, -- [22]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 23,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 23,
 										}, -- [23]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 24,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 24,
 										}, -- [24]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 25,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 25,
 										}, -- [25]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 26,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 26,
 										}, -- [26]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 27,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 27,
 										}, -- [27]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 28,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 28,
 										}, -- [28]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 29,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 29,
 										}, -- [29]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 30,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 30,
 										}, -- [30]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 31,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 31,
 										}, -- [31]
 										{
 											["loc_id"] = 2,
-											["slot_id"] = 32,
+											["count"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["count"] = 1,
+											["slot_id"] = 32,
 										}, -- [32]
 									},
 									["status"] = -3,
@@ -2044,196 +2182,196 @@ ARKINVDB = {
 									["type"] = 1,
 									["slot"] = {
 										{
-											["h"] = "|cffffffff|Hitem:6889::::::::16:::::::::|h[Small Egg]|h|r",
-											["slot_id"] = 1,
+											["h"] = "|cffffffff|Hitem:2841::::::::24:::::::::|h[Bronze Bar]|h|r",
+											["count"] = 20,
 											["sb"] = 0,
-											["count"] = 4,
-											["bag_id"] = 1,
 											["loc_id"] = 3,
+											["bag_id"] = 1,
+											["slot_id"] = 1,
 										}, -- [1]
 										{
-											["loc_id"] = 3,
-											["count"] = 20,
-											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:2589::::::::24:::::::::|h[Linen Cloth]|h|r",
 											["slot_id"] = 2,
+											["sb"] = 0,
+											["loc_id"] = 3,
 											["bag_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2589::::::::16:::::::::|h[Linen Cloth]|h|r",
+											["count"] = 20,
 										}, -- [2]
 										{
-											["loc_id"] = 3,
-											["slot_id"] = 3,
+											["h"] = "|cffffffff|Hitem:2840::::::::24:::::::::|h[Copper Bar]|h|r",
+											["count"] = 20,
 											["sb"] = 0,
-											["count"] = 4,
+											["loc_id"] = 3,
 											["bag_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2770::::::::16:::::::::|h[Copper Ore]|h|r",
+											["slot_id"] = 3,
 										}, -- [3]
 										{
-											["loc_id"] = 3,
-											["slot_id"] = 4,
+											["h"] = "|cffffffff|Hitem:2840::::::::24:::::::::|h[Copper Bar]|h|r",
+											["count"] = 20,
 											["sb"] = 0,
-											["count"] = 10,
+											["loc_id"] = 3,
 											["bag_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2770::::::::16:::::::::|h[Copper Ore]|h|r",
+											["slot_id"] = 4,
 										}, -- [4]
 										{
-											["h"] = "|cffffffff|Hitem:2770::::::::16:::::::::|h[Copper Ore]|h|r",
-											["count"] = 10,
-											["sb"] = 0,
-											["slot_id"] = 5,
-											["bag_id"] = 1,
 											["loc_id"] = 3,
+											["slot_id"] = 5,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:2840::::::::24:::::::::|h[Copper Bar]|h|r",
+											["bag_id"] = 1,
+											["count"] = 20,
 										}, -- [5]
 										{
-											["loc_id"] = 3,
-											["slot_id"] = 6,
-											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:2840::::::::24:::::::::|h[Copper Bar]|h|r",
 											["count"] = 20,
+											["sb"] = 0,
+											["loc_id"] = 3,
 											["bag_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2835::::::::16:::::::::|h[Rough Stone]|h|r",
+											["slot_id"] = 6,
 										}, -- [6]
 										{
-											["h"] = "|cff1eff00|Hitem:774::::::::16:::::::::|h[Malachite]|h|r",
-											["count"] = 5,
-											["sb"] = 0,
-											["slot_id"] = 7,
-											["bag_id"] = 1,
 											["loc_id"] = 3,
+											["slot_id"] = 7,
+											["sb"] = 0,
+											["h"] = "|cff1eff00|Hitem:774::::::::24:::::::::|h[Malachite]|h|r",
+											["bag_id"] = 1,
+											["count"] = 6,
 										}, -- [7]
 										{
-											["loc_id"] = 3,
-											["slot_id"] = 8,
-											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:2592::::::::24:::::::::|h[Wool Cloth]|h|r",
 											["count"] = 20,
+											["sb"] = 0,
+											["loc_id"] = 3,
 											["bag_id"] = 1,
-											["h"] = "|cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r",
+											["slot_id"] = 8,
 										}, -- [8]
 										{
-											["h"] = "|cffffffff|Hitem:765::::::::16:::::::::|h[Silverleaf]|h|r",
-											["count"] = 3,
-											["sb"] = 0,
-											["slot_id"] = 9,
-											["bag_id"] = 1,
 											["loc_id"] = 3,
+											["slot_id"] = 9,
+											["sb"] = 0,
+											["h"] = "|cff1eff00|Hitem:1210::::::::24:::::::::|h[Shadowgem]|h|r",
+											["bag_id"] = 1,
+											["count"] = 1,
 										}, -- [9]
 										{
-											["h"] = "|cffffffff|Hitem:2835::::::::16:::::::::|h[Rough Stone]|h|r",
-											["slot_id"] = 10,
-											["sb"] = 0,
-											["count"] = 20,
-											["bag_id"] = 1,
 											["loc_id"] = 3,
+											["count"] = 20,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:4357::::::::24:::::::::|h[Rough Blasting Powder]|h|r",
+											["bag_id"] = 1,
+											["slot_id"] = 10,
 										}, -- [10]
 										{
-											["loc_id"] = 3,
-											["count"] = 10,
-											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:4357::::::::24:::::::::|h[Rough Blasting Powder]|h|r",
 											["slot_id"] = 11,
+											["sb"] = 0,
+											["loc_id"] = 3,
 											["bag_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2770::::::::16:::::::::|h[Copper Ore]|h|r",
+											["count"] = 20,
 										}, -- [11]
 										{
-											["h"] = "|cffffffff|Hitem:2770::::::::16:::::::::|h[Copper Ore]|h|r",
-											["slot_id"] = 12,
-											["sb"] = 0,
-											["count"] = 10,
-											["bag_id"] = 1,
 											["loc_id"] = 3,
+											["count"] = 20,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:4357::::::::24:::::::::|h[Rough Blasting Powder]|h|r",
+											["bag_id"] = 1,
+											["slot_id"] = 12,
 										}, -- [12]
 										{
-											["h"] = "|cffffffff|Hitem:2589::::::::16:::::::::|h[Linen Cloth]|h|r",
-											["count"] = 20,
-											["sb"] = 0,
-											["slot_id"] = 13,
-											["bag_id"] = 1,
 											["loc_id"] = 3,
+											["slot_id"] = 13,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:2589::::::::24:::::::::|h[Linen Cloth]|h|r",
+											["bag_id"] = 1,
+											["count"] = 20,
 										}, -- [13]
 										{
-											["loc_id"] = 3,
-											["count"] = 3,
-											["sb"] = 0,
+											["h"] = "|cff1eff00|Hitem:818::::::::24:::::::::|h[Tigerseye]|h|r",
 											["slot_id"] = 14,
+											["sb"] = 0,
+											["loc_id"] = 3,
 											["bag_id"] = 1,
-											["h"] = "|cff1eff00|Hitem:818::::::::16:::::::::|h[Tigerseye]|h|r",
+											["count"] = 4,
 										}, -- [14]
 										{
-											["loc_id"] = 3,
-											["slot_id"] = 15,
+											["h"] = "|cff1eff00|Hitem:5498::::::::24:::::::::|h[Small Lustrous Pearl]|h|r",
+											["count"] = 7,
 											["sb"] = 0,
-											["count"] = 4,
+											["loc_id"] = 3,
 											["bag_id"] = 1,
-											["h"] = "|cff1eff00|Hitem:5498::::::::16:::::::::|h[Small Lustrous Pearl]|h|r",
+											["slot_id"] = 15,
 										}, -- [15]
+										{
+											["h"] = "|cffffffff|Hitem:4357::::::::24:::::::::|h[Rough Blasting Powder]|h|r",
+											["slot_id"] = 16,
+											["sb"] = 0,
+											["loc_id"] = 3,
+											["bag_id"] = 1,
+											["count"] = 20,
+										}, -- [16]
 										{
 											["loc_id"] = 3,
 											["count"] = 10,
 											["sb"] = 0,
-											["slot_id"] = 16,
+											["h"] = "|cffffffff|Hitem:3730::::::::24:::::::::|h[Big Bear Meat]|h|r",
 											["bag_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2770::::::::16:::::::::|h[Copper Ore]|h|r",
-										}, -- [16]
-										{
-											["h"] = "|cffffffff|Hitem:2589::::::::16:::::::::|h[Linen Cloth]|h|r",
 											["slot_id"] = 17,
-											["sb"] = 0,
-											["count"] = 20,
-											["bag_id"] = 1,
-											["loc_id"] = 3,
 										}, -- [17]
 										{
-											["h"] = "|cffffffff|Hitem:2509::::::::16:::::::::|h[Ornate Blunderbuss]|h|r",
-											["slot_id"] = 18,
-											["sb"] = 0,
-											["count"] = 1,
-											["bag_id"] = 1,
 											["loc_id"] = 3,
+											["count"] = 1,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:2102::::::::24:::::::::|h[Small Ammo Pouch]|h|r",
+											["bag_id"] = 1,
+											["slot_id"] = 18,
 										}, -- [18]
 										{
-											["h"] = "|cff9d9d9d|Hitem:2778::::::::16:::::::::|h[Cheap Blunderbuss]|h|r",
-											["count"] = 1,
-											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:3734::::::::24:::::::::|h[Recipe: Big Bear Steak]|h|r",
 											["slot_id"] = 19,
-											["bag_id"] = 1,
+											["sb"] = 0,
 											["loc_id"] = 3,
+											["bag_id"] = 1,
+											["count"] = 1,
 										}, -- [19]
 										{
-											["loc_id"] = 3,
-											["slot_id"] = 20,
-											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:7279::::::::24:::::::::|h[Small Leather Ammo Pouch]|h|r",
 											["count"] = 1,
+											["sb"] = 0,
+											["loc_id"] = 3,
 											["bag_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2102::::::::16:::::::::|h[Small Ammo Pouch]|h|r",
+											["slot_id"] = 20,
 										}, -- [20]
 										{
 											["loc_id"] = 3,
-											["count"] = 10,
-											["sb"] = 0,
 											["slot_id"] = 21,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:5470::::::::24:::::::::|h[Thunder Lizard Tail]|h|r",
 											["bag_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2770::::::::16:::::::::|h[Copper Ore]|h|r",
+											["count"] = 3,
 										}, -- [21]
 										{
-											["h"] = "|cffffffff|Hitem:2835::::::::16:::::::::|h[Rough Stone]|h|r",
-											["count"] = 11,
-											["sb"] = 0,
-											["slot_id"] = 22,
-											["bag_id"] = 1,
 											["loc_id"] = 3,
+											["slot_id"] = 22,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:2589::::::::24:::::::::|h[Linen Cloth]|h|r",
+											["bag_id"] = 1,
+											["count"] = 20,
 										}, -- [22]
 										{
-											["loc_id"] = 3,
-											["slot_id"] = 23,
+											["h"] = "|cffffffff|Hitem:2841::::::::24:::::::::|h[Bronze Bar]|h|r",
+											["count"] = 6,
 											["sb"] = 0,
-											["count"] = 20,
+											["loc_id"] = 3,
 											["bag_id"] = 1,
-											["h"] = "|cffffffff|Hitem:2589::::::::16:::::::::|h[Linen Cloth]|h|r",
+											["slot_id"] = 23,
 										}, -- [23]
 										{
-											["h"] = "|cffffffff|Hitem:127::::::::16:::::::::|h[Trapper's Shirt]|h|r",
-											["count"] = 1,
-											["sb"] = 0,
-											["slot_id"] = 24,
-											["bag_id"] = 1,
 											["loc_id"] = 3,
+											["slot_id"] = 24,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:127::::::::24:::::::::|h[Trapper's Shirt]|h|r",
+											["bag_id"] = 1,
+											["count"] = 1,
 										}, -- [24]
 									},
 									["bag_id"] = 1,
@@ -2243,20 +2381,124 @@ ARKINVDB = {
 									["texture"] = "Interface\\Icons\\INV_Box_02",
 								}, -- [1]
 								{
-									["q"] = 0,
+									["q"] = 1,
 									["type"] = 1,
+									["slot"] = {
+										{
+											["loc_id"] = 3,
+											["slot_id"] = 1,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:5503::::::::24:::::::::|h[Clam Meat]|h|r",
+											["bag_id"] = 2,
+											["count"] = 10,
+										}, -- [1]
+										{
+											["h"] = "|cffffffff|Hitem:5075::::::::24:::::::::|h[Blood Shard]|h|r",
+											["slot_id"] = 2,
+											["sb"] = 0,
+											["loc_id"] = 3,
+											["bag_id"] = 2,
+											["count"] = 10,
+										}, -- [2]
+										{
+											["h"] = "|cffffffff|Hitem:5075::::::::24:::::::::|h[Blood Shard]|h|r",
+											["slot_id"] = 3,
+											["sb"] = 0,
+											["loc_id"] = 3,
+											["bag_id"] = 2,
+											["count"] = 10,
+										}, -- [3]
+										{
+											["h"] = "|cffffffff|Hitem:3730::::::::24:::::::::|h[Big Bear Meat]|h|r",
+											["count"] = 3,
+											["sb"] = 0,
+											["loc_id"] = 3,
+											["bag_id"] = 2,
+											["slot_id"] = 4,
+										}, -- [4]
+										{
+											["h"] = "|cffffffff|Hitem:4359::::::::24:::::::::|h[Handful of Copper Bolts]|h|r",
+											["slot_id"] = 5,
+											["sb"] = 0,
+											["loc_id"] = 3,
+											["bag_id"] = 2,
+											["count"] = 1,
+										}, -- [5]
+										{
+											["loc_id"] = 3,
+											["count"] = 4,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:4364::::::::24:::::::::|h[Coarse Blasting Powder]|h|r",
+											["bag_id"] = 2,
+											["slot_id"] = 6,
+										}, -- [6]
+									},
 									["bag_id"] = 2,
 									["loc_id"] = 3,
-									["status"] = -5,
-									["texture"] = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Bag",
+									["count"] = 6,
+									["status"] = -3,
+									["h"] = "|cffffffff|Hitem:4957::::::::24:::::::::|h[Old Moneybag]|h|r",
+									["texture"] = 133639,
 								}, -- [2]
 								{
-									["q"] = 0,
+									["q"] = 1,
 									["type"] = 1,
+									["slot"] = {
+										{
+											["loc_id"] = 3,
+											["count"] = 1,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:4238::::::::24:::::::::|h[Linen Bag]|h|r",
+											["bag_id"] = 3,
+											["slot_id"] = 1,
+										}, -- [1]
+										{
+											["loc_id"] = 3,
+											["count"] = 1,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:4238::::::::24:::::::::|h[Linen Bag]|h|r",
+											["bag_id"] = 3,
+											["slot_id"] = 2,
+										}, -- [2]
+										{
+											["loc_id"] = 3,
+											["count"] = 2,
+											["sb"] = 0,
+											["h"] = "|cff1eff00|Hitem:1206::::::::24:::::::::|h[Moss Agate]|h|r",
+											["bag_id"] = 3,
+											["slot_id"] = 3,
+										}, -- [3]
+										{
+											["loc_id"] = 3,
+											["count"] = 10,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:5470::::::::24:::::::::|h[Thunder Lizard Tail]|h|r",
+											["bag_id"] = 3,
+											["slot_id"] = 4,
+										}, -- [4]
+										{
+											["loc_id"] = 3,
+											["count"] = 19,
+											["sb"] = 0,
+											["h"] = "|cffffffff|Hitem:2840::::::::24:::::::::|h[Copper Bar]|h|r",
+											["bag_id"] = 3,
+											["slot_id"] = 5,
+										}, -- [5]
+										{
+											["h"] = "|cff1eff00|Hitem:1705::::::::24:::::::::|h[Lesser Moonstone]|h|r",
+											["slot_id"] = 6,
+											["sb"] = 0,
+											["loc_id"] = 3,
+											["bag_id"] = 3,
+											["count"] = 1,
+										}, -- [6]
+									},
 									["bag_id"] = 3,
 									["loc_id"] = 3,
-									["status"] = -5,
-									["texture"] = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Bag",
+									["count"] = 6,
+									["status"] = -3,
+									["h"] = "|cffffffff|Hitem:4238::::::::24:::::::::|h[Linen Bag]|h|r",
+									["texture"] = 133622,
 								}, -- [3]
 								{
 									["q"] = 0,
@@ -2291,7 +2533,7 @@ ARKINVDB = {
 									["texture"] = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Bag",
 								}, -- [7]
 							},
-							["slot_count"] = 24,
+							["slot_count"] = 36,
 						}, -- [3]
 						[5] = {
 							["slot_count"] = 1,
@@ -2301,9 +2543,9 @@ ARKINVDB = {
 									["count"] = 1,
 									["slot"] = {
 										{
-											["bag_id"] = 1,
-											["loc_id"] = 5,
 											["slot_id"] = 1,
+											["loc_id"] = 5,
+											["bag_id"] = 1,
 											["sb"] = 0,
 										}, -- [1]
 									},
@@ -2329,24 +2571,26 @@ ARKINVDB = {
 									["slot"] = {
 										{
 											["loc_id"] = 6,
-											["count"] = 1,
+											["slot_id"] = 1,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["slot_id"] = 1,
+											["count"] = 1,
 										}, -- [1]
 										{
 											["loc_id"] = 6,
-											["count"] = 1,
+											["slot_id"] = 2,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["slot_id"] = 2,
+											["count"] = 1,
 										}, -- [2]
 										{
 											["loc_id"] = 6,
-											["count"] = 1,
-											["sb"] = 0,
-											["bag_id"] = 1,
 											["slot_id"] = 3,
+											["sb"] = 0,
+											["count"] = 1,
+											["bag_id"] = 1,
+											["age"] = 28227597,
+											["h"] = "|cff9d9d9d|Hitem:1793::::::::24:::::::::|h[Patched Leather Shoulderpads]|h|r",
 										}, -- [3]
 										{
 											["loc_id"] = 6,
@@ -2354,15 +2598,15 @@ ARKINVDB = {
 											["sb"] = 3,
 											["count"] = 1,
 											["bag_id"] = 1,
-											["age"] = 28218941,
-											["h"] = "|cff1eff00|Hitem:14563::::::::17:::::::::|h[Prospector's Cloak]|h|r",
+											["age"] = 28227802,
+											["h"] = "|cff1eff00|Hitem:14745::::::::24:::::::::|h[Hulking Cloak]|h|r",
 										}, -- [4]
 										{
 											["loc_id"] = 6,
 											["slot_id"] = 5,
 											["sb"] = 3,
-											["h"] = "|cffffffff|Hitem:4968::::::::17:::::::::|h[Bound Harness]|h|r",
-											["age"] = 28218941,
+											["h"] = "|cff1eff00|Hitem:5317::::::::24:::::::::|h[Dry Moss Tunic]|h|r",
+											["age"] = 28228013,
 											["bag_id"] = 1,
 											["count"] = 1,
 										}, -- [5]
@@ -2371,16 +2615,16 @@ ARKINVDB = {
 											["slot_id"] = 6,
 											["sb"] = 0,
 											["count"] = 1,
-											["age"] = 28218941,
+											["age"] = 28227391,
 											["bag_id"] = 1,
-											["h"] = "|cffffffff|Hitem:5107::::::::17:::::::::|h[Deckhand's Shirt]|h|r",
+											["h"] = "|cffffffff|Hitem:5107::::::::24:::::::::|h[Deckhand's Shirt]|h|r",
 										}, -- [6]
 										{
 											["loc_id"] = 6,
-											["count"] = 1,
+											["slot_id"] = 7,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["slot_id"] = 7,
+											["count"] = 1,
 										}, -- [7]
 										{
 											["loc_id"] = 6,
@@ -2388,8 +2632,8 @@ ARKINVDB = {
 											["sb"] = 3,
 											["slot_id"] = 8,
 											["bag_id"] = 1,
-											["age"] = 28218941,
-											["h"] = "|cffffffff|Hitem:4973::::::::17:::::::::|h[Plains Hunter Wristguards]|h|r",
+											["age"] = 28227391,
+											["h"] = "|cff1eff00|Hitem:14122::::::755:2023582720:24:::::::::|h[Ritual Bands of the Owl]|h|r",
 										}, -- [8]
 										{
 											["loc_id"] = 6,
@@ -2397,15 +2641,15 @@ ARKINVDB = {
 											["sb"] = 3,
 											["slot_id"] = 9,
 											["bag_id"] = 1,
-											["age"] = 28219013,
-											["h"] = "|cff1eff00|Hitem:5337::::::::17:::::::::|h[Wayfaring Gloves]|h|r",
+											["age"] = 28227391,
+											["h"] = "|cff1eff00|Hitem:5299::::::::24:::::::::|h[Gloves of the Moon]|h|r",
 										}, -- [9]
 										{
 											["loc_id"] = 6,
 											["count"] = 1,
 											["sb"] = 3,
-											["h"] = "|cff1eff00|Hitem:5275::::::::17:::::::::|h[Binding Girdle]|h|r",
-											["age"] = 28218941,
+											["h"] = "|cff1eff00|Hitem:6477::::::::24:::::::::|h[Grassland Sash]|h|r",
+											["age"] = 28227445,
 											["bag_id"] = 1,
 											["slot_id"] = 10,
 										}, -- [10]
@@ -2414,9 +2658,9 @@ ARKINVDB = {
 											["slot_id"] = 11,
 											["sb"] = 3,
 											["count"] = 1,
-											["age"] = 28218941,
+											["age"] = 28227601,
 											["bag_id"] = 1,
-											["h"] = "|cff1eff00|Hitem:4909::::::::17:::::::::|h[Kodo Hunter's Leggings]|h|r",
+											["h"] = "|cff1eff00|Hitem:2986::::::::24:::::::::|h[Inscribed Leather Pants]|h|r",
 										}, -- [11]
 										{
 											["loc_id"] = 6,
@@ -2424,67 +2668,149 @@ ARKINVDB = {
 											["sb"] = 3,
 											["count"] = 1,
 											["bag_id"] = 1,
-											["age"] = 28218941,
-											["h"] = "|cff1eff00|Hitem:4788::::::::17:::::::::|h[Agile Boots]|h|r",
+											["age"] = 28227391,
+											["h"] = "|cff1eff00|Hitem:4788::::::::24:::::::::|h[Agile Boots]|h|r",
 										}, -- [12]
 										{
 											["loc_id"] = 6,
-											["count"] = 1,
-											["sb"] = 0,
-											["bag_id"] = 1,
 											["slot_id"] = 13,
+											["sb"] = 3,
+											["count"] = 1,
+											["bag_id"] = 1,
+											["age"] = 28227391,
+											["h"] = "|cff1eff00|Hitem:5351::::::::24:::::::::|h[Bounty Hunter's Ring]|h|r",
 										}, -- [13]
 										{
 											["loc_id"] = 6,
-											["count"] = 1,
-											["sb"] = 0,
-											["bag_id"] = 1,
 											["slot_id"] = 14,
+											["sb"] = 3,
+											["h"] = "|cff1eff00|Hitem:17692::::::::24:::::::::|h[Horn Ring]|h|r",
+											["age"] = 28227901,
+											["bag_id"] = 1,
+											["count"] = 1,
 										}, -- [14]
 										{
 											["loc_id"] = 6,
-											["count"] = 1,
+											["slot_id"] = 15,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["slot_id"] = 15,
+											["count"] = 1,
 										}, -- [15]
 										{
 											["loc_id"] = 6,
-											["count"] = 1,
+											["slot_id"] = 16,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["slot_id"] = 16,
+											["count"] = 1,
 										}, -- [16]
 										{
 											["loc_id"] = 6,
 											["slot_id"] = 17,
 											["sb"] = 3,
 											["count"] = 1,
-											["age"] = 28218941,
+											["age"] = 28227391,
 											["bag_id"] = 1,
-											["h"] = "|cff1eff00|Hitem:5340::::::::17:::::::::|h[Cauldron Stirrer]|h|r",
+											["h"] = "|cff1eff00|Hitem:3196::::::504:1108385280:24:::::::::|h[Edged Bastard Sword of the Wolf]|h|r",
 										}, -- [17]
 										{
 											["loc_id"] = 6,
-											["count"] = 1,
+											["slot_id"] = 18,
 											["sb"] = 0,
 											["bag_id"] = 1,
-											["slot_id"] = 18,
+											["count"] = 1,
 										}, -- [18]
 										{
 											["loc_id"] = 6,
 											["slot_id"] = 19,
 											["sb"] = 3,
 											["count"] = 1,
-											["age"] = 28221917,
+											["age"] = 28228744,
 											["bag_id"] = 1,
-											["h"] = "|cff1eff00|Hitem:4369::::::::17:::::::::|h[Deadly Blunderbuss]|h|r",
+											["h"] = "|cff1eff00|Hitem:15284:32:::::::24:::::::::|h[Long Battle Bow]|h|r",
 										}, -- [19]
 									},
 									["status"] = -3,
-									["empty"] = 9,
+									["empty"] = 6,
 									["bag_id"] = 1,
 									["loc_id"] = 6,
+								}, -- [1]
+							},
+						},
+						[16] = {
+							["slot_count"] = 8,
+							["bag"] = {
+								{
+									["type"] = 29,
+									["count"] = 8,
+									["slot"] = {
+										{
+											["loc_id"] = 16,
+											["slot_id"] = 1,
+											["sb"] = 3,
+											["count"] = 1650,
+											["bag_id"] = 1,
+											["h"] = "reputation:21:Neutral:1650:3000:0:0:0",
+										}, -- [1]
+										{
+											["loc_id"] = 16,
+											["slot_id"] = 2,
+											["sb"] = 3,
+											["count"] = 5638,
+											["bag_id"] = 1,
+											["h"] = "reputation:530:Friendly:2638:6000:0:0:0",
+										}, -- [2]
+										{
+											["loc_id"] = 16,
+											["slot_id"] = 3,
+											["sb"] = 3,
+											["count"] = 1650,
+											["bag_id"] = 1,
+											["h"] = "reputation:577:Neutral:1650:3000:0:0:0",
+										}, -- [3]
+										{
+											["loc_id"] = 16,
+											["slot_id"] = 4,
+											["sb"] = 3,
+											["count"] = 1650,
+											["bag_id"] = 1,
+											["h"] = "reputation:369:Neutral:1650:3000:0:0:0",
+										}, -- [4]
+										{
+											["loc_id"] = 16,
+											["slot_id"] = 5,
+											["sb"] = 3,
+											["count"] = 7907,
+											["bag_id"] = 1,
+											["h"] = "reputation:76:Friendly:4907:6000:0:0:0",
+										}, -- [5]
+										{
+											["loc_id"] = 16,
+											["slot_id"] = 6,
+											["sb"] = 3,
+											["count"] = 2800,
+											["bag_id"] = 1,
+											["h"] = "reputation:470:Neutral:2800:3000:0:0:0",
+										}, -- [6]
+										{
+											["loc_id"] = 16,
+											["slot_id"] = 7,
+											["sb"] = 3,
+											["count"] = 11143,
+											["bag_id"] = 1,
+											["h"] = "reputation:81:Honored:2143:12000:0:0:0",
+										}, -- [7]
+										{
+											["loc_id"] = 16,
+											["slot_id"] = 8,
+											["sb"] = 3,
+											["count"] = 3451,
+											["bag_id"] = 1,
+											["h"] = "reputation:68:Friendly:451:6000:0:0:0",
+										}, -- [8]
+									},
+									["status"] = -3,
+									["bag_id"] = 1,
+									["loc_id"] = 16,
 								}, -- [1]
 							},
 						},
@@ -2498,341 +2824,311 @@ ARKINVDB = {
 								}, -- [1]
 							},
 						},
-						[16] = {
-							["slot_count"] = 8,
-							["bag"] = {
-								{
-									["type"] = 29,
-									["count"] = 8,
-									["slot"] = {
-										{
-											["h"] = "reputation:21:Neutral:1015:3000:0:0:0",
-											["count"] = 1015,
-											["sb"] = 3,
-											["slot_id"] = 1,
-											["bag_id"] = 1,
-											["loc_id"] = 16,
-										}, -- [1]
-										{
-											["h"] = "reputation:530:Friendly:912:6000:0:0:0",
-											["count"] = 3912,
-											["sb"] = 3,
-											["slot_id"] = 2,
-											["bag_id"] = 1,
-											["loc_id"] = 16,
-										}, -- [2]
-										{
-											["h"] = "reputation:577:Neutral:1015:3000:0:0:0",
-											["count"] = 1015,
-											["sb"] = 3,
-											["slot_id"] = 3,
-											["bag_id"] = 1,
-											["loc_id"] = 16,
-										}, -- [3]
-										{
-											["h"] = "reputation:369:Neutral:1015:3000:0:0:0",
-											["count"] = 1015,
-											["sb"] = 3,
-											["slot_id"] = 4,
-											["bag_id"] = 1,
-											["loc_id"] = 16,
-										}, -- [4]
-										{
-											["h"] = "reputation:76:Friendly:1981:6000:0:0:0",
-											["count"] = 4981,
-											["sb"] = 3,
-											["slot_id"] = 5,
-											["bag_id"] = 1,
-											["loc_id"] = 16,
-										}, -- [5]
-										{
-											["h"] = "reputation:470:Neutral:1530:3000:0:0:0",
-											["count"] = 1530,
-											["sb"] = 3,
-											["slot_id"] = 6,
-											["bag_id"] = 1,
-											["loc_id"] = 16,
-										}, -- [6]
-										{
-											["h"] = "reputation:81:Friendly:5735:6000:0:0:0",
-											["count"] = 8735,
-											["sb"] = 3,
-											["slot_id"] = 7,
-											["bag_id"] = 1,
-											["loc_id"] = 16,
-										}, -- [7]
-										{
-											["h"] = "reputation:68:Neutral:1458:3000:0:0:0",
-											["count"] = 1458,
-											["sb"] = 3,
-											["slot_id"] = 8,
-											["bag_id"] = 1,
-											["loc_id"] = 16,
-										}, -- [8]
-									},
-									["status"] = -3,
-									["bag_id"] = 1,
-									["loc_id"] = 16,
-								}, -- [1]
-							},
-						},
 					},
 				},
 			},
-			["version"] = 31016,
+			["version"] = 31017,
 		},
-		["version"] = 31016,
+		["version"] = 31017,
 		["cache"] = {
+			["default"] = {
+				["1000:item:1081:0"] = "1!412",
+				["1000:item:2940:0"] = "1!402",
+				["1000:item:2770:0"] = "1!506",
+				["1000:empty:0:1"] = "1!302",
+				["1000:item:2457:0"] = "1!435",
+				["1000:item:2287:0"] = "1!417",
+				["1000:item:5867:0"] = "1!411",
+				["1000:item:5088:1"] = "1!411",
+				["1000:item:5503:0"] = "1!505",
+				["1000:item:5448:0"] = "1!402",
+				["1000:item:9451:0"] = "1!418",
+				["1000:item:6256:0"] = "1!414",
+				["1000:item:16654:0"] = "1!407",
+				["1000:item:5447:0"] = "1!402",
+				["1000:item:3730:0"] = "1!505",
+				["1000:empty:0:12"] = "1!310",
+				["1000:item:2835:0"] = "1!506",
+				["1000:item:4538:0"] = "1!417",
+				["1000:item:16208:0"] = "1!411",
+				["1000:item:16655:0"] = "1!407",
+				["1000:item:1819:0"] = "1!402",
+				["1000:item:1205:0"] = "1!418",
+				["1000:item:929:0"] = "1!420",
+				["1000:item:2251:0"] = "1!505",
+				["1000:item:16649:0"] = "1!407",
+				["1000:item:4363:0"] = "1!411",
+				["1000:item:4306:0"] = "1!502",
+				["1000:item:5868:0"] = "1!411",
+				["1000:item:117:0"] = "1!417",
+				["1000:item:16645:0"] = "1!407",
+				["1000:item:3669:0"] = "1!402",
+				["1000:item:7070:0"] = "1!503",
+				["1000:item:2901:0"] = "1!414",
+				["1000:item:6948:1"] = "1!403",
+				["1000:item:5446:0"] = "1!402",
+				["1000:item:16408:1"] = "1!411",
+				["1000:item:16647:0"] = "1!407",
+				["1000:item:5451:0"] = "1!402",
+				["1000:item:2455:0"] = "1!419",
+				["1000:item:2836:0"] = "1!506",
+				["1000:item:2592:0"] = "1!502",
+				["1000:item:2771:0"] = "1!506",
+				["1000:item:3531:0"] = "1!432",
+				["1000:item:16303:1"] = "1!411",
+				["1000:item:6888:0"] = "1!417",
+				["1000:item:2515:0"] = "1!421",
+			},
 			["reputation"] = {
 				{
-					["r"] = false,
+					["n"] = "PLAYER, Human",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "PLAYER, Human",
+					["r"] = false,
 				}, -- [1]
 				{
-					["r"] = false,
+					["n"] = "PLAYER, Orc",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "PLAYER, Orc",
+					["r"] = false,
 				}, -- [2]
 				{
-					["r"] = false,
+					["n"] = "PLAYER, Dwarf",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "PLAYER, Dwarf",
+					["r"] = false,
 				}, -- [3]
 				{
-					["r"] = false,
+					["n"] = "PLAYER, Night Elf",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "PLAYER, Night Elf",
+					["r"] = false,
 				}, -- [4]
 				{
-					["r"] = false,
+					["n"] = "PLAYER, Undead",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "PLAYER, Undead",
+					["r"] = false,
 				}, -- [5]
 				{
-					["r"] = false,
+					["n"] = "PLAYER, Tauren ",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "PLAYER, Tauren ",
+					["r"] = false,
 				}, -- [6]
 				{
-					["r"] = false,
+					["n"] = "Creature",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Creature",
+					["r"] = false,
 				}, -- [7]
 				{
-					["r"] = false,
+					["n"] = "PLAYER, Gnome",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "PLAYER, Gnome",
+					["r"] = false,
 				}, -- [8]
 				{
-					["r"] = false,
+					["n"] = "PLAYER, Troll",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "PLAYER, Troll",
+					["r"] = false,
 				}, -- [9]
 				nil, -- [10]
 				nil, -- [11]
 				nil, -- [12]
 				nil, -- [13]
 				{
-					["r"] = false,
+					["n"] = "Monster",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Monster",
+					["r"] = false,
 				}, -- [14]
 				{
-					["r"] = false,
+					["n"] = "Defias Brotherhood",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Defias Brotherhood",
+					["r"] = false,
 				}, -- [15]
 				{
-					["r"] = false,
+					["n"] = "Gnoll - Riverpaw",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Gnoll - Riverpaw",
+					["r"] = false,
 				}, -- [16]
 				{
-					["r"] = false,
+					["n"] = "Gnoll - Redridge",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Gnoll - Redridge",
+					["r"] = false,
 				}, -- [17]
 				{
-					["r"] = false,
+					["n"] = "Gnoll - Shadowhide",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Gnoll - Shadowhide",
+					["r"] = false,
 				}, -- [18]
 				{
-					["r"] = false,
+					["n"] = "Murloc",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Murloc",
+					["r"] = false,
 				}, -- [19]
 				{
-					["r"] = false,
+					["n"] = "Undead, Scourge",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Undead, Scourge",
+					["r"] = false,
 				}, -- [20]
 				{
-					["r"] = false,
+					["n"] = "Booty Bay",
 					["d"] = "This booming coastal city is run by Baron Revilgaz of the Blackwater Raiders.  Mortal enemies of the Bloodsail Buccaneers and part of the Steamwheedle Cartel.",
 					["w"] = true,
-					["n"] = "Booty Bay",
+					["r"] = false,
 				}, -- [21]
 				{
-					["r"] = false,
+					["n"] = "Beast - Spider",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Spider",
+					["r"] = false,
 				}, -- [22]
 				{
-					["r"] = false,
+					["n"] = "Beast - Boar",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Boar",
+					["r"] = false,
 				}, -- [23]
 				{
-					["r"] = false,
+					["n"] = "Worgen",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Worgen",
+					["r"] = false,
 				}, -- [24]
 				{
-					["r"] = false,
+					["n"] = "Kobold",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Kobold",
+					["r"] = false,
 				}, -- [25]
 				{
-					["r"] = false,
+					["n"] = "Troll, Bloodscalp",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Troll, Bloodscalp",
+					["r"] = false,
 				}, -- [26]
 				{
-					["r"] = false,
+					["n"] = "Troll, Skullsplitter",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Troll, Skullsplitter",
+					["r"] = false,
 				}, -- [27]
 				{
-					["r"] = false,
+					["n"] = "Prey",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Prey",
+					["r"] = false,
 				}, -- [28]
 				{
-					["r"] = false,
+					["n"] = "Beast - Wolf",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Wolf",
+					["r"] = false,
 				}, -- [29]
 				{
-					["r"] = false,
+					["n"] = "Defias Brotherhood Traitor",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Defias Brotherhood Traitor",
+					["r"] = false,
 				}, -- [30]
 				{
-					["r"] = false,
+					["n"] = "Friendly",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Friendly",
+					["r"] = false,
 				}, -- [31]
 				{
-					["r"] = false,
+					["n"] = "Trogg",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Trogg",
+					["r"] = false,
 				}, -- [32]
 				{
-					["r"] = false,
+					["n"] = "Troll, Frostmane",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Troll, Frostmane",
+					["r"] = false,
 				}, -- [33]
 				{
-					["r"] = false,
+					["n"] = "Orc, Blackrock",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Orc, Blackrock",
+					["r"] = false,
 				}, -- [34]
 				{
-					["r"] = false,
+					["n"] = "Villian",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Villian",
+					["r"] = false,
 				}, -- [35]
 				{
-					["r"] = false,
+					["n"] = "Victim",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Victim",
+					["r"] = false,
 				}, -- [36]
 				{
-					["r"] = false,
+					["n"] = "Beast - Bear",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Bear",
+					["r"] = false,
 				}, -- [37]
 				{
-					["r"] = false,
+					["n"] = "Ogre",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Ogre",
+					["r"] = false,
 				}, -- [38]
 				{
-					["r"] = false,
+					["n"] = "Kurzen's Mercenaries",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Kurzen's Mercenaries",
+					["r"] = false,
 				}, -- [39]
 				{
-					["r"] = false,
+					["n"] = "Escortee",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Escortee",
+					["r"] = false,
 				}, -- [40]
 				{
-					["r"] = false,
+					["n"] = "Venture Company",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Venture Company",
+					["r"] = false,
 				}, -- [41]
 				{
-					["r"] = false,
+					["n"] = "Beast - Raptor",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Raptor",
+					["r"] = false,
 				}, -- [42]
 				{
-					["r"] = false,
+					["n"] = "Basilisk",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Basilisk",
+					["r"] = false,
 				}, -- [43]
 				{
-					["r"] = false,
+					["n"] = "Dragonflight, Green",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Dragonflight, Green",
+					["r"] = false,
 				}, -- [44]
 				{
-					["r"] = false,
+					["n"] = "Lost Ones",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Lost Ones",
+					["r"] = false,
 				}, -- [45]
 				nil, -- [46]
 				{
@@ -2842,40 +3138,40 @@ ARKINVDB = {
 					["r"] = false,
 				}, -- [47]
 				{
-					["r"] = false,
+					["n"] = "Dark Iron Dwarves",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Dark Iron Dwarves",
+					["r"] = false,
 				}, -- [48]
 				{
-					["r"] = false,
+					["n"] = "Human, Night Watch",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Human, Night Watch",
+					["r"] = false,
 				}, -- [49]
 				{
-					["r"] = false,
+					["n"] = "Dragonflight, Red",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Dragonflight, Red",
+					["r"] = false,
 				}, -- [50]
 				{
-					["r"] = false,
+					["n"] = "Gnoll - Mosshide",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Gnoll - Mosshide",
+					["r"] = false,
 				}, -- [51]
 				{
-					["r"] = false,
+					["n"] = "Orc, Dragonmaw",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Orc, Dragonmaw",
+					["r"] = false,
 				}, -- [52]
 				{
-					["r"] = false,
+					["n"] = "Gnome - Leper",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Gnome - Leper",
+					["r"] = false,
 				}, -- [53]
 				{
 					["n"] = "Gnomeregan Exiles",
@@ -2884,88 +3180,88 @@ ARKINVDB = {
 					["r"] = false,
 				}, -- [54]
 				{
-					["r"] = false,
+					["n"] = "Leopard",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Leopard",
+					["r"] = false,
 				}, -- [55]
 				{
-					["r"] = false,
+					["n"] = "Scarlet Crusade",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Scarlet Crusade",
+					["r"] = false,
 				}, -- [56]
 				{
-					["r"] = false,
+					["n"] = "Gnoll - Rothide",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Gnoll - Rothide",
+					["r"] = false,
 				}, -- [57]
 				{
-					["r"] = false,
+					["n"] = "Beast - Gorilla",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Gorilla",
+					["r"] = false,
 				}, -- [58]
 				{
-					["r"] = false,
+					["n"] = "Thorium Brotherhood",
 					["d"] = "The dwarves of the Thorium Brotherhood epitomize excellence in craftsmanship and are bent on unlocking the secrets of Blackrock Mountain.",
 					["w"] = false,
-					["n"] = "Thorium Brotherhood",
+					["r"] = false,
 				}, -- [59]
 				{
-					["r"] = false,
+					["n"] = "Naga",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Naga",
+					["r"] = false,
 				}, -- [60]
 				{
-					["r"] = false,
+					["n"] = "Dalaran",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Dalaran",
+					["r"] = false,
 				}, -- [61]
 				{
-					["r"] = false,
+					["n"] = "Forlorn Spirit",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Forlorn Spirit",
+					["r"] = false,
 				}, -- [62]
 				{
-					["r"] = false,
+					["n"] = "Darkhowl",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Darkhowl",
+					["r"] = false,
 				}, -- [63]
 				{
-					["r"] = false,
+					["n"] = "Grell",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Grell",
+					["r"] = false,
 				}, -- [64]
 				{
-					["r"] = false,
+					["n"] = "Furbolg",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Furbolg",
+					["r"] = false,
 				}, -- [65]
 				{
-					["r"] = false,
+					["n"] = "Horde Generic",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Horde Generic",
+					["r"] = false,
 				}, -- [66]
 				{
-					["r"] = false,
+					["n"] = "Horde",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Horde",
+					["r"] = false,
 				}, -- [67]
 				{
-					["r"] = false,
+					["n"] = "Undercity",
 					["d"] = "Led by Sylvanas Windrunner, the Forsaken have joined a tenuous alliance with the Horde and established this capital in the vast depths under the Ruins of Lordaeron.",
 					["w"] = false,
-					["n"] = "Undercity",
+					["r"] = false,
 				}, -- [68]
 				{
 					["n"] = "Darnassus",
@@ -2974,16 +3270,16 @@ ARKINVDB = {
 					["r"] = false,
 				}, -- [69]
 				{
-					["r"] = false,
+					["n"] = "Syndicate",
 					["d"] = "A primarily human criminal organization that operates mostly out of the Alterac Mountains and Hillsbrad Foothills.",
 					["w"] = false,
-					["n"] = "Syndicate",
+					["r"] = false,
 				}, -- [70]
 				{
-					["r"] = false,
+					["n"] = "Hillsbrad Militia",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Hillsbrad Militia",
+					["r"] = false,
 				}, -- [71]
 				{
 					["n"] = "Stormwind",
@@ -2992,126 +3288,126 @@ ARKINVDB = {
 					["r"] = false,
 				}, -- [72]
 				{
-					["r"] = false,
+					["n"] = "Demon",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Demon",
+					["r"] = false,
 				}, -- [73]
 				{
-					["r"] = false,
+					["n"] = "Elemental",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Elemental",
+					["r"] = false,
 				}, -- [74]
 				{
-					["r"] = false,
+					["n"] = "Spirit",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Spirit",
+					["r"] = false,
 				}, -- [75]
 				{
-					["r"] = false,
+					["n"] = "Orgrimmar",
 					["d"] = "Founded by Thrall, this Horde capital city is home to many of the proud orc clans of Durotar.",
 					["w"] = false,
-					["n"] = "Orgrimmar",
+					["r"] = false,
 				}, -- [76]
 				{
-					["r"] = false,
+					["n"] = "Treasure",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Treasure",
+					["r"] = false,
 				}, -- [77]
 				{
-					["r"] = false,
+					["n"] = "Gnoll - Mudsnout",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Gnoll - Mudsnout",
+					["r"] = false,
 				}, -- [78]
 				{
-					["r"] = false,
+					["n"] = "HIllsbrad, Southshore Mayor",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "HIllsbrad, Southshore Mayor",
+					["r"] = false,
 				}, -- [79]
 				{
-					["r"] = false,
+					["n"] = "Dragonflight, Black",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Dragonflight, Black",
+					["r"] = false,
 				}, -- [80]
 				{
-					["r"] = false,
+					["n"] = "Thunder Bluff",
 					["d"] = "Cairne Bloodhoof leads his people, the Proud Tauren, from this mighty Horde capital.",
 					["w"] = false,
-					["n"] = "Thunder Bluff",
+					["r"] = false,
 				}, -- [81]
 				{
-					["r"] = false,
+					["n"] = "Troll, Witherbark",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Troll, Witherbark",
+					["r"] = false,
 				}, -- [82]
 				nil, -- [83]
 				{
-					["r"] = false,
+					["n"] = "Quilboar, Razormane",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Quilboar, Razormane",
+					["r"] = false,
 				}, -- [84]
 				{
-					["r"] = false,
+					["n"] = "Quilboar, Bristleback",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Quilboar, Bristleback",
+					["r"] = false,
 				}, -- [85]
 				nil, -- [86]
 				{
-					["r"] = false,
+					["n"] = "Bloodsail Buccaneers",
 					["d"] = "These bloodthirsty corsairs are the bane of many a merchant in the high seas.  Sworn enemies of Booty Bay.",
 					["w"] = false,
-					["n"] = "Bloodsail Buccaneers",
+					["r"] = false,
 				}, -- [87]
 				{
-					["r"] = false,
+					["n"] = "Blackfathom",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Blackfathom",
+					["r"] = false,
 				}, -- [88]
 				{
-					["r"] = false,
+					["n"] = "Makrura",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Makrura",
+					["r"] = false,
 				}, -- [89]
 				{
-					["r"] = false,
+					["n"] = "Centaur, Kolkar",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Centaur, Kolkar",
+					["r"] = false,
 				}, -- [90]
 				{
-					["r"] = false,
+					["n"] = "Centaur, Galak",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Centaur, Galak",
+					["r"] = false,
 				}, -- [91]
 				{
-					["r"] = false,
+					["n"] = "Gelkis Clan Centaur",
 					["d"] = "These centaur have made their home in the southern region of Desolace.  Mortal enemies of the Magram Centaur.",
 					["w"] = true,
-					["n"] = "Gelkis Clan Centaur",
+					["r"] = false,
 				}, -- [92]
 				{
-					["r"] = false,
+					["n"] = "Magram Clan Centaur",
 					["d"] = "These centaur have made their home in the eastern region of Desolace.  Mortal enemies of the Gelkis Centaur.",
 					["w"] = true,
-					["n"] = "Magram Clan Centaur",
+					["r"] = false,
 				}, -- [93]
 				{
-					["r"] = false,
+					["n"] = "Maraudine",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Maraudine",
+					["r"] = false,
 				}, -- [94]
 				nil, -- [95]
 				nil, -- [96]
@@ -3127,28 +3423,28 @@ ARKINVDB = {
 				nil, -- [106]
 				nil, -- [107]
 				{
-					["r"] = false,
+					["n"] = "Theramore",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Theramore",
+					["r"] = false,
 				}, -- [108]
 				{
-					["r"] = false,
+					["n"] = "Quilboar, Razorfen",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Quilboar, Razorfen",
+					["r"] = false,
 				}, -- [109]
 				{
-					["r"] = false,
+					["n"] = "Quilboar, Razormane 2",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Quilboar, Razormane 2",
+					["r"] = false,
 				}, -- [110]
 				{
-					["r"] = false,
+					["n"] = "Quilboar, Deathshead",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Quilboar, Deathshead",
+					["r"] = false,
 				}, -- [111]
 				nil, -- [112]
 				nil, -- [113]
@@ -3167,124 +3463,124 @@ ARKINVDB = {
 				nil, -- [126]
 				nil, -- [127]
 				{
-					["r"] = false,
+					["n"] = "Enemy",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Enemy",
+					["r"] = false,
 				}, -- [128]
 				[575] = {
-					["r"] = false,
+					["n"] = "Furbolg, Uncorrupted",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Furbolg, Uncorrupted",
+					["r"] = false,
 				},
 				[369] = {
-					["r"] = false,
+					["n"] = "Gadgetzan",
 					["d"] = "Capital of the Steamwheedle Cartel and home to goblinhood's finest engineers, alchemists and merchants.",
 					["w"] = true,
-					["n"] = "Gadgetzan",
+					["r"] = false,
 				},
 				[869] = {
-					["r"] = false,
+					["n"] = "Jaedenar",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Jaedenar",
+					["r"] = false,
 				},
 				[750] = {
-					["r"] = false,
+					["n"] = "Sulfuron Firelords",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Sulfuron Firelords",
+					["r"] = false,
 				},
 				[893] = {
-					["r"] = false,
+					["n"] = "Revantusk Trolls",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Revantusk Trolls",
+					["r"] = false,
 				},
 				[389] = {
-					["r"] = false,
+					["n"] = "Gnomeregan Bug",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Gnomeregan Bug",
+					["r"] = false,
 				},
 				[909] = {
-					["r"] = false,
+					["n"] = "Darkmoon Faire",
 					["d"] = "A traveling fair that showcases the weird and the extraordinary.  Often spotted in Elwynn Forest and Mulgore.",
 					["w"] = false,
-					["n"] = "Darkmoon Faire",
+					["r"] = false,
 				},
 				[790] = {
-					["r"] = false,
+					["n"] = "Spirit Guide - Alliance",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Spirit Guide - Alliance",
+					["r"] = false,
 				},
 				[671] = {
-					["r"] = false,
+					["n"] = "Beast - Crab",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Crab",
+					["r"] = false,
 				},
 				[679] = {
-					["r"] = false,
+					["n"] = "Training Dummy",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Training Dummy",
+					["r"] = false,
 				},
 				[409] = {
-					["r"] = false,
+					["n"] = "Harpy",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Harpy",
+					["r"] = false,
 				},
 				[576] = {
-					["r"] = false,
+					["n"] = "Timbermaw Hold",
 					["d"] = "As the last uncorrupted furbolg tribe, the Timbermaw seek to preserve their spiritual ways and end the suffering of their brethren.",
 					["w"] = false,
-					["n"] = "Timbermaw Hold",
+					["r"] = false,
 				},
 				[148] = {
-					["r"] = false,
+					["n"] = "Ambient",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Ambient",
+					["r"] = false,
 				},
 				[429] = {
-					["r"] = false,
+					["n"] = "Burning Blade",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Burning Blade",
+					["r"] = false,
 				},
 				[310] = {
-					["r"] = false,
+					["n"] = "Beast - Bat",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Bat",
+					["r"] = false,
 				},
 				[449] = {
-					["r"] = false,
+					["n"] = "Shadowsilk Poacher",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Shadowsilk Poacher",
+					["r"] = false,
 				},
 				[529] = {
-					["r"] = false,
+					["n"] = "Argent Dawn",
 					["d"] = "An organization focused on protecting Azeroth from the threat of the Scourge.  Strongholds of the Argent Dawn can be found in the Eastern and Western Plaguelands.",
 					["w"] = true,
-					["n"] = "Argent Dawn",
+					["r"] = false,
 				},
 				[168] = {
-					["r"] = false,
+					["n"] = "Nethergarde Caravan",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Nethergarde Caravan",
+					["r"] = false,
 				},
 				[672] = {
-					["r"] = false,
+					["n"] = "Beast - Crocilisk",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Crocilisk",
+					["r"] = false,
 				},
 				[469] = {
 					["n"] = "Alliance",
@@ -3293,178 +3589,178 @@ ARKINVDB = {
 					["r"] = false,
 				},
 				[950] = {
-					["r"] = false,
+					["n"] = "ToWoW - Flag",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "ToWoW - Flag",
+					["r"] = false,
 				},
 				[577] = {
-					["r"] = false,
+					["n"] = "Everlook",
 					["d"] = "This trading post is run by the goblins of the Steamwheedle Cartel and it sits in the crossroads of Winterspring's main trade routes.",
 					["w"] = true,
-					["n"] = "Everlook",
+					["r"] = false,
 				},
 				[489] = {
-					["r"] = false,
+					["n"] = "Goblin, Dark Iron Bar Patron",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Goblin, Dark Iron Bar Patron",
+					["r"] = false,
 				},
 				[609] = {
-					["r"] = false,
+					["n"] = "Cenarion Circle",
 					["d"] = "The druids of Cenarion Circle are guardians of nature and make their home in tranquil Moonglade.",
 					["w"] = true,
-					["n"] = "Cenarion Circle",
+					["r"] = false,
 				},
 				[509] = {
-					["r"] = false,
+					["n"] = "The League of Arathor",
 					["d"] = "The League of Arathor seeks to reclaim lost land of Arathi Basin for their benefactors in Stormwind.",
 					["w"] = false,
-					["n"] = "The League of Arathor",
+					["r"] = false,
 				},
 				[649] = {
-					["r"] = false,
+					["n"] = "Majordomo Executus",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Majordomo Executus",
+					["r"] = false,
 				},
 				[530] = {
-					["r"] = false,
+					["n"] = "Darkspear Trolls",
 					["d"] = "This tribe of exiled trolls has joined forces with Thrall and the Horde.  They now call Durotar their home, which they share with their orc allies.",
 					["w"] = false,
-					["n"] = "Darkspear Trolls",
+					["r"] = false,
 				},
 				[919] = {
-					["r"] = false,
+					["n"] = "RC Objects",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "RC Objects",
+					["r"] = false,
 				},
 				[673] = {
-					["r"] = false,
+					["n"] = "Beast - Hyena",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Hyena",
+					["r"] = false,
 				},
 				[689] = {
-					["r"] = false,
+					["n"] = "Dragonflight, Black - Bait",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Dragonflight, Black - Bait",
+					["r"] = false,
 				},
 				[951] = {
-					["r"] = false,
+					["n"] = "ToWoW - Flag Trigger Alliance (DND)",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "ToWoW - Flag Trigger Alliance (DND)",
+					["r"] = false,
 				},
 				[729] = {
-					["r"] = false,
+					["n"] = "Frostwolf Clan",
 					["d"] = "The Frostwolf Clan seeks to drive out the dwarves of the Stormpike Expedition from Alterac Valley.",
 					["w"] = false,
-					["n"] = "Frostwolf Clan",
+					["r"] = false,
 				},
 				[311] = {
-					["r"] = false,
+					["n"] = "Titan",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Titan",
+					["r"] = false,
 				},
 				[450] = {
-					["r"] = false,
+					["n"] = "Searing Spider",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Searing Spider",
+					["r"] = false,
 				},
 				[531] = {
-					["r"] = false,
+					["n"] = "Dragonflight, Bronze",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Dragonflight, Bronze",
+					["r"] = false,
 				},
 				[920] = {
-					["r"] = false,
+					["n"] = "Red",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Red",
+					["r"] = false,
 				},
 				[674] = {
-					["r"] = false,
+					["n"] = "Beast - Owl",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Owl",
+					["r"] = false,
 				},
 				[470] = {
-					["r"] = false,
+					["n"] = "Ratchet",
 					["d"] = "Part of the Steamwheedle Cartel, this goblin city provides a neutral haven for those that wish to trade goods and services in the Barrens.",
 					["w"] = true,
-					["n"] = "Ratchet",
+					["r"] = false,
 				},
 				[849] = {
-					["r"] = false,
+					["n"] = "Spirit Guide - Horde",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Spirit Guide - Horde",
+					["r"] = false,
 				},
 				[730] = {
-					["r"] = false,
+					["n"] = "Stormpike Guard",
 					["d"] = "The Stormpike Dwarves have set up residence in Alterac Valley, where they're locked in battle with the Frostwolf Orcs.",
 					["w"] = false,
-					["n"] = "Stormpike Guard",
+					["r"] = false,
 				},
 				[510] = {
-					["r"] = false,
+					["n"] = "The Defilers",
 					["d"] = "The Defilers seek to claim Arathi Basin's valuable resources for the Horde.",
 					["w"] = false,
-					["n"] = "The Defilers",
+					["r"] = false,
 				},
 				[770] = {
-					["r"] = false,
+					["n"] = "Gizlock's Charm",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Gizlock's Charm",
+					["r"] = false,
 				},
 				[532] = {
-					["r"] = false,
+					["n"] = "Dragonflight, Blue",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Dragonflight, Blue",
+					["r"] = false,
 				},
 				[921] = {
-					["r"] = false,
+					["n"] = "Blue",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Blue",
+					["r"] = false,
 				},
 				[675] = {
-					["r"] = false,
+					["n"] = "Beast - Scorpid",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Scorpid",
+					["r"] = false,
 				},
 				[572] = {
-					["r"] = false,
+					["n"] = "Troll, Vilebranch",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Troll, Vilebranch",
+					["r"] = false,
 				},
 				[1041] = {
-					["r"] = false,
+					["n"] = "Frenzy",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Frenzy",
+					["r"] = false,
 				},
 				[889] = {
-					["r"] = false,
+					["n"] = "Warsong Outriders",
 					["d"] = "Fierce orcs of the Warsong Clan, locked in battle against the Silverwing Sentinels in Warsong Gulch.",
 					["w"] = false,
-					["n"] = "Warsong Outriders",
+					["r"] = false,
 				},
 				[2403] = {
-					["r"] = false,
+					["n"] = "CTF - Flag - Alliance",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "CTF - Flag - Alliance",
+					["r"] = false,
 				},
 				[890] = {
 					["n"] = "Silverwing Sentinels",
@@ -3473,34 +3769,34 @@ ARKINVDB = {
 					["r"] = false,
 				},
 				[771] = {
-					["r"] = false,
+					["n"] = "Gizlock",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Gizlock",
+					["r"] = false,
 				},
 				[809] = {
-					["r"] = false,
+					["n"] = "Shen'dralar",
 					["d"] = "A remnant of the once powerful elves living in Dire Maul, yet still wise and knowledgeable about great secrets. ",
 					["w"] = false,
-					["n"] = "Shen'dralar",
+					["r"] = false,
 				},
 				[928] = {
-					["r"] = false,
+					["n"] = "Scourge Invaders",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Scourge Invaders",
+					["r"] = false,
 				},
 				[169] = {
-					["r"] = false,
+					["n"] = "Steamwheedle Cartel",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Steamwheedle Cartel",
+					["r"] = false,
 				},
 				[676] = {
-					["r"] = false,
+					["n"] = "Beast - Tallstrider",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Tallstrider",
+					["r"] = false,
 				},
 				[471] = {
 					["n"] = "Wildhammer Clan",
@@ -3509,22 +3805,22 @@ ARKINVDB = {
 					["r"] = false,
 				},
 				[954] = {
-					["r"] = false,
+					["n"] = "ToWoW - Flag Trigger Horde (DND)",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "ToWoW - Flag Trigger Horde (DND)",
+					["r"] = false,
 				},
 				[573] = {
-					["r"] = false,
+					["n"] = "Southsea Freebooters",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Southsea Freebooters",
+					["r"] = false,
 				},
 				[789] = {
-					["r"] = false,
+					["n"] = "Moro'gai",
 					["d"] = "",
 					["w"] = false,
-					["n"] = "Moro'gai",
+					["r"] = false,
 				},
 				[589] = {
 					["n"] = "Wintersaber Trainers",
@@ -3533,106 +3829,106 @@ ARKINVDB = {
 					["r"] = false,
 				},
 				[229] = {
-					["r"] = false,
+					["n"] = "Wailing Caverns",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Wailing Caverns",
+					["r"] = false,
 				},
 				[917] = {
-					["r"] = false,
+					["n"] = "The Ironforge Brigade",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "The Ironforge Brigade",
+					["r"] = false,
 				},
 				[249] = {
-					["r"] = false,
+					["n"] = "Silithid",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Silithid",
+					["r"] = false,
 				},
 				[189] = {
-					["r"] = false,
+					["n"] = "Alliance Generic",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Alliance Generic",
+					["r"] = false,
 				},
 				[629] = {
-					["r"] = false,
+					["n"] = "Shatterspear Trolls",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Shatterspear Trolls",
+					["r"] = false,
 				},
 				[511] = {
-					["r"] = false,
+					["n"] = "Giant",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Giant",
+					["r"] = false,
 				},
 				[270] = {
-					["r"] = false,
+					["n"] = "Zandalar Tribe",
 					["d"] = "These trolls have come to Yojamba Isle in an effort to recruit help against the resurrected Blood God and his Atal'ai Priests in Zul'Gurub.",
 					["w"] = false,
-					["n"] = "Zandalar Tribe",
+					["r"] = false,
 				},
 				[931] = {
-					["r"] = false,
+					["n"] = "Test Faction (not a real faction)",
 					["d"] = "This faction only exists to test the editing of faction names and descriptions...",
 					["w"] = true,
-					["n"] = "Test Faction (not a real faction)",
+					["r"] = false,
 				},
 				[269] = {
-					["r"] = false,
+					["n"] = "Silvermoon Remnant",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Silvermoon Remnant",
+					["r"] = false,
 				},
 				[669] = {
-					["r"] = false,
+					["n"] = "Beast - Carrion Bird",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Carrion Bird",
+					["r"] = false,
 				},
 				[677] = {
-					["r"] = false,
+					["n"] = "Beast - Turtle",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Turtle",
+					["r"] = false,
 				},
 				[915] = {
-					["r"] = false,
+					["n"] = "Armies of C'Thun",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Armies of C'Thun",
+					["r"] = false,
 				},
 				[912] = {
-					["r"] = false,
+					["n"] = "Might of Kalimdor",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Might of Kalimdor",
+					["r"] = false,
 				},
 				[209] = {
-					["r"] = false,
+					["n"] = "Nethergarde",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Nethergarde",
+					["r"] = false,
 				},
 				[910] = {
-					["r"] = false,
+					["n"] = "Brood of Nozdormu",
 					["d"] = "The descendants of the Bronze Dragonflight are the guardians of time and care little for the mortal races.",
 					["w"] = false,
-					["n"] = "Brood of Nozdormu",
+					["r"] = false,
 				},
 				[769] = {
-					["r"] = false,
+					["n"] = "Gizlock's Dummy",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Gizlock's Dummy",
+					["r"] = false,
 				},
 				[829] = {
-					["r"] = false,
+					["n"] = "Ogre (Captain Kromcrush)",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Ogre (Captain Kromcrush)",
+					["r"] = false,
 				},
 				[891] = {
 					["n"] = "Alliance Forces",
@@ -3641,412 +3937,173 @@ ARKINVDB = {
 					["r"] = false,
 				},
 				[309] = {
-					["r"] = false,
+					["n"] = "Scorpid",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Scorpid",
+					["r"] = false,
 				},
 				[749] = {
-					["r"] = false,
+					["n"] = "Hydraxian Waterlords",
 					["d"] = "These elementals have made their home on the islands east of Azshara.  Sworn enemies of the armies of Ragnaros.",
 					["w"] = true,
-					["n"] = "Hydraxian Waterlords",
+					["r"] = false,
 				},
 				[630] = {
-					["r"] = false,
+					["n"] = "Ravasaur Trainers",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Ravasaur Trainers",
+					["r"] = false,
 				},
 				[892] = {
-					["r"] = false,
+					["n"] = "Horde Forces",
 					["d"] = "",
 					["w"] = false,
-					["n"] = "Horde Forces",
+					["r"] = false,
 				},
 				[918] = {
-					["r"] = false,
+					["n"] = "RC Enemies",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "RC Enemies",
+					["r"] = false,
 				},
 				[329] = {
-					["r"] = false,
+					["n"] = "Taskmaster Fizzule",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Taskmaster Fizzule",
+					["r"] = false,
 				},
 				[916] = {
-					["r"] = false,
+					["n"] = "Silithid Attackers",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Silithid Attackers",
+					["r"] = false,
 				},
 				[670] = {
-					["r"] = false,
+					["n"] = "Beast - Cat",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Cat",
+					["r"] = false,
 				},
 				[678] = {
-					["r"] = false,
+					["n"] = "Beast - Wind Serpent",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Beast - Wind Serpent",
+					["r"] = false,
 				},
 				[2402] = {
-					["r"] = false,
+					["n"] = "CTF - Flag - Horde",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "CTF - Flag - Horde",
+					["r"] = false,
 				},
 				[349] = {
-					["r"] = false,
+					["n"] = "Ravenholdt",
 					["d"] = "This guild of thieves and assassins welcomes only those of extraordinary prowess into its fold.  Sworn rivals of the Syndicate.",
 					["w"] = true,
-					["n"] = "Ravenholdt",
+					["r"] = false,
 				},
 				[2505] = {
-					["r"] = false,
+					["n"] = "Dragonflight, Chromatic",
 					["d"] = "",
 					["w"] = true,
-					["n"] = "Dragonflight, Chromatic",
+					["r"] = false,
 				},
 			},
-			["version"] = 31016,
+			["rule"] = {
+				["1:3:8:0:1000:empty:0:1"] = false,
+				["1:1:3:0:1000:item:3669:0"] = false,
+				["1:2:5:0:1000:item:5446:0"] = false,
+				["1:3:2:0:1000:empty:0:1"] = false,
+				["1:1:10:0:1000:item:2592:0"] = false,
+				["1:3:2:0:1000:item:1819:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:1:13:0:1000:item:16208:0"] = false,
+				["1:1:14:0:1000:item:5503:0"] = false,
+				["1:4:8:0:1000:item:2455:0"] = false,
+				["1:1:16:0:1000:item:5868:0"] = false,
+				["1:1:12:0:1000:item:16645:0"] = false,
+				["1:2:6:0:1000:empty:0:1"] = false,
+				["1:1:4:0:1000:item:1205:0"] = false,
+				["1:2:4:0:1000:item:5447:0"] = false,
+				["1:1:12:0:1000:item:9451:0"] = false,
+				["1:3:9:0:1000:item:2771:0"] = false,
+				["1:3:3:0:1000:empty:0:1"] = false,
+				["1:3:6:0:1000:empty:0:1"] = false,
+				["1:1:5:0:1000:empty:0:1"] = false,
+				["1:2:1:0:1000:item:2835:0"] = false,
+				["1:1:19:0:1000:empty:0:1"] = false,
+				["1:2:2:0:1000:item:2287:0"] = false,
+				["1:1:12:0:1000:empty:0:1"] = false,
+				["1:2:8:0:1000:empty:0:1"] = false,
+				["1:2:9:0:1000:empty:0:1"] = false,
+				["1:2:7:0:1000:item:5448:0"] = false,
+				["1:1:11:0:1000:item:2836:0"] = false,
+				["1:5:10:0:1000:item:2515:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:4:4:0:1000:item:2457:0"] = false,
+				["1:1:16:0:1000:empty:0:1"] = false,
+				["1:2:10:3:1000:item:16303:1"] = false,
+				["1:2:8:0:1000:item:16647:0"] = false,
+				["1:1:17:0:1000:item:2835:0"] = false,
+				["1:4:3:0:1000:item:1081:0"] = false,
+				["1:3:1:0:1000:item:3730:0"] = false,
+				["1:4:6:0:1000:item:2901:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:2:5:0:1000:empty:0:1"] = false,
+				["1:1:15:0:1000:item:2770:0"] = false,
+				["1:4:1:0:1000:empty:0:1"] = false,
+				["1:5:1:0:1000:empty:0:12"] = false,
+				["1:1:5:0:1000:item:4538:0"] = false,
+				["1:1:18:0:1000:item:7070:0"] = false,
+				["1:4:1:0:1000:item:16645:0"] = false,
+				["1:3:5:0:1000:empty:0:1"] = false,
+				["1:4:5:0:1000:item:6256:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:2:9:0:1000:item:2940:0"] = false,
+				["1:5:1:0:1000:item:2515:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:1:6:0:1000:item:2251:0"] = false,
+				["1:4:9:0:1000:item:16649:0"] = false,
+				["1:2:3:0:1000:empty:0:1"] = false,
+				["1:2:6:0:1000:item:16654:0"] = false,
+				["1:1:20:0:1000:item:4306:0"] = false,
+				["1:1:16:0:1000:item:5867:0"] = false,
+				["1:3:1:0:1000:empty:0:1"] = false,
+				["1:5:9:0:1000:item:2515:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:2:10:0:1000:empty:0:1"] = false,
+				["1:2:7:0:1000:empty:0:1"] = false,
+				["1:4:2:0:1000:item:3531:0"] = false,
+				["1:1:2:0:1000:item:117:0"] = false,
+				["1:1:3:0:1000:empty:0:1"] = false,
+				["1:1:8:0:1000:item:6888:0"] = false,
+				["1:3:4:0:1000:empty:0:1"] = false,
+				["1:2:3:3:1000:item:16408:1"] = false,
+				["1:5:3:0:1000:item:2515:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:1:18:0:1000:empty:0:1"] = false,
+				["1:3:7:0:1000:empty:0:1"] = false,
+				["1:2:4:0:1000:empty:0:1"] = false,
+				["1:4:10:0:1000:item:16655:0"] = false,
+				["1:5:2:0:1000:item:2515:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:5:4:0:1000:item:2515:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:1:9:3:1000:item:5088:1"] = false,
+				["1:4:7:0:1000:item:929:0"] = false,
+				["1:1:19:0:1000:item:5451:0"] = false,
+				["1:5:5:0:1000:item:2515:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:5:6:0:1000:item:2515:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:1:1:3:1000:item:6948:1"] = false,
+				["1:5:7:0:1000:item:2515:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:5:8:0:1000:item:2515:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0"] = false,
+				["1:1:7:0:1000:item:2770:0"] = false,
+				["1:3:10:0:1000:item:4363:0"] = false,
+			},
+			["version"] = 31017,
 		},
 		["option"] = {
 			["sort"] = {
 				["method"] = {
 					["data"] = {
 						[9998] = {
-							["order"] = {
-								nil, -- [1]
-								nil, -- [2]
-								nil, -- [3]
-								nil, -- [4]
-								nil, -- [5]
-								nil, -- [6]
-								nil, -- [7]
-								nil, -- [8]
-								{
-									["key"] = "itemstatlevel",
-								}, -- [9]
-								{
-									["key"] = "itemuselevel",
-								}, -- [10]
-								{
-									["key"] = "itemage",
-								}, -- [11]
-								{
-									["key"] = "expansion",
-								}, -- [12]
-								{
-									["key"] = "id",
-								}, -- [13]
-								{
-									["key"] = "itemtype",
-								}, -- [14]
-								{
-									["key"] = "slottype",
-								}, -- [15]
-								{
-									["key"] = "vendorprice",
-								}, -- [16]
-								{
-									["key"] = "catname",
-								}, -- [17]
-							},
 						},
 						[9995] = {
-							["order"] = {
-								nil, -- [1]
-								nil, -- [2]
-								{
-									["key"] = "itemstatlevel",
-								}, -- [3]
-								{
-									["key"] = "itemuselevel",
-								}, -- [4]
-								{
-									["key"] = "itemage",
-								}, -- [5]
-								{
-									["key"] = "category",
-								}, -- [6]
-								{
-									["key"] = "quality",
-								}, -- [7]
-								{
-									["key"] = "expansion",
-								}, -- [8]
-								{
-									["key"] = "id",
-								}, -- [9]
-								{
-									["key"] = "rank",
-								}, -- [10]
-								{
-									["key"] = "itemtype",
-								}, -- [11]
-								{
-									["key"] = "count",
-								}, -- [12]
-								{
-									["key"] = "slottype",
-								}, -- [13]
-								{
-									["key"] = "location",
-								}, -- [14]
-								{
-									["key"] = "vendorprice",
-								}, -- [15]
-								{
-									["key"] = "name",
-								}, -- [16]
-								{
-									["key"] = "catname",
-								}, -- [17]
-							},
 						},
 						[9999] = {
-							["order"] = {
-								nil, -- [1]
-								nil, -- [2]
-								{
-									["key"] = "itemstatlevel",
-								}, -- [3]
-								{
-									["key"] = "itemuselevel",
-								}, -- [4]
-								{
-									["key"] = "itemage",
-								}, -- [5]
-								{
-									["key"] = "category",
-								}, -- [6]
-								{
-									["key"] = "quality",
-								}, -- [7]
-								{
-									["key"] = "expansion",
-								}, -- [8]
-								{
-									["key"] = "id",
-								}, -- [9]
-								{
-									["key"] = "rank",
-								}, -- [10]
-								{
-									["key"] = "itemtype",
-								}, -- [11]
-								{
-									["key"] = "count",
-								}, -- [12]
-								{
-									["key"] = "slottype",
-								}, -- [13]
-								{
-									["key"] = "location",
-								}, -- [14]
-								{
-									["key"] = "vendorprice",
-								}, -- [15]
-								{
-									["key"] = "name",
-								}, -- [16]
-								{
-									["key"] = "catname",
-								}, -- [17]
-							},
 						},
 						[9996] = {
-							["order"] = {
-								nil, -- [1]
-								nil, -- [2]
-								nil, -- [3]
-								nil, -- [4]
-								{
-									["key"] = "itemstatlevel",
-								}, -- [5]
-								{
-									["key"] = "itemuselevel",
-								}, -- [6]
-								{
-									["key"] = "itemage",
-								}, -- [7]
-								{
-									["key"] = "category",
-								}, -- [8]
-								{
-									["key"] = "quality",
-								}, -- [9]
-								{
-									["key"] = "expansion",
-								}, -- [10]
-								{
-									["key"] = "id",
-								}, -- [11]
-								{
-									["key"] = "rank",
-								}, -- [12]
-								{
-									["key"] = "itemtype",
-								}, -- [13]
-								{
-									["key"] = "slottype",
-								}, -- [14]
-								{
-									["key"] = "location",
-								}, -- [15]
-								{
-									["key"] = "name",
-								}, -- [16]
-								{
-									["key"] = "catname",
-								}, -- [17]
-							},
-						},
-						[9993] = {
-							["order"] = {
-								nil, -- [1]
-								nil, -- [2]
-								{
-									["key"] = "itemstatlevel",
-								}, -- [3]
-								{
-									["key"] = "itemuselevel",
-								}, -- [4]
-								{
-									["key"] = "itemage",
-								}, -- [5]
-								{
-									["key"] = "category",
-								}, -- [6]
-								{
-									["key"] = "quality",
-								}, -- [7]
-								{
-									["key"] = "expansion",
-								}, -- [8]
-								{
-									["key"] = "id",
-								}, -- [9]
-								{
-									["key"] = "rank",
-								}, -- [10]
-								{
-									["key"] = "itemtype",
-								}, -- [11]
-								{
-									["key"] = "count",
-								}, -- [12]
-								{
-									["key"] = "slottype",
-								}, -- [13]
-								{
-									["key"] = "location",
-								}, -- [14]
-								{
-									["key"] = "vendorprice",
-								}, -- [15]
-								{
-									["key"] = "name",
-								}, -- [16]
-								{
-									["key"] = "catname",
-								}, -- [17]
-							},
-						},
-						[9997] = {
-							["order"] = {
-								nil, -- [1]
-								nil, -- [2]
-								nil, -- [3]
-								nil, -- [4]
-								nil, -- [5]
-								{
-									["key"] = "itemstatlevel",
-								}, -- [6]
-								{
-									["key"] = "itemuselevel",
-								}, -- [7]
-								{
-									["key"] = "itemage",
-								}, -- [8]
-								{
-									["key"] = "category",
-								}, -- [9]
-								{
-									["key"] = "quality",
-								}, -- [10]
-								{
-									["key"] = "expansion",
-								}, -- [11]
-								{
-									["key"] = "id",
-								}, -- [12]
-								{
-									["key"] = "itemtype",
-								}, -- [13]
-								{
-									["key"] = "slottype",
-								}, -- [14]
-								{
-									["key"] = "location",
-								}, -- [15]
-								{
-									["key"] = "vendorprice",
-								}, -- [16]
-								{
-									["key"] = "catname",
-								}, -- [17]
-							},
-						},
-						[9994] = {
-							["order"] = {
-								nil, -- [1]
-								nil, -- [2]
-								nil, -- [3]
-								nil, -- [4]
-								nil, -- [5]
-								{
-									["key"] = "itemstatlevel",
-								}, -- [6]
-								{
-									["key"] = "itemuselevel",
-								}, -- [7]
-								{
-									["key"] = "itemage",
-								}, -- [8]
-								{
-									["key"] = "category",
-								}, -- [9]
-								{
-									["key"] = "quality",
-								}, -- [10]
-								{
-									["key"] = "expansion",
-								}, -- [11]
-								{
-									["key"] = "id",
-								}, -- [12]
-								{
-									["key"] = "itemtype",
-								}, -- [13]
-								{
-									["key"] = "slottype",
-								}, -- [14]
-								{
-									["key"] = "location",
-								}, -- [15]
-								{
-									["key"] = "vendorprice",
-								}, -- [16]
-								{
-									["key"] = "catname",
-								}, -- [17]
-							},
 						},
 					},
 				},
@@ -4058,7 +4115,7 @@ ARKINVDB = {
 				{
 				}, -- [3]
 			},
-			["version"] = 31016,
+			["version"] = 31017,
 			["tooltip"] = {
 				["battlepet"] = {
 					["enable"] = false,
@@ -4070,26 +4127,26 @@ ARKINVDB = {
 						["location"] = {
 							{
 								["anchor"] = {
-									["b"] = 148.0682220458984,
-									["t"] = 536.0682373046875,
-									["r"] = 2011.348876953125,
-									["l"] = 1236.348876953125,
+									["b"] = 235.8805084228516,
+									["l"] = 1291.594482421875,
+									["r"] = 2066.594482421875,
+									["t"] = 665.8805541992188,
 								},
 								["container"] = {
-									["height"] = 214,
+									["height"] = 256,
 									["width"] = 775,
 								},
 							}, -- [1]
 							[3] = {
 								["anchor"] = {
-									["b"] = 896.538330078125,
-									["t"] = 1181.538452148438,
+									["b"] = 793.5383911132812,
+									["l"] = 1344.512817382813,
 									["r"] = 2100.512939453125,
-									["l"] = 1401.512939453125,
+									["t"] = 1181.538452148438,
 								},
 								["container"] = {
-									["height"] = 111,
-									["width"] = 699,
+									["height"] = 214,
+									["width"] = 756,
 								},
 							},
 						},
@@ -4150,13 +4207,15 @@ ARKINVDB = {
 					[1000] = {
 						["category"] = {
 							["1!437"] = 2,
-							["1!421"] = 4,
 							["1!111"] = 3,
 							["1!411"] = 6,
 							["1!902"] = 2,
-							["1!506"] = 3,
 							["1!417"] = 2,
+							["1!421"] = 4,
 							["1!502"] = 5,
+							["1!505"] = 2,
+							["1!506"] = 3,
+							["1!418"] = 2,
 						},
 					},
 				},

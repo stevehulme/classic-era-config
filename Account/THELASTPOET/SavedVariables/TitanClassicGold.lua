@@ -3,7 +3,7 @@ GoldSave = {
 	["Durthal_Stitches::Horde"] = {
 		["show"] = true,
 		["name"] = "Durthal",
-		["gold"] = 14584,
+		["gold"] = 0,
 	},
 	["Rawnok_Zandalar Tribe::Alliance"] = {
 		["show"] = true,

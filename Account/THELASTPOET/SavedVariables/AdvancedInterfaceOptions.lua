@@ -1,6 +1,7 @@
 
 AdvancedInterfaceOptionsSaved = {
 	["CustomVars"] = {
+		["cameraDistanceMaxZoomFactor"] = 3.400000095367432,
 	},
 	["DBVersion"] = 3,
 	["ModifiedCVars"] = {
@@ -57,12 +58,12 @@ AdvancedInterfaceOptionsSaved = {
 		["nameplateoverlapv"] = "Interface/AddOns/Plater/Plater.lua:2316",
 		["autoquestwatch"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:204",
 		["deselectonclick"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:204",
-		["activecufprofile"] = "Interface/AddOns/Blizzard_CUFProfiles/Blizzard_CompactUnitFrameProfiles.lua:264",
-		["sound_zonemusicnodelay"] = "Interface/SharedXML/ClassicCvarUtil.lua:5",
-		["nameplateselfbottominset"] = "Interface/AddOns/Plater/Plater.lua:2316",
-		["nameplatemotion"] = "Interface/AddOns/Plater/Plater.lua:2316",
-		["showbattlefieldminimap"] = "[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `SetCVar'\n[string \"*Blizzard_BattlefieldMap.xml:142_OnClick\"]:1: in function <[string \"*Blizzard_BattlefieldMap.xml:142_OnClick\"]:1>\n:(unhandled exception)",
 		["graphicsenvironmentdetail"] = "Interface/SharedXML/ClassicCvarUtil.lua:7",
+		["nameplatehorizontalscale"] = "Interface/AddOns/Plater/Plater.lua:2316",
+		["nameplateselfbottominset"] = "Interface/AddOns/Plater/Plater.lua:2316",
+		["chatstyle"] = "Interface_Vanilla/FrameXML/InterfaceOptionsPanels.lua:863",
+		["guildmembernotify"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:204",
+		["activecufprofile"] = "Interface/AddOns/Blizzard_CUFProfiles/Blizzard_CompactUnitFrameProfiles.lua:264",
 		["nameplateshowfriends"] = "Interface/AddOns/Plater/Plater.lua:2316",
 		["nameplateclassificationscale"] = "Interface/AddOns/Plater/Plater.lua:2316",
 		["nameplateothertopinset"] = "Interface/AddOns/Plater/Plater.lua:2316",
@@ -80,9 +81,9 @@ AdvancedInterfaceOptionsSaved = {
 		["nameplateselftopinset"] = "Interface/AddOns/Plater/Plater.lua:2316",
 		["uiscale"] = "Interface\\AddOns\\TitanClassic\\TitanClassicConfig.lua:570",
 		["nameplateshowfriendlyguardians"] = "Interface/AddOns/Plater/Plater.lua:2316",
-		["guildmembernotify"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:204",
-		["chatstyle"] = "Interface_Vanilla/FrameXML/InterfaceOptionsPanels.lua:863",
-		["nameplatehorizontalscale"] = "Interface/AddOns/Plater/Plater.lua:2316",
+		["showbattlefieldminimap"] = "[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `SetCVar'\n[string \"*Blizzard_BattlefieldMap.xml:142_OnClick\"]:1: in function <[string \"*Blizzard_BattlefieldMap.xml:142_OnClick\"]:1>\n:(unhandled exception)",
+		["nameplatemotion"] = "Interface/AddOns/Plater/Plater.lua:2316",
+		["sound_zonemusicnodelay"] = "Interface/SharedXML/ClassicCvarUtil.lua:5",
 		["nameplatepersonalshowalways"] = "Interface/AddOns/Plater/Plater.lua:2316",
 		["nameplatepersonalhidedelayseconds"] = "Interface/AddOns/Plater/Plater.lua:2316",
 		["nameplateselfscale"] = "Interface/AddOns/Plater/Plater.lua:2316",

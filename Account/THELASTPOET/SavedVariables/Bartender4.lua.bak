@@ -22,52 +22,52 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 2,
 							["fadeout"] = true,
-							["version"] = 3,
-							["fadeoutalpha"] = 0,
 							["position"] = {
 								["y"] = 70.30603033811985,
 								["x"] = -432.2781259767216,
 								["point"] = "BOTTOM",
 								["scale"] = 0.8500000238418579,
 							},
-						}, -- [3]
-						{
-							["rows"] = 4,
-							["fadeout"] = true,
+							["rows"] = 2,
 							["version"] = 3,
 							["fadeoutalpha"] = 0,
+						}, -- [3]
+						{
+							["fadeout"] = true,
 							["position"] = {
 								["y"] = 158.1886444091797,
 								["x"] = 497.709228515625,
 								["point"] = "BOTTOMLEFT",
 							},
+							["rows"] = 4,
+							["version"] = 3,
+							["fadeoutalpha"] = 0,
 						}, -- [4]
 						{
-							["buttons"] = 1,
-							["version"] = 3,
+							["visibility"] = {
+								["nocombat"] = true,
+							},
 							["position"] = {
 								["y"] = 267.042640686035,
 								["x"] = -335.978607177734,
 								["point"] = "BOTTOM",
 								["scale"] = 1.5,
 							},
-							["visibility"] = {
-								["nocombat"] = true,
-							},
+							["version"] = 3,
+							["buttons"] = 1,
 						}, -- [5]
 						{
-							["rows"] = 2,
 							["fadeout"] = true,
-							["version"] = 3,
-							["fadeoutalpha"] = 0,
 							["position"] = {
 								["y"] = 127.2144875796439,
 								["x"] = -416.0217454200938,
 								["point"] = "BOTTOM",
 								["scale"] = 0.699999988079071,
 							},
+							["rows"] = 2,
+							["version"] = 3,
+							["fadeoutalpha"] = 0,
 						}, -- [6]
 						{
 						}, -- [7]
@@ -277,7 +277,7 @@ Bartender4DB = {
 				["Rawnok - Zandalar Tribe"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 102,
+						["y"] = 103,
 						["x"] = -132.3749885559082,
 						["point"] = "BOTTOM",
 						["scale"] = 0.75,
@@ -320,6 +320,7 @@ Bartender4DB = {
 			["minimapIcon"] = {
 				["minimapPos"] = 222.3743462939241,
 			},
+			["onkeydown"] = true,
 			["snapping"] = false,
 		},
 		["Durthal - Stitches"] = {

@@ -277,7 +277,7 @@ Bartender4DB = {
 				["Rawnok - Zandalar Tribe"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 102,
+						["y"] = 103,
 						["x"] = -132.3749885559082,
 						["point"] = "BOTTOM",
 						["scale"] = 0.75,
@@ -320,6 +320,7 @@ Bartender4DB = {
 			["minimapIcon"] = {
 				["minimapPos"] = 222.3743462939241,
 			},
+			["onkeydown"] = true,
 			["snapping"] = false,
 		},
 		["Durthal - Stitches"] = {
