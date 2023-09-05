@@ -53,7 +53,7 @@ MonkeyQuestConfig = {
 			["When Smokey Sings, I Get Violent - false"] = {
 				["m_bChecked"] = true,
 			},
-			["Searing Gorge - true"] = {
+			["The Name of the Beast - false"] = {
 				["m_bChecked"] = true,
 			},
 			["Attunement to the Core - false"] = {
@@ -62,7 +62,7 @@ MonkeyQuestConfig = {
 			["Blackrock Depths - true"] = {
 				["m_bChecked"] = true,
 			},
-			["The Name of the Beast - false"] = {
+			["Searing Gorge - true"] = {
 				["m_bChecked"] = true,
 			},
 		},
@@ -105,32 +105,32 @@ MonkeyQuestConfig = {
 		["m_bShowQuestLevel"] = true,
 		["m_bShowDailyNumQuests"] = false,
 		["m_iFrameBottom"] = 1114.421630859375,
-		["m_bHideTitleButtons"] = false,
+		["m_bHideCompletedQuests"] = false,
 		["m_iFrameLeft"] = 0.9941652417182922,
 		["m_bColourDoneOrFailed"] = false,
 		["m_bLocked"] = true,
 		["m_bNoBorder"] = false,
 		["m_bNoHeaders"] = false,
-		["m_iQuestPadding"] = 0,
+		["m_iAlpha"] = 0.5,
 		["m_strOverviewColour"] = "|cFF7F7F7F",
-		["m_bShowTooltipObjectives"] = true,
+		["m_bShowNumQuests"] = true,
 		["m_bColourSubObjectivesByProgress"] = true,
-		["m_iFrameWidth"] = 255,
+		["m_strMidObjectiveColour"] = "|cFFFFFF00",
 		["m_iFontHeight"] = 12,
 		["m_strQuestTitleColour"] = "|cFFFFFFFF",
 		["m_bWorkComplete"] = false,
 		["m_bHideQuestsEnabled"] = true,
-		["m_strMidObjectiveColour"] = "|cFFFFFF00",
+		["m_iFrameWidth"] = 255,
 		["m_bCrashBorder"] = false,
 		["m_strHeaderOpenColour"] = "|cFFBFBFFF",
 		["m_iFrameTop"] = 1153.643920898438,
 		["m_bObjectives"] = true,
 		["m_bHideHeader"] = false,
-		["m_bShowNumQuests"] = true,
-		["m_iAlpha"] = 0.5,
+		["m_bShowTooltipObjectives"] = true,
+		["m_iQuestPadding"] = 0,
 		["m_bShowQuestTextTooltip"] = false,
 		["m_bHideTitle"] = false,
-		["m_bHideCompletedQuests"] = false,
+		["m_bHideTitleButtons"] = false,
 		["m_bGrowUp"] = false,
 	},
 }

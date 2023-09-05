@@ -326,6 +326,13 @@ whoTrackerSaved = {
 		"Sat Sep 02 20:07 end of tracking (logout)", -- [323]
 		"Sun Sep 03 08:55 end of tracking (logout)", -- [324]
 		"Sun Sep 03 09:20 end of tracking (logout)", -- [325]
+		"Sun Sep 03 10:08 end of tracking (logout)", -- [326]
+		"Sun Sep 03 10:10 end of tracking (logout)", -- [327]
+		"Sun Sep 03 10:11 end of tracking (logout)", -- [328]
+		"Sun Sep 03 10:12 end of tracking (logout)", -- [329]
+		"Sun Sep 03 10:15 end of tracking (logout)", -- [330]
+		"Sun Sep 03 10:17 end of tracking (logout)", -- [331]
+		"Mon Sep 04 19:37 end of tracking (logout)", -- [332]
 	},
 	["paused"] = 1,
 	["query"] = "g-ChangeThis",

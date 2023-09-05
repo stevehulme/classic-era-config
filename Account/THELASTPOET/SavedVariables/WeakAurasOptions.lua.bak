@@ -31277,13 +31277,13 @@ WeakAurasOptionsSaved = {
 	["version"] = "5.7.0",
 	["savedSnippets"] = {
 	},
-	["spellCacheAchievements"] = true,
+	["spellCacheStrings"] = true,
 	["frame"] = {
 		["xOffset"] = 1576.478149414063,
-		["yOffset"] = 1043.226806640625,
-		["height"] = 665.0001220703125,
 		["width"] = 830,
+		["height"] = 665.0001220703125,
+		["yOffset"] = 1043.226806640625,
 	},
-	["spellCacheStrings"] = true,
+	["spellCacheAchievements"] = true,
 	["build"] = "51146",
 }

@@ -1,0 +1,10 @@
+VER 3 0000000001000002 "Aspect" "132242"
+/castsequence !Aspect of the Cheetah, !Aspect of the Monkey
+END
+VER 3 0000000001000003 "Aspect 2" "136076"
+/castsequence !Aspect of the Hawk, !Aspect of the Monkey
+END
+VER 3 0000000001000001 "Mark + Pet" "132212"
+/cast Hunter's Mark
+/petattack
+END

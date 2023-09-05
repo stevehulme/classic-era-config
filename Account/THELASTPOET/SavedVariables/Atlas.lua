@@ -1,8 +1,9 @@
 
 AtlasDB = {
 	["profileKeys"] = {
-		["Rawnok - Zandalar Tribe"] = "Default",
 		["Durthal - Stitches"] = "Default",
+		["Durthal - Pyrewood Village"] = "Default",
+		["Rawnok - Zandalar Tribe"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

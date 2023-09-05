@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 1,
 	["_2000"] = 1,
-	["LOG_DE_DATA_X"] = true,
-	["_500"] = 1,
+	["_10000"] = 1,
+	["_5000000"] = 1,
 	["_1000000"] = 1,
 	["_200000"] = 1,
+	["LOG_DE_DATA_X"] = true,
 	["STARTING_DISCOUNT"] = 5,
-	["_5000000"] = 1,
-	["_10000"] = 1,
+	["_500"] = 1,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 }
@@ -35,6 +35,9 @@ AUCTIONATOR_SHOPPING_LISTS_MIGRATED_V2 = true
 AUCTIONATOR_PRICE_DATABASE = {
 	["Zandalar Tribe_Alliance"] = {
 	},
+	["Pyrewood Village_Horde"] = {
+	},
+	["__dbversion"] = 4,
 	["Stitches_Horde"] = {
 		["Heavy Kodo Meat"] = {
 			["mr"] = 300,
@@ -204,19 +207,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 5,
 			["H4674"] = 999,
 		},
-		["Standard Scope"] = {
-			["mr"] = 986,
+		["Crisp Spider Meat"] = {
+			["mr"] = 50,
 			["cc"] = 7,
-			["id"] = "4406:0:0:0:0",
-			["sc"] = 3,
-			["H4674"] = 986,
-		},
-		["Thorium Ore"] = {
-			["mr"] = 4547,
-			["cc"] = 7,
-			["id"] = "10620:0:0:0:0",
+			["id"] = "1081:0:0:0:0",
 			["sc"] = 0,
-			["H4674"] = 4547,
+			["H4674"] = 50,
+		},
+		["Giant Clam Meat"] = {
+			["mr"] = 225,
+			["cc"] = 7,
+			["id"] = "4655:0:0:0:0",
+			["sc"] = 0,
+			["H4674"] = 225,
 		},
 		["Turtle Meat"] = {
 			["mr"] = 215,
@@ -274,12 +277,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H4674"] = 55,
 		},
-		["Roasted Kodo Meat"] = {
-			["mr"] = 28,
-			["cc"] = 0,
-			["id"] = "5474:0:0:0:0",
+		["Stringy Vulture Meat"] = {
+			["mr"] = 24,
+			["cc"] = 7,
+			["id"] = "729:0:0:0:0",
 			["sc"] = 0,
-			["H4674"] = 28,
+			["H4674"] = 24,
 		},
 		["White Spider Meat"] = {
 			["mr"] = 425,
@@ -316,41 +319,40 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["H4674"] = 49,
 		},
-		["Stringy Vulture Meat"] = {
-			["mr"] = 24,
-			["cc"] = 7,
-			["id"] = "729:0:0:0:0",
+		["Roasted Kodo Meat"] = {
+			["mr"] = 28,
+			["cc"] = 0,
+			["id"] = "5474:0:0:0:0",
 			["sc"] = 0,
-			["H4674"] = 24,
+			["H4674"] = 28,
 		},
-		["Giant Clam Meat"] = {
-			["mr"] = 225,
+		["Thorium Ore"] = {
+			["mr"] = 4547,
 			["cc"] = 7,
-			["id"] = "4655:0:0:0:0",
+			["id"] = "10620:0:0:0:0",
 			["sc"] = 0,
-			["H4674"] = 225,
+			["H4674"] = 4547,
 		},
-		["Crisp Spider Meat"] = {
-			["mr"] = 50,
+		["Standard Scope"] = {
+			["mr"] = 986,
 			["cc"] = 7,
-			["id"] = "1081:0:0:0:0",
-			["sc"] = 0,
-			["H4674"] = 50,
+			["id"] = "4406:0:0:0:0",
+			["sc"] = 3,
+			["H4674"] = 986,
 		},
 	},
-	["__dbversion"] = 4,
 }
 AUCTIONATOR_LAST_SCAN_TIME = nil
 AUCTIONATOR_TOONS = {
 	["Rawnok"] = {
 		["firstSeen"] = 1569257443,
-		["firstVersion"] = "8.1.0",
 		["guid"] = "Player-5232-008B6F39",
+		["firstVersion"] = "8.1.0",
 	},
 	["Durthal"] = {
 		["firstSeen"] = 1692946320,
-		["guid"] = "Player-5220-01BBA9F5",
 		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-5220-01BBA9F5",
 	},
 }
 AUCTIONATOR_STACKING_PREFS = {
