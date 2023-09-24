@@ -75,7 +75,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 14,
+			["headIndex"] = 4,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -90,155 +90,35 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["serverTime"] = 1693928809,
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 2160656.124,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["b"] = 0,
 					["g"] = 1,
-					["timestamp"] = 1964168.228,
-					["serverTime"] = 1693649712,
-					["r"] = 1,
 				}, -- [1]
 				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["b"] = 0,
-					["r"] = 1,
-					["serverTime"] = 1693654159,
-					["timestamp"] = 1964168.228,
-					["g"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
+					["message"] = "0 days, 0 hours, 0 minutes, 0 seconds",
+					["timestamp"] = 2160656.124,
 				}, -- [2]
 				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["g"] = 1,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 1964168.228,
-					["serverTime"] = 1693660485,
-					["b"] = 0,
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 2160656.124,
 				}, -- [3]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
 					["r"] = 1,
-					["b"] = 0,
-					["serverTime"] = 1693665720,
-					["timestamp"] = 1964168.228,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["timestamp"] = 2160648.789,
 					["g"] = 1,
+					["b"] = 0,
 				}, -- [4]
-				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 1964168.228,
-					["serverTime"] = 1693673550,
-					["r"] = 1,
-				}, -- [5]
-				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["b"] = 0,
-					["r"] = 1,
-					["serverTime"] = 1693724644,
-					["timestamp"] = 1964168.228,
-					["g"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-				}, -- [6]
-				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["serverTime"] = 1693729170,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 1964168.228,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["b"] = 0,
-				}, -- [7]
-				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 1964168.228,
-					["serverTime"] = 1693732196,
-					["r"] = 1,
-				}, -- [8]
-				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["b"] = 0,
-					["r"] = 1,
-					["serverTime"] = 1693732230,
-					["timestamp"] = 1964168.228,
-					["g"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-				}, -- [9]
-				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["g"] = 1,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 1964168.228,
-					["serverTime"] = 1693732292,
-					["b"] = 0,
-				}, -- [10]
-				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["serverTime"] = 1693732333,
-					["r"] = 1,
-					["b"] = 0,
-					["timestamp"] = 1964168.228,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["g"] = 1,
-				}, -- [11]
-				{
-					["message"] = "0 days, 0 hours, 0 minutes, 0 seconds",
-					["timestamp"] = 1964168.228,
-				}, -- [12]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 1964168.228,
-				}, -- [13]
-				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 1964168.228,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [14]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -364,7 +244,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 81,
+			["headIndex"] = 22,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -378,647 +258,119 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Aura is Shield [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|Hbuggrabber:Durthal:0000017C44F80430:|h|cffff0000[Error 0000017C44F80430]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 2160648.789,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Add - Warning [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|cff33ff99ArkInventory|r: Loading Connected Realm (EU) Data",
+					["timestamp"] = 2160648.789,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Combo Points",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|Hbuggrabber:Durthal:0000017C44F80480:|h|cffff0000[Error 0000017C44F80480]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 2160648.789,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  New Script Installed: Aura While Casting [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|Hbuggrabber:Durthal:0000017C44F804D0:|h|cffff0000[Error 0000017C44F804D0]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 2160648.789,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Big Alert",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|Hbuggrabber:Durthal:0000017C44F80520:|h|cffff0000[Error 0000017C44F80520]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 2160648.789,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Players Targetting Amount",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:46]|h|r |cff30fc96Questie|r: |cff00bc32Hiding drop-down menus on the World Map.|r This is currently necessary as a workaround for a bug in the default Blizzard UI related to drop-down menus.",
+					["timestamp"] = 2160648.789,
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Aura Reorder",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:47]|h|r |cffCC33FFTodoChecklister|r You have no pending tasks.",
+					["timestamp"] = 2160648.789,
 				}, -- [7]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Stop Casting",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:50]|h|r |cff33ff99ArkInventory|r: Rules Enabled",
+					["timestamp"] = 2160656.124,
 				}, -- [8]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Spiteful Affix",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:51]|h|r |cff33ff99ArkInventory|r: v31017 [Classic] Enabled",
+					["timestamp"] = 2160656.124,
+					["serverTime"] = 1693928810,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Auto Set Skull",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:51]|h|r Distance set to: 80",
+					["timestamp"] = 2160656.124,
+					["serverTime"] = 1693928810,
 				}, -- [10]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Unit - Show Energy",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:51]|h|r |cff9900ffWeakAuras:|r  Aura 'Soul Shards Bar - Not's mod': This aura has caused a Lua error.\nInstall the addons BugSack and BugGrabber for detailed error logs.",
+					["timestamp"] = 2160656.124,
+					["serverTime"] = 1693928810,
 				}, -- [11]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Add - Non Elite Trash [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:51]|h|r |cff9900ffWeakAuras:|r  Aura 'Power Bar': This aura has caused a Lua error.\nInstall the addons BugSack and BugGrabber for detailed error logs.",
+					["timestamp"] = 2160656.124,
+					["serverTime"] = 1693928810,
 				}, -- [12]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Shield Interrupt",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:51]|h|r MoLib embedded in WhoTracker / WhoTracker v3.2.2-classic / 1 running on WoW classic v1.14.4-51146",
+					["timestamp"] = 2160656.124,
+					["serverTime"] = 1693928810,
 				}, -- [13]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Circular Swipe",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:51]|h|r WhoTracker is paused.  /wt resume or /wt query [query] to resume.",
+					["timestamp"] = 2160656.124,
+					["serverTime"] = 1693928810,
 				}, -- [14]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - On Going Cast [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:51]|h|r |cffffd700Titan Panel Classic|r|cff19ff19 1.3.3.11404|r|cffffd700|cffffd700 by the |cffff8c00Titan Panel Development Team|r|cff19ff19|r",
+					["timestamp"] = 2160656.124,
+					["serverTime"] = 1693928810,
 				}, -- [15]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Fixate by Unit Buff [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:51]|h|r |cffffd700Titan: |r|r|cff19ff19Register Titan Panel Classic plugins...|r",
+					["timestamp"] = 2160656.124,
+					["serverTime"] = 1693928810,
 				}, -- [16]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Frontal Cone",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:51]|h|r |cffffd700Titan: |r|r|cff19ff19Registration process done. 34|r",
+					["timestamp"] = 2160656.124,
+					["serverTime"] = 1693928810,
 				}, -- [17]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  New Script Installed: Add - Explode on Die [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:52]|h|r |Hchannel:channel:4|h[4] |h Changed Channel: |Hchannel:CHANNEL:4|h[4. goons]|h",
+					["serverTime"] = 1693928811,
+					["r"] = 1,
+					["extraData"] = {
+						72, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2160657.938,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
 				}, -- [18]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Fixate",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:52]|h|r |cff30fc96Questie|r: |cffff0000Please note:|r One of the next Questie releases will reset your settings. We advise you to backup your Questie related Saved Variables as a precaution. This can be done by creating a copy of the WTF folder of your WoW install.",
+					["timestamp"] = 2160657.938,
+					["serverTime"] = 1693928811,
 				}, -- [19]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Countdown",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:55]|h|r |cff33ff99ArkInventory|r: English (US) translations - attempt 1 of 5.",
+					["timestamp"] = 2160660.908,
+					["serverTime"] = 1693928814,
 				}, -- [20]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Very Important",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
+					["message"] = "|cff979797|Hpratcopy|h[16:46:55]|h|r |cff33ff99ArkInventory|r: English (US) translations successfully loaded.",
+					["timestamp"] = 2160660.908,
+					["serverTime"] = 1693928814,
 				}, -- [21]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Fixate On You",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [22]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #1:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [23]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #2:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #3:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Border thickness set to 1, border color has been reset.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #4:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [27]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Adjusting new value for UIParent Scale Fine Tune if the UIParent feature is enabled.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [28]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #5:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Replacing some parts of Aura Reorder mod.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #6:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [31]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Adding 'Bolster' into the buff tracking auras (automatic tracking).",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [32]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #7:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [33]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Update on scripts for 8.2 wow patch.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [34]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #8:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [35]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r ",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [36]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #9:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [37]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Removing deprecated mod 'No Target Alpha [Plater]', please use 'Units which isn't your target' in the General Settings tab.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [38]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #10:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [39]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Buff Settings have been changed to support anchoring of both Buff Frames. The offsets and anchors were migrated automatically.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [40]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #11:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [41]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Disabling 8.0 deprecated mods.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [42]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #12:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [43]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Disabling 'Cast Bar Icon Config' by default.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [44]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #13:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [45]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Adding 'Breath of Coldheart' into the ignored buffs (automatic tracking).",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [46]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #14:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [47]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Cleanup wrong indexes in npc_cache and npc_colors.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [48]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #15:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [49]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Adding Sanctum of Domination triggers for scripts.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [50]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #16:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [51]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Wipe on captured casts due to a backend change.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [52]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #17:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [53]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Disable the change nameplate color from 'Blink by Time Left' script.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [54]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #18:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [55]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Added Wing Buffet spell to frontal cone script.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [56]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #19:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [57]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Added default ghost aura spells.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [58]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #20:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [59]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Added Season 4 Dungeon Spells Into Scripts.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [60]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #21:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [61]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Disabling 'Add - Tag Number [P]' script.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [62]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #22:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [63]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Cleanup wrong indexes in cast_colors and cast_audiocues.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [64]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #23:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [65]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Patching scripts for Ruby Life Pools Season 1 Dragonflight.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [66]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #24:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [67]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Patching scripts for Temple of the Jade Serpent Season 1 Dragonflight.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [68]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #25:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [69]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Patching scripts triggers for season of Dragonflight Mythic+.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [70]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #26:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [71]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - test patch.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [72]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #27:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [73]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Added support for season 2 mythic dungeons.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [74]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #28:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [75]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Modifying the default cast bar color of 'Cast - Ultra Important [P]' to yellow.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [76]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #29:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [77]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Setup auto-toggle for 'Hide Blizzard Healthbars'.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [78]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r |cFFFFFFAAPlater|r  Applied Patch #30:",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [79]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:42]|h|r - Cleanup wrong indexes in npcs_renamed.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732541,
-				}, -- [80]
-				{
-					["message"] = "Sun Sep 03 10:15 end of tracking (logout)",
+					["message"] = "Tue Sep 05 16:47 end of tracking (logout)",
 					["r"] = 0,
-					["timestamp"] = 1964388.561,
+					["timestamp"] = 2160694.066,
 					["g"] = 0,
 					["b"] = 1,
-				}, -- [81]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:36]|h|r |cFFFFFFAAPlater|r  Applied Patch #20:",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732535,
-				}, -- [82]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:36]|h|r - Added Season 4 Dungeon Spells Into Scripts.",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732535,
-				}, -- [83]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:36]|h|r |cFFFFFFAAPlater|r  Applied Patch #21:",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732535,
-				}, -- [84]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:36]|h|r - Disabling 'Add - Tag Number [P]' script.",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732535,
-				}, -- [85]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:36]|h|r |cFFFFFFAAPlater|r  Applied Patch #22:",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732535,
-				}, -- [86]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:36]|h|r - Cleanup wrong indexes in cast_colors and cast_audiocues.",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732535,
-				}, -- [87]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:36]|h|r |cFFFFFFAAPlater|r  Applied Patch #23:",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732535,
-				}, -- [88]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:36]|h|r - Patching scripts for Ruby Life Pools Season 1 Dragonflight.",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732535,
-				}, -- [89]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r |cFFFFFFAAPlater|r  Applied Patch #24:",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [90]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r - Patching scripts for Temple of the Jade Serpent Season 1 Dragonflight.",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [91]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r |cFFFFFFAAPlater|r  Applied Patch #25:",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [92]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r - Patching scripts triggers for season of Dragonflight Mythic+.",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [93]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r |cFFFFFFAAPlater|r  Applied Patch #26:",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [94]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r - test patch.",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [95]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r |cFFFFFFAAPlater|r  Applied Patch #27:",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [96]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r - Added support for season 2 mythic dungeons.",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [97]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r |cFFFFFFAAPlater|r  Applied Patch #28:",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [98]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r - Modifying the default cast bar color of 'Cast - Ultra Important [P]' to yellow.",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [99]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r |cFFFFFFAAPlater|r  Applied Patch #29:",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [100]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r - Setup auto-toggle for 'Hide Blizzard Healthbars'.",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [101]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r |cFFFFFFAAPlater|r  Applied Patch #30:",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [102]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:37]|h|r - Cleanup wrong indexes in npcs_renamed.",
-					["timestamp"] = 1964377.453,
-					["serverTime"] = 1693732536,
-				}, -- [103]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  new profile created, applying patches and adding default scripts.",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [104]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Aura - Buff Alert",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [105]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  New Script Installed: Color Automation",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [106]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Effect After Cast [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [107]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Explosion Affix M+",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [108]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Aura - Debuff Alert",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [109]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  New Script Installed: Hide Neutral Units",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [110]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Castbar is Timer [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [111]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Ultra Important",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [112]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Add - Health Markers [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [113]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Small Alert",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [114]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Reorder Nameplate",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [115]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  New Script Installed: Dont Have Aura",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [116]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Add - Important [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [117]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Aura - Blink Time Left",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [118]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Add - Tag Number [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [119]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Extra Border",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [120]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Glowing [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [121]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Target Color",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [122]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Important Target [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [123]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast Bar Icon Config",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [124]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Quick Flash",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [125]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Cast - Alert + Timer [P]",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [126]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  New Script Installed: Execute Range",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [127]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[10:15:41]|h|r |cFFFFFFAAPlater|r  Applied Update to Script: Attacking Specific Unit",
-					["timestamp"] = 1964382.508,
-					["serverTime"] = 1693732540,
-				}, -- [128]
+				}, -- [22]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],

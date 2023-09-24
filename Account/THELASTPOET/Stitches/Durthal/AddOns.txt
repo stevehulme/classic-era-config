@@ -52,3 +52,4 @@ LibDualSpec-1.0: enabled
 LibWindow-1.1: enabled
 QuestXP: enabled
 WideQuestLog: enabled
+OPie_Classic: disabled

@@ -53,7 +53,7 @@ MonkeyQuestConfig = {
 			["When Smokey Sings, I Get Violent - false"] = {
 				["m_bChecked"] = true,
 			},
-			["Searing Gorge - true"] = {
+			["The Name of the Beast - false"] = {
 				["m_bChecked"] = true,
 			},
 			["Attunement to the Core - false"] = {
@@ -62,20 +62,7 @@ MonkeyQuestConfig = {
 			["Blackrock Depths - true"] = {
 				["m_bChecked"] = true,
 			},
-			["The Name of the Beast - false"] = {
-				["m_bChecked"] = true,
-			},
-		},
-	},
-	["Stitches|Durthal"] = {
-		["m_aQuestList"] = {
-			["A Humble Task - false"] = {
-				["m_bChecked"] = true,
-			},
-			["Red Cloud Mesa - true"] = {
-				["m_bChecked"] = true,
-			},
-			["The Hunt Begins - false"] = {
+			["Searing Gorge - true"] = {
 				["m_bChecked"] = true,
 			},
 		},
@@ -105,33 +92,95 @@ MonkeyQuestConfig = {
 		["m_bShowQuestLevel"] = true,
 		["m_bShowDailyNumQuests"] = false,
 		["m_iFrameBottom"] = 1114.421630859375,
-		["m_bHideTitleButtons"] = false,
+		["m_bHideCompletedQuests"] = false,
 		["m_iFrameLeft"] = 0.9941652417182922,
 		["m_bColourDoneOrFailed"] = false,
 		["m_bLocked"] = true,
 		["m_bNoBorder"] = false,
 		["m_bNoHeaders"] = false,
-		["m_iQuestPadding"] = 0,
+		["m_iAlpha"] = 0.5,
 		["m_strOverviewColour"] = "|cFF7F7F7F",
-		["m_bShowTooltipObjectives"] = true,
+		["m_bShowNumQuests"] = true,
 		["m_bColourSubObjectivesByProgress"] = true,
-		["m_iFrameWidth"] = 255,
+		["m_strMidObjectiveColour"] = "|cFFFFFF00",
 		["m_iFontHeight"] = 12,
 		["m_strQuestTitleColour"] = "|cFFFFFFFF",
 		["m_bWorkComplete"] = false,
 		["m_bHideQuestsEnabled"] = true,
-		["m_strMidObjectiveColour"] = "|cFFFFFF00",
+		["m_iFrameWidth"] = 255,
 		["m_bCrashBorder"] = false,
 		["m_strHeaderOpenColour"] = "|cFFBFBFFF",
 		["m_iFrameTop"] = 1153.643920898438,
 		["m_bObjectives"] = true,
 		["m_bHideHeader"] = false,
-		["m_bShowNumQuests"] = true,
-		["m_iAlpha"] = 0.5,
+		["m_bShowTooltipObjectives"] = true,
+		["m_iQuestPadding"] = 0,
 		["m_bShowQuestTextTooltip"] = false,
 		["m_bHideTitle"] = false,
-		["m_bHideCompletedQuests"] = false,
+		["m_bHideTitleButtons"] = false,
 		["m_bGrowUp"] = false,
+	},
+	["Stitches|Durthal"] = {
+		["m_aQuestList"] = {
+			["A Humble Task - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Red Cloud Mesa - true"] = {
+				["m_bChecked"] = true,
+			},
+			["The Hunt Begins - false"] = {
+				["m_bChecked"] = true,
+			},
+		},
+	},
+	["Pyrewood Village|Durthaltwo"] = {
+		["m_aQuestList"] = {
+			["Miner's Fortune - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Beren's Peril - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Rilli Greasygob - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Verog the Dervish - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Jorn Skyseer - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Ziz Fizziks - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Ignition - false"] = {
+				["m_bChecked"] = true,
+			},
+			["The Barrens - true"] = {
+				["m_bChecked"] = true,
+			},
+			["Serena Bloodfeather - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Silverpine Forest - true"] = {
+				["m_bChecked"] = true,
+			},
+			["Chen's Empty Keg - false"] = {
+				["m_bChecked"] = true,
+			},
+			["The Hidden Niche - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Report to Kadrak - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Stolen Silver - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Raptor Horns - false"] = {
+				["m_bChecked"] = true,
+			},
+		},
 	},
 	["Pyrewood Village|Durthal"] = {
 		["m_aQuestList"] = {

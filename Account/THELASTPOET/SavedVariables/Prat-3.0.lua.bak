@@ -2,6 +2,17 @@
 Prat3DB = {
 	["namespaces"] = {
 		["Prat_ChannelColorMemory"] = {
+			["profiles"] = {
+				["Default"] = {
+					["colors"] = {
+						["hcdeathalertschannel"] = {
+							["b"] = 0.7529412508010864,
+							["g"] = 0.7529412508010864,
+							["r"] = 1,
+						},
+					},
+				},
+			},
 		},
 		["Prat_Fading"] = {
 		},
@@ -87,8 +98,9 @@ Prat3DB = {
 	},
 	["profileKeys"] = {
 		["Durthal - Stitches"] = "Default",
-		["Durthal - Pyrewood Village"] = "Default",
 		["Rawnok - Zandalar Tribe"] = "Default",
+		["Durthal - Pyrewood Village"] = "Default",
+		["Durthaltwo - Pyrewood Village"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

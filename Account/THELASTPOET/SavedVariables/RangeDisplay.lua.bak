@@ -2,8 +2,9 @@
 RangeDisplayDB3 = {
 	["profileKeys"] = {
 		["Rawnok - Zandalar Tribe"] = "Default",
-		["Durthal - Pyrewood Village"] = "Default",
 		["Durthal - Stitches"] = "Default",
+		["Durthal - Pyrewood Village"] = "Default",
+		["Durthaltwo - Pyrewood Village"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

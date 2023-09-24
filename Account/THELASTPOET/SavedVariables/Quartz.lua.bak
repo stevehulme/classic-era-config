@@ -47,8 +47,9 @@ Quartz3DB = {
 	},
 	["profileKeys"] = {
 		["Durthal - Stitches"] = "Default",
-		["Durthal - Pyrewood Village"] = "Default",
 		["Rawnok - Zandalar Tribe"] = "Default",
+		["Durthal - Pyrewood Village"] = "Default",
+		["Durthaltwo - Pyrewood Village"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

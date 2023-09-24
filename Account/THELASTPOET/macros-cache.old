@@ -1,0 +1,18 @@
+VER 3 0000000000000005 "bow" "136047"
+/bow
+END
+VER 3 0000000000000003 "RXPTargeting" "Ability_eyeoftheowl"
+//RestedXP Guides - current step has no configured targets
+END
+VER 3 0000000000000006 "salute" "135942"
+/salute
+END
+VER 3 0000000000000001 "thank" "136230"
+/thank
+END
+VER 3 0000000000000002 "Tinypad" "132319"
+/tinypad
+END
+VER 3 0000000000000004 "wave" "132163"
+/wave
+END

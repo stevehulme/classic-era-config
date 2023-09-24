@@ -3,222 +3,6 @@ Bartender4DB = {
 	["namespaces"] = {
 		["ActionBars"] = {
 			["profiles"] = {
-				["Durthal - Stitches"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -228.4999389648438,
-								["x"] = -230.4999389648438,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						{
-						}, -- [9]
-						{
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Default"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -228.4999389648438,
-								["x"] = -230.4999389648438,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						{
-						}, -- [9]
-						{
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Durthal - Pyrewood Village"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -228.4999389648438,
-								["x"] = -230.4999389648438,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						{
-						}, -- [9]
-						{
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
 				["Rawnok - Zandalar Tribe"] = {
 					["actionbars"] = {
 						{
@@ -279,10 +63,298 @@ Bartender4DB = {
 							["version"] = 3,
 							["fadeoutalpha"] = 0,
 							["position"] = {
-								["y"] = 127.2144875796439,
-								["x"] = -416.0217454200938,
+								["y"] = 133.231667024369,
+								["x"] = -425.8678129615091,
 								["point"] = "BOTTOM",
-								["scale"] = 0.699999988079071,
+								["scale"] = 0.800000011920929,
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						[13] = {
+						},
+						[15] = {
+						},
+					},
+				},
+				["Default"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -228.4999389648438,
+								["x"] = -230.4999389648438,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						[13] = {
+						},
+						[15] = {
+						},
+					},
+				},
+				["Durthal - Stitches"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -228.4999389648438,
+								["x"] = -230.4999389648438,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						[13] = {
+						},
+						[15] = {
+						},
+					},
+				},
+				["Durthaltwo - Pyrewood Village"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -228.4999389648438,
+								["x"] = -230.4999389648438,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						[13] = {
+						},
+						[15] = {
+						},
+					},
+				},
+				["Durthal - Pyrewood Village"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -228.4999389648438,
+								["x"] = -230.4999389648438,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
 							},
 						}, -- [6]
 						{
@@ -303,36 +375,6 @@ Bartender4DB = {
 		},
 		["MicroMenu"] = {
 			["profiles"] = {
-				["Durthal - Stitches"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42,
-						["x"] = 33,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Default"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = 33,
-						["point"] = "BOTTOM",
-						["y"] = 42,
-					},
-				},
-				["Durthal - Pyrewood Village"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42,
-						["x"] = 33,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
 				["Rawnok - Zandalar Tribe"] = {
 					["fadeout"] = true,
 					["version"] = 3,
@@ -344,11 +386,51 @@ Bartender4DB = {
 					},
 					["fadeoutalpha"] = 0,
 				},
+				["Default"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 33,
+						["point"] = "BOTTOM",
+						["y"] = 42,
+					},
+				},
+				["Durthal - Stitches"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 33,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Durthaltwo - Pyrewood Village"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 33,
+						["point"] = "BOTTOM",
+						["y"] = 42,
+					},
+				},
+				["Durthal - Pyrewood Village"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 33,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
 			},
 		},
 		["XPBar"] = {
 			["profiles"] = {
-				["Durthal - Stitches"] = {
+				["Durthaltwo - Pyrewood Village"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -358,6 +440,15 @@ Bartender4DB = {
 					},
 				},
 				["Durthal - Pyrewood Village"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 54,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Durthal - Stitches"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -379,7 +470,7 @@ Bartender4DB = {
 		},
 		["BlizzardArt"] = {
 			["profiles"] = {
-				["Durthal - Stitches"] = {
+				["Durthaltwo - Pyrewood Village"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -389,6 +480,15 @@ Bartender4DB = {
 					},
 				},
 				["Durthal - Pyrewood Village"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Durthal - Stitches"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -410,74 +510,60 @@ Bartender4DB = {
 		},
 		["BagBar"] = {
 			["profiles"] = {
-				["Durthal - Stitches"] = {
-					["verticalAlignment"] = "CENTER",
-					["padding"] = 5,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42,
-						["x"] = 272,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Default"] = {
-					["verticalAlignment"] = "CENTER",
-					["padding"] = 5,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42,
-						["x"] = 272,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Durthal - Pyrewood Village"] = {
-					["verticalAlignment"] = "CENTER",
-					["padding"] = 5,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42,
-						["x"] = 272,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Rawnok - Zandalar Tribe"] = {
 					["fadeout"] = true,
-					["fadeoutalpha"] = 0,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 47.7138519287109,
 						["x"] = 483.531127929688,
 						["point"] = "BOTTOM",
 					},
+					["fadeoutalpha"] = 0,
+				},
+				["Default"] = {
+					["verticalAlignment"] = "CENTER",
+					["padding"] = 5,
 					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 272,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Durthal - Stitches"] = {
+					["verticalAlignment"] = "CENTER",
+					["padding"] = 5,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 272,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Durthaltwo - Pyrewood Village"] = {
+					["verticalAlignment"] = "CENTER",
+					["padding"] = 5,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 272,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Durthal - Pyrewood Village"] = {
+					["verticalAlignment"] = "CENTER",
+					["padding"] = 5,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42,
+						["x"] = 272,
+						["point"] = "BOTTOM",
+					},
 				},
 			},
 		},
 		["StanceBar"] = {
 			["profiles"] = {
-				["Durthal - Stitches"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99998474121094,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Default"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99998474121094,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
-				["Durthal - Pyrewood Village"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.99998474121094,
-						["x"] = -82.50003051757812,
-						["point"] = "CENTER",
-					},
-				},
 				["Rawnok - Zandalar Tribe"] = {
 					["version"] = 3,
 					["position"] = {
@@ -486,34 +572,42 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-			},
-		},
-		["Vehicle"] = {
-			["profiles"] = {
-				["Durthal - Stitches"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50006103515625,
-						["x"] = 104.5,
-						["point"] = "CENTER",
-					},
-				},
 				["Default"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 42.50006103515625,
-						["x"] = 104.5,
+						["y"] = -14.99998474121094,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Durthal - Stitches"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99998474121094,
+						["x"] = -82.50003051757812,
+						["point"] = "CENTER",
+					},
+				},
+				["Durthaltwo - Pyrewood Village"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99998474121094,
+						["x"] = -82.50003051757812,
 						["point"] = "CENTER",
 					},
 				},
 				["Durthal - Pyrewood Village"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 42.50006103515625,
-						["x"] = 104.5,
+						["y"] = -14.99998474121094,
+						["x"] = -82.50003051757812,
 						["point"] = "CENTER",
 					},
 				},
+			},
+		},
+		["Vehicle"] = {
+			["profiles"] = {
 				["Rawnok - Zandalar Tribe"] = {
 					["position"] = {
 						["y"] = 234.6240539550781,
@@ -522,34 +616,42 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 				},
-			},
-		},
-		["PetBar"] = {
-			["profiles"] = {
-				["Durthal - Stitches"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 143,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Default"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 143,
-						["x"] = -460,
-						["point"] = "BOTTOM",
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Durthal - Stitches"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Durthaltwo - Pyrewood Village"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
 					},
 				},
 				["Durthal - Pyrewood Village"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 143,
-						["x"] = -460,
-						["point"] = "BOTTOM",
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
 					},
 				},
+			},
+		},
+		["PetBar"] = {
+			["profiles"] = {
 				["Rawnok - Zandalar Tribe"] = {
 					["version"] = 3,
 					["position"] = {
@@ -563,11 +665,43 @@ Bartender4DB = {
 						["nocombat"] = false,
 					},
 				},
+				["Default"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Durthal - Stitches"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Durthaltwo - Pyrewood Village"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Durthal - Pyrewood Village"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
 			},
 		},
 		["RepBar"] = {
 			["profiles"] = {
-				["Durthal - Stitches"] = {
+				["Durthaltwo - Pyrewood Village"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -577,6 +711,15 @@ Bartender4DB = {
 					},
 				},
 				["Durthal - Pyrewood Village"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 61,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Durthal - Stitches"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -599,16 +742,29 @@ Bartender4DB = {
 	},
 	["profileKeys"] = {
 		["Durthal - Stitches"] = "Rawnok - Zandalar Tribe",
+		["Durthaltwo - Pyrewood Village"] = "Durthaltwo - Pyrewood Village",
 		["Durthal - Pyrewood Village"] = "Rawnok - Zandalar Tribe",
 		["Rawnok - Zandalar Tribe"] = "Rawnok - Zandalar Tribe",
 	},
 	["profiles"] = {
+		["Rawnok - Zandalar Tribe"] = {
+			["minimapIcon"] = {
+				["minimapPos"] = 222.3743462939241,
+			},
+			["onkeydown"] = true,
+			["snapping"] = false,
+		},
+		["Default"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
 		["Durthal - Stitches"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Default"] = {
+		["Durthaltwo - Pyrewood Village"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
@@ -617,13 +773,6 @@ Bartender4DB = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
-		},
-		["Rawnok - Zandalar Tribe"] = {
-			["minimapIcon"] = {
-				["minimapPos"] = 222.3743462939241,
-			},
-			["onkeydown"] = true,
-			["snapping"] = false,
 		},
 	},
 }

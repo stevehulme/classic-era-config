@@ -1,9 +1,14 @@
 
 GoldSave = {
+	["Durthaltwo_Pyrewood Village::Horde"] = {
+		["show"] = true,
+		["name"] = "Durthaltwo",
+		["gold"] = 23425,
+	},
 	["Durthal_Stitches::Horde"] = {
 		["show"] = true,
 		["name"] = "Durthal",
-		["gold"] = 193,
+		["gold"] = 28001,
 	},
 	["Durthal_Pyrewood Village::Horde"] = {
 		["show"] = true,

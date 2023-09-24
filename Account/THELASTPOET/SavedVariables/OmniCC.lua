@@ -9,7 +9,7 @@ OmniCC4Config = {
 			["tenthsDuration"] = 0,
 			["fontOutline"] = "OUTLINE",
 			["minSize"] = 0.5,
-			["mmSSDuration"] = 0,
+			["minEffectDuration"] = 30,
 			["styles"] = {
 				["seconds"] = {
 					["scale"] = 1,
@@ -30,7 +30,7 @@ OmniCC4Config = {
 					["scale"] = 1.5,
 				},
 			},
-			["minEffectDuration"] = 30,
+			["mmSSDuration"] = 0,
 		},
 	},
 	["groups"] = {
