@@ -1,7 +1,9 @@
 
 Details_StreamerDB = {
 	["characters"] = {
+		["Durthaltwo - Pyrewood Village"] = "Durthal - Pyrewood Village",
 		["Durthal - Pyrewood Village"] = "Durthal - Pyrewood Village",
+		["Rawnok - Crusader Strike"] = "Durthal - Pyrewood Village",
 	},
 	["profiles"] = {
 		["Durthal - Pyrewood Village"] = {

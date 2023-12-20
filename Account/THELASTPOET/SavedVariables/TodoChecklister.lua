@@ -12,6 +12,6 @@ TodoChecklisterSettingsDB = {
 	["displayBankOnLinked"] = true,
 	["isKeepFocusShown"] = true,
 	["displayMinimapIcon"] = true,
-	["windowOpacity"] = 1,
 	["displayLinked"] = true,
+	["windowOpacity"] = 1,
 }

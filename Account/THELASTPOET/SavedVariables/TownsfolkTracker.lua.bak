@@ -1,10 +1,11 @@
 
 TownsfolkTrackerDB = {
 	["profileKeys"] = {
+		["Durthaltwo - Pyrewood Village"] = "Default",
+		["Durthal - Pyrewood Village"] = "Default",
 		["Durthal - Stitches"] = "Default",
 		["Rawnok - Zandalar Tribe"] = "Default",
-		["Durthal - Pyrewood Village"] = "Default",
-		["Durthaltwo - Pyrewood Village"] = "Default",
+		["Rawnok - Crusader Strike"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

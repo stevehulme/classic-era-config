@@ -3,8 +3,8 @@ OneRing_Config = nil
 OPie_SavedData = {
 	["CharProfiles"] = {
 	},
-	["_GameVersion"] = "1.14.4",
-	["_OPieVersion"] = "Zeta 1 (4.116)",
+	["_GameVersion"] = "1.15.0",
+	["_OPieVersion"] = "Zeta 3.5 (4.118)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["RingAtMouse"] = true,
@@ -18,20 +18,20 @@ OPie_SavedData = {
 		["RingKeeper"] = {
 			["Track"] = {
 				{
-					["sliceToken"] = "ABue6XFMgVw",
 					["id"] = 1494,
+					["sliceToken"] = "ABue6XFMgVw",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABue6XFMgVe",
 					["id"] = 19883,
+					["sliceToken"] = "ABue6XFMgVe",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABue6XFMgVr",
 					["id"] = 19884,
+					["sliceToken"] = "ABue6XFMgVr",
 				}, -- [3]
 				{
-					["sliceToken"] = "ABue6XFMgV1",
 					["id"] = 2580,
+					["sliceToken"] = "ABue6XFMgV1",
 				}, -- [4]
 				["limit"] = "Durthal-Stitches",
 				["save"] = true,
@@ -70,7 +70,7 @@ OPie_SavedData = {
 				["name"] = "Emote",
 			},
 			["OPieFlagStore"] = {
-				["StoreVersion"] = 2,
+				["StoreVersion"] = 3,
 			},
 		},
 	},

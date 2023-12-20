@@ -1,23 +1,28 @@
 
 GoldSave = {
-	["Rawnok_Zandalar Tribe::Alliance"] = {
+	["Durthaltwo_Pyrewood Village::Horde"] = {
 		["show"] = true,
-		["name"] = "Rawnok",
-		["gold"] = 1164259,
-	},
-	["Durthal_Stitches::Horde"] = {
-		["show"] = true,
-		["name"] = "Durthal",
-		["gold"] = 28001,
+		["name"] = "Durthaltwo",
+		["gold"] = 23425,
 	},
 	["Durthal_Pyrewood Village::Horde"] = {
 		["show"] = true,
 		["name"] = "Durthal",
 		["gold"] = 58343,
 	},
-	["Durthaltwo_Pyrewood Village::Horde"] = {
+	["Durthal_Stitches::Horde"] = {
 		["show"] = true,
-		["name"] = "Durthaltwo",
-		["gold"] = 23425,
+		["name"] = "Durthal",
+		["gold"] = 317025,
+	},
+	["Rawnok_Crusader Strike::Alliance"] = {
+		["show"] = true,
+		["name"] = "Rawnok",
+		["gold"] = 0,
+	},
+	["Rawnok_Zandalar Tribe::Alliance"] = {
+		["show"] = true,
+		["name"] = "Rawnok",
+		["gold"] = 1164259,
 	},
 }

@@ -6,9 +6,9 @@ Prat3DB = {
 				["Default"] = {
 					["colors"] = {
 						["hcdeathalertschannel"] = {
-							["r"] = 1,
-							["g"] = 0.7529412508010864,
 							["b"] = 0.7529412508010864,
+							["g"] = 0.7529412508010864,
+							["r"] = 1,
 						},
 					},
 				},
@@ -61,7 +61,7 @@ Prat3DB = {
 		},
 		["Prat_ChannelSticky"] = {
 		},
-		["Prat_DebugModules"] = {
+		["Prat_PopupMessage"] = {
 		},
 		["Prat_TellTarget"] = {
 		},
@@ -77,13 +77,13 @@ Prat3DB = {
 		},
 		["Prat_KeyBindings"] = {
 		},
-		["Prat_Sounds"] = {
+		["Prat_Achievements"] = {
 		},
 		["Prat_Invites"] = {
 		},
 		["Prat_LinkInfoIcons"] = {
 		},
-		["Prat_Achievements"] = {
+		["Prat_Sounds"] = {
 		},
 		["Prat_ChatLog"] = {
 		},
@@ -91,21 +91,22 @@ Prat3DB = {
 		},
 		["Prat_Buttons"] = {
 		},
-		["Prat_PopupMessage"] = {
+		["Prat_DebugModules"] = {
 		},
 		["Prat_HoverTips"] = {
 		},
 	},
 	["profileKeys"] = {
-		["Durthal - Stitches"] = "Default",
 		["Durthaltwo - Pyrewood Village"] = "Default",
 		["Durthal - Pyrewood Village"] = "Default",
+		["Durthal - Stitches"] = "Default",
+		["Rawnok - Crusader Strike"] = "Default",
 		["Rawnok - Zandalar Tribe"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["modules"] = {
-				["Alias"] = 2,
+				["ChatLog"] = 2,
 				["Mentions"] = 2,
 				["PopupMessage"] = 2,
 				["AltNames"] = 2,
@@ -115,7 +116,7 @@ Prat3DB = {
 				["LinkInfoIcons"] = 2,
 				["DebugModules"] = 2,
 				["OriginalButtons"] = 2,
-				["ChatLog"] = 2,
+				["Alias"] = 2,
 			},
 		},
 	},

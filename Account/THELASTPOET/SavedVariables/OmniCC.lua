@@ -1,15 +1,17 @@
 
 OmniCC4Config = {
+	["groups"] = {
+	},
 	["version"] = "8.1.1",
 	["groupSettings"] = {
 		["base"] = {
 			["fontSize"] = 18,
 			["minDuration"] = 2,
-			["fontFace"] = "Interface\\AddOns\\ShadowedUnitFrames\\media\\fonts\\Myriad Condensed Web.ttf",
+			["minEffectDuration"] = 30,
 			["tenthsDuration"] = 0,
 			["fontOutline"] = "OUTLINE",
 			["minSize"] = 0.5,
-			["minEffectDuration"] = 30,
+			["mmSSDuration"] = 0,
 			["styles"] = {
 				["seconds"] = {
 					["scale"] = 1,
@@ -30,9 +32,7 @@ OmniCC4Config = {
 					["scale"] = 1.5,
 				},
 			},
-			["mmSSDuration"] = 0,
+			["fontFace"] = "Interface\\AddOns\\ShadowedUnitFrames\\media\\fonts\\Myriad Condensed Web.ttf",
 		},
-	},
-	["groups"] = {
 	},
 }

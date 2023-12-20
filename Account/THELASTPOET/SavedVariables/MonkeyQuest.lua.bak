@@ -67,19 +67,6 @@ MonkeyQuestConfig = {
 			},
 		},
 	},
-	["Stitches|Durthal"] = {
-		["m_aQuestList"] = {
-			["A Humble Task - false"] = {
-				["m_bChecked"] = true,
-			},
-			["Red Cloud Mesa - true"] = {
-				["m_bChecked"] = true,
-			},
-			["The Hunt Begins - false"] = {
-				["m_bChecked"] = true,
-			},
-		},
-	},
 	["Global"] = {
 		["m_bItemsEnabled"] = false,
 		["m_iFont"] = 0,
@@ -132,6 +119,72 @@ MonkeyQuestConfig = {
 		["m_bHideTitle"] = false,
 		["m_bHideCompletedQuests"] = false,
 		["m_bGrowUp"] = false,
+	},
+	["Crusader Strike|Rawnok"] = {
+		["m_aQuestList"] = {
+		},
+	},
+	["Stitches|Durthal"] = {
+		["m_aQuestList"] = {
+			["A Humble Task - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Red Cloud Mesa - true"] = {
+				["m_bChecked"] = true,
+			},
+			["The Hunt Begins - false"] = {
+				["m_bChecked"] = true,
+			},
+		},
+	},
+	["Pyrewood Village|Durthaltwo"] = {
+		["m_aQuestList"] = {
+			["Miner's Fortune - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Beren's Peril - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Rilli Greasygob - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Verog the Dervish - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Jorn Skyseer - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Ignition - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Raptor Horns - false"] = {
+				["m_bChecked"] = true,
+			},
+			["The Barrens - true"] = {
+				["m_bChecked"] = true,
+			},
+			["Stolen Silver - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Silverpine Forest - true"] = {
+				["m_bChecked"] = true,
+			},
+			["Chen's Empty Keg - false"] = {
+				["m_bChecked"] = true,
+			},
+			["The Hidden Niche - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Report to Kadrak - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Serena Bloodfeather - false"] = {
+				["m_bChecked"] = true,
+			},
+			["Ziz Fizziks - false"] = {
+				["m_bChecked"] = true,
+			},
+		},
 	},
 	["Pyrewood Village|Durthal"] = {
 		["m_aQuestList"] = {

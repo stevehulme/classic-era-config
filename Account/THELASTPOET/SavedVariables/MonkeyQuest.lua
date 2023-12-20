@@ -120,6 +120,10 @@ MonkeyQuestConfig = {
 		["m_bHideTitleButtons"] = false,
 		["m_bGrowUp"] = false,
 	},
+	["Crusader Strike|Rawnok"] = {
+		["m_aQuestList"] = {
+		},
+	},
 	["Stitches|Durthal"] = {
 		["m_aQuestList"] = {
 			["A Humble Task - false"] = {
