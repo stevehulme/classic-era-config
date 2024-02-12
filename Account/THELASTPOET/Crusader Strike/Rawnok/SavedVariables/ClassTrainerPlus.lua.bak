@@ -1,5 +1,5 @@
 
-TRAINER_FILTER_IGNORED = 1
+TRAINER_FILTER_IGNORED = 0
 ClassTrainerPlusDBPC = {
 	["MIGRATED"] = true,
 }

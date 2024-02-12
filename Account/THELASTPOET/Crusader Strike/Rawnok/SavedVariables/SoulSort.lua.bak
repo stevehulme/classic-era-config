@@ -1,11 +1,11 @@
 
 SoulSortOptions = {
-	["ShowCounterPerBag"] = true,
 	["AutoSort"] = true,
+	["ShowCounter"] = false,
 	["ShowSortInfo"] = false,
 	["MaxShards"] = 0,
 	["SortReverse"] = false,
 	["AutoMax"] = false,
 	["ShowCombatWarning"] = true,
-	["ShowCounter"] = false,
+	["ShowCounterPerBag"] = true,
 }

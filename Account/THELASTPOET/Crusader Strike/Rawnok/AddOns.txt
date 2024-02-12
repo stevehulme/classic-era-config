@@ -33,7 +33,7 @@ ItemTooltipProfessionIcons: enabled
 Kui_Media: enabled
 Kui_Nameplates: disabled
 Kui_Nameplates_Core: disabled
-Kui_Nameplates_Core_Config: enabled
+Kui_Nameplates_Core_Config: disabled
 Ace3: enabled
 LibDBIcon-1.0: enabled
 LibSharedMedia-3.0: enabled
@@ -52,7 +52,7 @@ OPie: enabled
 Plater: enabled
 Prat-3.0: enabled
 Prat-3.0_Libraries: enabled
-Quartz: enabled
+Quartz: disabled
 Questie: enabled
 QuestXP: enabled
 RangeDisplay: enabled
@@ -63,9 +63,9 @@ SexyMap: enabled
 ShadowedUF_Options: enabled
 ShadowedUnitFrames: enabled
 SharedMedia: enabled
-SoulSort: enabled
+SoulSort: disabled
 TinyPad: enabled
-TinyTooltip: enabled
+TinyTooltip: disabled
 TipTac: enabled
 TipTacItemRef: enabled
 TipTacOptions: enabled
@@ -94,7 +94,7 @@ WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
 WhatsTraining: enabled
 WhoTracker: enabled
-WideQuestLog: enabled
+WideQuestLog: disabled
 WideQuestLogFixed: enabled
 Blizzard_CompactRaidFrames: enabled
 OPie_Classic: disabled

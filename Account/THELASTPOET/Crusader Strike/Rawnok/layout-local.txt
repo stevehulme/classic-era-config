@@ -1,11 +1,4 @@
 Version: 1
-Frame: WorldMapFrame
-FrameLevel: 1
-Anchor: TOPLEFT
-X: 0
-Y: 0
-W: 610
-H: 463
 Frame: AtlasFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -13,3 +6,10 @@ X: -210
 Y: 137
 W: 1023
 H: 631
+Frame: TipTac
+FrameLevel: 1
+Anchor: TOPLEFT
+X: 7
+Y: -23
+W: 114
+H: 24
