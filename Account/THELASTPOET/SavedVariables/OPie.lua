@@ -3,8 +3,8 @@ OneRing_Config = nil
 OPie_SavedData = {
 	["CharProfiles"] = {
 	},
-	["_GameVersion"] = "1.15.1",
-	["_OPieVersion"] = "Zeta 4 (4.119)",
+	["_GameVersion"] = "1.15.2",
+	["_OPieVersion"] = "Zeta 5a (4.121)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["RingAtMouse"] = true,
@@ -15,15 +15,18 @@ OPie_SavedData = {
 		},
 	},
 	["PersistentStorage"] = {
+		["AutoQuestWhitelist"] = {
+			[211272] = true,
+		},
 		["RingKeeper"] = {
 			["Track"] = {
 				{
-					["sliceToken"] = "ABue6XFMgVw",
 					["id"] = 1494,
+					["sliceToken"] = "ABue6XFMgVw",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABue6XFMgVe",
 					["id"] = 19883,
+					["sliceToken"] = "ABue6XFMgVe",
 				}, -- [2]
 				{
 					["id"] = 19884,

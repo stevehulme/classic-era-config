@@ -18,7 +18,7 @@ GoldSave = {
 	["Rawnok_Crusader Strike::Alliance"] = {
 		["show"] = true,
 		["name"] = "Rawnok",
-		["gold"] = 10539,
+		["gold"] = 559962,
 	},
 	["Rawnok_Zandalar Tribe::Alliance"] = {
 		["show"] = true,

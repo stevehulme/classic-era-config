@@ -1,7 +1,5 @@
 
 OmniCC4Config = {
-	["groups"] = {
-	},
 	["version"] = "8.1.1",
 	["groupSettings"] = {
 		["base"] = {
@@ -34,5 +32,7 @@ OmniCC4Config = {
 			},
 			["fontFace"] = "Interface\\AddOns\\ShadowedUnitFrames\\media\\fonts\\Myriad Condensed Web.ttf",
 		},
+	},
+	["groups"] = {
 	},
 }

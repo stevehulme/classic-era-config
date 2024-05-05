@@ -29,7 +29,7 @@ Prat3HighCPUPerCharDB = {
 	["scrollback"] = {
 		["ChatFrame5"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -43,17 +43,25 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:29]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1707747808,
+					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
 					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10504.47,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 164618.533,
-					["g"] = 1,
-					["b"] = 0,
+					["serverTime"] = 1714132243,
 				}, -- [1]
+				{
+					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
+					["timestamp"] = 10504.47,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 10504.47,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -64,7 +72,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame4"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -78,17 +86,25 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:29]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1707747808,
+					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
 					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10504.47,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 164618.533,
-					["g"] = 1,
-					["b"] = 0,
+					["serverTime"] = 1714132243,
 				}, -- [1]
+				{
+					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
+					["timestamp"] = 10504.47,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 10504.47,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -99,7 +115,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 9,
+			["headIndex"] = 8,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -114,39 +130,39 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["r"] = 1,
-					["b"] = 0,
-					["serverTime"] = 1707664001,
-					["timestamp"] = 163455.358,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["b"] = 0,
 					["g"] = 1,
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714132180,
+					["r"] = 1,
 				}, -- [1]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["b"] = 0,
+					["r"] = 1,
+					["serverTime"] = 1714134130,
+					["timestamp"] = 10504.47,
+					["g"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 163455.358,
-					["serverTime"] = 1707668129,
-					["r"] = 1,
 				}, -- [2]
 				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
 					["r"] = 1,
-					["serverTime"] = 1707669846,
-					["timestamp"] = 163455.358,
+					["b"] = 0,
 					["g"] = 1,
+					["timestamp"] = 10504.47,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["serverTime"] = 1714132243,
 				}, -- [3]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
@@ -156,16 +172,16 @@ Prat3HighCPUPerCharDB = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 163455.358,
-					["serverTime"] = 1707674648,
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714138684,
 					["b"] = 0,
 				}, -- [4]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["serverTime"] = 1707746645,
+					["serverTime"] = 1714144524,
 					["r"] = 1,
 					["b"] = 0,
-					["timestamp"] = 163455.358,
+					["timestamp"] = 10504.47,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
@@ -174,11 +190,11 @@ Prat3HighCPUPerCharDB = {
 				}, -- [5]
 				{
 					["message"] = "0 days, 0 hours, 0 minutes, 0 seconds",
-					["timestamp"] = 163455.358,
+					["timestamp"] = 10504.47,
 				}, -- [6]
 				{
 					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 163455.358,
+					["timestamp"] = 10504.47,
 				}, -- [7]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
@@ -187,22 +203,10 @@ Prat3HighCPUPerCharDB = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 163441.026,
+					["timestamp"] = 10498.004,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [8]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:29]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1707747808,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 164618.533,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [9]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -213,7 +217,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame7"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -227,17 +231,25 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:29]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1707747808,
+					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
 					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10504.47,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 164618.533,
-					["g"] = 1,
-					["b"] = 0,
+					["serverTime"] = 1714132243,
 				}, -- [1]
+				{
+					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
+					["timestamp"] = 10504.47,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 10504.47,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -248,7 +260,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame6"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -262,17 +274,25 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:29]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1707747808,
+					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
 					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10504.47,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 164618.533,
-					["g"] = 1,
-					["b"] = 0,
+					["serverTime"] = 1714132243,
 				}, -- [1]
+				{
+					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
+					["timestamp"] = 10504.47,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 10504.47,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -283,7 +303,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame8"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -297,17 +317,25 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:29]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1707747808,
+					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
 					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10504.47,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 164618.533,
-					["g"] = 1,
-					["b"] = 0,
+					["serverTime"] = 1714132243,
 				}, -- [1]
+				{
+					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
+					["timestamp"] = 10504.47,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 10504.47,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -318,7 +346,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame10"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -332,17 +360,25 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:29]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1707747808,
+					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
 					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10504.47,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 164618.533,
-					["g"] = 1,
-					["b"] = 0,
+					["serverTime"] = 1714132243,
 				}, -- [1]
+				{
+					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
+					["timestamp"] = 10504.47,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 10504.47,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -353,7 +389,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame9"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -367,17 +403,25 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:29]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1707747808,
+					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
 					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10504.47,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 164618.533,
-					["g"] = 1,
-					["b"] = 0,
+					["serverTime"] = 1714132243,
 				}, -- [1]
+				{
+					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
+					["timestamp"] = 10504.47,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 10504.47,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -388,7 +432,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 31,
+			["headIndex"] = 48,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -402,1774 +446,369 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:47]|h|r Your skill in First Aid has increased to 11.",
-					["serverTime"] = 1707747646,
-					["r"] = 0.3333333432674408,
+					["message"] = "|cff979797|Hpratcopy|h[21:33:03]|h|r Guild Message of the Day: Signups for our second ST on Tuesday are up, read tactics and get your consumes! || Incursions are the best way to level!",
 					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
+						5, -- [1]
+						["n"] = 1,
 					},
-					["timestamp"] = 164456.211,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["b"] = 0.250980406999588,
+					["g"] = 1,
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714132180,
+					["r"] = 0.250980406999588,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:50]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747649,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[21:33:03]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:<BNET REMOVED>:4:0:BN_INLINE_TOAST_ALERT:0|h[<BNET REMOVED>] (|T-2:10:10:0:0:32:32:0:32:0:32|t Jadax)|h has come online.",
 					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
+						54, -- [1]
+						["n"] = 1,
 					},
-					["timestamp"] = 164459.025,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["b"] = 1,
+					["g"] = 0.7725490927696228,
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714132180,
+					["r"] = 0.5098039507865906,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:50]|h|r Your skill in First Aid has increased to 12.",
-					["serverTime"] = 1707747649,
-					["r"] = 0.3333333432674408,
+					["message"] = "|cff979797|Hpratcopy|h[12:49:40]|h|r Guild Message of the Day: Signups for our FOURTH ST on Tuesday are up, read tactics and get your consumes! || Incursions are the best way to level!",
+					["b"] = 0.250980406999588,
+					["r"] = 0.250980406999588,
+					["serverTime"] = 1714134130,
+					["timestamp"] = 10504.47,
+					["g"] = 1,
 					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
+						5, -- [1]
+						["n"] = 1,
 					},
-					["timestamp"] = 164459.025,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:53]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747652,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[12:49:44]|h|r |Hchannel:channel:4|h[4] |h Changed Channel: |Hchannel:CHANNEL:4|h[4. goons]|h",
+					["r"] = 1,
+					["b"] = 0.7490196228027344,
+					["g"] = 0.7490196228027344,
+					["timestamp"] = 10504.47,
 					["extraData"] = {
-						28, -- [1]
+						72, -- [1]
 						1, -- [2]
 						2, -- [3]
 						["n"] = 3,
 					},
-					["timestamp"] = 164462,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1714132183,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:53]|h|r Your skill in First Aid has increased to 13.",
-					["serverTime"] = 1707747652,
-					["r"] = 0.3333333432674408,
+					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10504.47,
 					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
+						1, -- [1]
+						["n"] = 1,
 					},
-					["timestamp"] = 164462.292,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["serverTime"] = 1714132243,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:56]|h|r Your skill in First Aid has increased to 14.",
-					["serverTime"] = 1707747655,
-					["r"] = 0.3333333432674408,
+					["message"] = "|cff979797|Hpratcopy|h[13:22:11]|h|r Guild Message of the Day: Signups for our FOURTH ST on Tuesday are up, read tactics and get your consumes! || Incursions are the best way to level!",
+					["g"] = 1,
+					["r"] = 0.250980406999588,
 					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
+						5, -- [1]
+						["n"] = 1,
 					},
-					["timestamp"] = 164465.044,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714138684,
+					["b"] = 0.250980406999588,
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:56]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747655,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[13:22:14]|h|r |Hchannel:channel:4|h[4] |h Changed Channel: |Hchannel:CHANNEL:4|h[4. goons]|h",
 					["extraData"] = {
-						28, -- [1]
+						72, -- [1]
 						1, -- [2]
 						2, -- [3]
 						["n"] = 3,
 					},
-					["timestamp"] = 164465.044,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["b"] = 0.7490196228027344,
+					["serverTime"] = 1714134133,
+					["timestamp"] = 10504.47,
+					["g"] = 0.7490196228027344,
+					["r"] = 1,
 				}, -- [7]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:59]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747658,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[13:23:48]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Badlands]|h",
 					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
+						69, -- [1]
+						4, -- [2]
+						5, -- [3]
 						["n"] = 3,
 					},
-					["timestamp"] = 164468.164,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["b"] = 0.7529412508010864,
+					["serverTime"] = 1714134227,
+					["timestamp"] = 10504.47,
+					["g"] = 0.7529412508010864,
+					["r"] = 1,
 				}, -- [8]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:59]|h|r Your skill in First Aid has increased to 15.",
-					["serverTime"] = 1707747658,
-					["r"] = 0.3333333432674408,
+					["message"] = "|cff979797|Hpratcopy|h[13:23:48]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Badlands]|h",
 					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
+						71, -- [1]
+						7, -- [2]
+						8, -- [3]
 						["n"] = 3,
 					},
-					["timestamp"] = 164468.365,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["b"] = 0.7529412508010864,
+					["serverTime"] = 1714134227,
+					["timestamp"] = 10504.47,
+					["g"] = 0.7529412508010864,
+					["r"] = 1,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:09]|h|r You receive loot: |cffffffff|Hitem:7345::::::::16:::::::::|h[Bingles' Screwdriver]|h|r.",
-					["serverTime"] = 1707747668,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[14:38:05]|h|r Guild Message of the Day: Signups for our FOURTH ST on Tuesday are up, read tactics and get your consumes! || Incursions are the best way to level!",
+					["serverTime"] = 1714144524,
+					["r"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+					["timestamp"] = 10504.47,
 					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
+						5, -- [1]
+						["n"] = 1,
 					},
-					["timestamp"] = 164478.165,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["g"] = 1,
 				}, -- [10]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:21]|h|r Stonesplinter Seer attempts to run away in fear!",
-					["serverTime"] = 1707747680,
+					["message"] = "|cff979797|Hpratcopy|h[14:38:08]|h|r |Hchannel:channel:4|h[4] |h Changed Channel: |Hchannel:CHANNEL:4|h[4. goons]|h",
+					["b"] = 0.7490196228027344,
 					["r"] = 1,
+					["g"] = 0.7490196228027344,
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714138687,
 					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
+						72, -- [1]
+						1, -- [2]
+						2, -- [3]
 						["n"] = 3,
 					},
-					["timestamp"] = 164489.929,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
 				}, -- [11]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:24]|h|r You loot 12 Copper",
-					["serverTime"] = 1707747683,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[14:39:04]|h|r You receive loot: |cffffffff|Hitem:2772::::::::40:::::::::|h[Iron Ore]|h|r.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714138743,
 					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
+						28, -- [1]
+						4, -- [2]
+						5, -- [3]
 						["n"] = 3,
 					},
-					["timestamp"] = 164492.973,
-					["g"] = 1,
-					["b"] = 0,
 				}, -- [12]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:36]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747695,
+					["message"] = "|cff979797|Hpratcopy|h[14:39:09]|h|r You receive loot: |cffffffff|Hitem:2772::::::::40:::::::::|h[Iron Ore]|h|r.",
+					["b"] = 0,
 					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714138748,
 					["extraData"] = {
 						28, -- [1]
-						1, -- [2]
-						2, -- [3]
+						4, -- [2]
+						5, -- [3]
 						["n"] = 3,
 					},
-					["timestamp"] = 164505.127,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
 				}, -- [13]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:36]|h|r Your skill in First Aid has increased to 16.",
-					["serverTime"] = 1707747695,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164505.127,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["message"] = "0 days, 1 hours, 36 minutes, 16 seconds",
+					["timestamp"] = 10504.47,
 				}, -- [14]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:39]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747698,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164508.164,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 10504.47,
 				}, -- [15]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:39]|h|r Your skill in First Aid has increased to 17.",
-					["serverTime"] = 1707747698,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164508.463,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["message"] = "|Hbuggrabber:Rawnok:000001A617824FD0:|h|cffff0000[Error 000001A617824FD0]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 10498.004,
 				}, -- [16]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:42]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747701,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164511.285,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["message"] = "|cff33ff99ArkInventory|r: Loading Connected Realm (EU) Data",
+					["timestamp"] = 10498.004,
 				}, -- [17]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:43]|h|r Your skill in First Aid has increased to 18.",
-					["serverTime"] = 1707747702,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164511.702,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["message"] = "|Hbuggrabber:Rawnok:000001A6178250C0:|h|cffff0000[Error 000001A6178250C0]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 10498.004,
 				}, -- [18]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:45]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747704,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164514.342,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["message"] = "|Hbuggrabber:Rawnok:000001A6178251B0:|h|cffff0000[Error 000001A6178251B0]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 10498.004,
 				}, -- [19]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:45]|h|r Your skill in First Aid has increased to 19.",
-					["serverTime"] = 1707747704,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164514.551,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["message"] = "|Hbuggrabber:Rawnok:000001A6178252A0:|h|cffff0000[Error 000001A6178252A0]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 10498.004,
 				}, -- [20]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:48]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747707,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164517.476,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["message"] = "|cff3FC7EB[MoveAny |T135994:16:16:0:0|t]|r |cFFFFFF00 Bartender4 Detected, please make sure that an element is only controlled by one addon at a time!",
+					["timestamp"] = 10498.004,
 				}, -- [21]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:49]|h|r Your skill in First Aid has increased to 20.",
-					["serverTime"] = 1707747708,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164517.803,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["message"] = "|cff3FC7EB[MoveAny |T135994:16:16:0:0|t]|r |cFFFFFF00 Click the MoveAny Minimap Button to open the settings.",
+					["timestamp"] = 10498.004,
 				}, -- [22]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:51]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747710,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164520.548,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["message"] = "|cff3FC7EB[MoveAny |T135994:16:16:0:0|t]|r |cFFFFFF00 Or tap /move or /moveany in chat to open the settings.",
+					["timestamp"] = 10498.004,
 				}, -- [23]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:51]|h|r Your skill in First Aid has increased to 21.",
-					["serverTime"] = 1707747710,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164520.548,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["message"] = "|cff3FC7EB[MoveAny |T135994:16:16:0:0|t]|r |cFFFFFF00 To hide these messages deactivate tips in the MoveAny menu.",
+					["timestamp"] = 10498.004,
 				}, -- [24]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:21:58]|h|r You receive loot: |cffffffff|Hitem:2589::::::::16:::::::::|h[Linen Cloth]|h|r.",
-					["serverTime"] = 1707747717,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164526.713,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:23]|h|r |cffCC33FFTodoChecklister|r You have no pending tasks.",
+					["timestamp"] = 10498.004,
 				}, -- [25]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:33]|h|r Stonesplinter Seer attempts to run away in fear!",
-					["serverTime"] = 1707747752,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:24]|h|r Guild Message of the Day: Signups for our FOURTH ST on Tuesday are up, read tactics and get your consumes! || Incursions are the best way to level!",
+					["r"] = 0.250980406999588,
 					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
+						5, -- [1]
+						["n"] = 1,
 					},
-					["timestamp"] = 164562.036,
-					["g"] = 0.501960813999176,
+					["timestamp"] = 10504.208,
+					["g"] = 1,
 					["b"] = 0.250980406999588,
 				}, -- [26]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:36]|h|r You receive loot: |cffffffff|Hitem:2589::::::::16:::::::::|h[Linen Cloth]|h|rx2.",
-					["serverTime"] = 1707747755,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164565.413,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:24]|h|r |cff33ff99ArkInventory|r: Rules Enabled",
+					["timestamp"] = 10504.47,
 				}, -- [27]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:37]|h|r You loot 9 Copper",
-					["serverTime"] = 1707747756,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164566.42,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r |cff33ff99ArkInventory|r: v31027 [Classic] Enabled",
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714144525,
 				}, -- [28]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:22:51]|h|r Your skill in Guns has increased to 84.",
-					["serverTime"] = 1707747770,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164579.59,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r |cff9900ffWeakAuras:|r  Aura 'Soul Shards Bar - Not's mod': This aura has caused a Lua error.\nInstall the addons BugSack and BugGrabber for detailed error logs.",
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714144525,
 				}, -- [29]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:23:29]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1707747808,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 164618.533,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r |cff9900ffWeakAuras:|r  Aura 'Power Bar': This aura has caused a Lua error.\nInstall the addons BugSack and BugGrabber for detailed error logs.",
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714144525,
 				}, -- [30]
 				{
-					["message"] = "Mon Feb 12 14:23 end of tracking (logout)",
-					["r"] = 0,
-					["timestamp"] = 164618.533,
-					["g"] = 0,
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r Distance set to: 80",
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714144525,
 				}, -- [31]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:11:21]|h|r You receive loot: |cffffffff|Hitem:414::::::::15:::::::::|h[Dalaran Sharp]|h|r.",
-					["serverTime"] = 1707747080,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163890.08,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r MoLib embedded in WhoTracker / WhoTracker v3.2.2-classic / 1 running on WoW classic v1.15.2-54332",
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714144525,
 				}, -- [32]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:11:21]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::::|h[Light Leather]|h|rx2.",
-					["serverTime"] = 1707747080,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163890.08,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r WhoTracker is paused.  /wt resume or /wt query [query] to resume.",
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714144525,
 				}, -- [33]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:11:21]|h|r You receive loot: |cffffffff|Hitem:2835::::::::15:::::::::|h[Rough Stone]|h|rx2.",
-					["serverTime"] = 1707747080,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163890.08,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r |cffffd700Titan Panel Classic|r|cff19ff19 1.3.6.11500|r|cffffd700|cffffd700 by the |cffff8c00Titan Panel Development Team|r\n|cffff1919WARNING: |r|cffffd700This is the last update of Titan Panel Classic!|r|cffff1919\nPlease delete this version and upgrade to |r|cffffd700Titan Panel 8|r|cff19ff19|r",
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714144525,
 				}, -- [34]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:11:22]|h|r You loot 41 Copper",
-					["serverTime"] = 1707747081,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163891.212,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r |cffffd700Titan: |r|r|cff19ff19Register Titan Panel Classic plugins...|r",
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714144525,
 				}, -- [35]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:11:22]|h|r You receive loot: |cff1eff00|Hitem:211319::::::::15:::::::::|h[Waylaid Supplies: Copper Shortswords]|h|r.",
-					["serverTime"] = 1707747081,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163891.379,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r |cffffd700Titan: |r|r|cff19ff19Registration process done. 38|r",
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714144525,
 				}, -- [36]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:11:26]|h|r You loot 18 Copper",
-					["serverTime"] = 1707747085,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163894.972,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:26]|h|r |cff2da3cf[Rune Reminder]|r Version 1.1.0 Loaded",
+					["timestamp"] = 10504.47,
+					["serverTime"] = 1714144526,
 				}, -- [37]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:11:27]|h|r You loot 15 Copper",
-					["serverTime"] = 1707747086,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163896.424,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:26]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Legs - |cffabdaebKill Command|cffffffff has been added.",
+					["r"] = 0,
+					["serverTime"] = 1714144526,
+					["timestamp"] = 10506.692,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 1,
 				}, -- [38]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:11:48]|h|r Stonesplinter Bonesnapper attempts to run away in fear!",
-					["serverTime"] = 1707747107,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163916.605,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:26]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Feet - |cffabdaebInvigoration|cffffffff has been added.",
+					["r"] = 0,
+					["serverTime"] = 1714144526,
+					["timestamp"] = 10506.692,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [39]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:11:51]|h|r You receive loot: |cff9d9d9d|Hitem:1509::::::::15:::::::::|h[Warped Leather Vest]|h|r.",
-					["serverTime"] = 1707747110,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:26]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Chest - |cffabdaebHeart of the Lion|cffffffff has been added.",
 					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163920.204,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1714144526,
+					["timestamp"] = 10506.692,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [40]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:11:52]|h|r You loot 32 Copper",
-					["serverTime"] = 1707747111,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163921.247,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:26]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Hands - |cffabdaebBeast Mastery|cffffffff has been added.",
+					["r"] = 0,
+					["serverTime"] = 1714144526,
+					["timestamp"] = 10506.692,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 1,
 				}, -- [41]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:12:18]|h|r You receive loot: |cffffffff|Hitem:7376::::::::15:::::::::|h[Bingles' Blastencapper]|h|r.",
-					["serverTime"] = 1707747137,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:26]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Waist - |cffabdaebSteady Shot|cffffffff has been added.",
 					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163946.848,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1714144526,
+					["timestamp"] = 10506.692,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [42]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:12:26]|h|r Stonesplinter Bonesnapper says: Destroy!",
-					["serverTime"] = 1707747145,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:27]|h|r |Hchannel:channel:4|h[4] |h Changed Channel: |Hchannel:CHANNEL:4|h[4. goons]|h",
+					["serverTime"] = 1714144527,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
-						11, -- [2]
-						12, -- [3]
+						72, -- [1]
+						1, -- [2]
+						2, -- [3]
 						["n"] = 3,
 					},
-					["timestamp"] = 163954.647,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 10507.286,
+					["g"] = 0.7490196228027344,
+					["b"] = 0.7490196228027344,
 				}, -- [43]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:12:37]|h|r You receive loot: |cffffffff|Hitem:2287::::::::15:::::::::|h[Haunch of Meat]|h|r.",
-					["serverTime"] = 1707747156,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163965.911,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:28]|h|r |cFFffff00[Questie]|r |cFF6ce314The 'Darkmoon Faire' world event is active!",
+					["timestamp"] = 10508.059,
+					["serverTime"] = 1714144528,
 				}, -- [44]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:12:38]|h|r You loot 23 Copper",
-					["serverTime"] = 1707747157,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 163966.988,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:29]|h|r |cff33ff99ArkInventory|r: English (US) translations - attempt 1 of 5.",
+					["timestamp"] = 10509.209,
+					["serverTime"] = 1714144529,
 				}, -- [45]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:13:25]|h|r Stonesplinter Bonesnapper attempts to run away in fear!",
-					["serverTime"] = 1707747204,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164014.5,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[16:15:29]|h|r |cff33ff99ArkInventory|r: English (US) translations successfully loaded.",
+					["timestamp"] = 10509.209,
+					["serverTime"] = 1714144529,
 				}, -- [46]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:13:29]|h|r You loot 16 Copper",
-					["serverTime"] = 1707747208,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164018.275,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "OnDatabaseShutdown table: 000001A61FE79C70",
+					["timestamp"] = 10538.556,
+					["serverTime"] = 1714144558,
 				}, -- [47]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[14:13:30]|h|r You receive loot: |cffffffff|Hitem:2589::::::::15:::::::::|h[Linen Cloth]|h|rx2.",
-					["serverTime"] = 1707747209,
+					["message"] = "Fri Apr 26 16:15 end of tracking (logout)",
 					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164019.198,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["timestamp"] = 10538.556,
+					["g"] = 0,
+					["b"] = 1,
 				}, -- [48]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:13:31]|h|r You loot 14 Copper",
-					["serverTime"] = 1707747210,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164020.275,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [49]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:13:47]|h|r Your skill in Defense has increased to 53.",
-					["serverTime"] = 1707747226,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164036.252,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [50]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:14:01]|h|r Stonesplinter Bonesnapper attempts to run away in fear!",
-					["serverTime"] = 1707747240,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164050.172,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
-				}, -- [51]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:14:19]|h|r Stonesplinter Shaman attempts to run away in fear!",
-					["serverTime"] = 1707747258,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164068.393,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
-				}, -- [52]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:14:23]|h|r You loot 23 Copper",
-					["serverTime"] = 1707747262,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164072.403,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [53]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:14:26]|h|r You receive loot: |cffffffff|Hitem:858::::::::15:::::::::|h[Lesser Healing Potion]|h|r.",
-					["serverTime"] = 1707747265,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164075.12,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [54]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:14:27]|h|r You loot 22 Copper",
-					["serverTime"] = 1707747266,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164076.13,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [55]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:14:32]|h|r You receive loot: |cff9d9d9d|Hitem:1811::::::::15:::::::::|h[Blunt Claymore]|h|r.",
-					["serverTime"] = 1707747271,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164080.908,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [56]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:14:33]|h|r You loot 8 Copper",
-					["serverTime"] = 1707747272,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164081.916,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [57]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:14:56]|h|r Stonesplinter Shaman attempts to run away in fear!",
-					["serverTime"] = 1707747295,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164104.863,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
-				}, -- [58]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:15:00]|h|r You loot 9 Copper",
-					["serverTime"] = 1707747299,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164108.935,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [59]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:15:05]|h|r You receive loot: |cffffffff|Hitem:7346::::::::15:::::::::|h[Bingles' Hammer]|h|r.",
-					["serverTime"] = 1707747304,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164113.64,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [60]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:15:20]|h|r Stonesplinter Skullthumper attempts to run away in fear!",
-					["serverTime"] = 1707747319,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164128.727,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
-				}, -- [61]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:15:23]|h|r Your skill in Defense has increased to 54.",
-					["serverTime"] = 1707747322,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164131.625,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [62]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:15:31]|h|r Stonesplinter Skullthumper attempts to run away in fear!",
-					["serverTime"] = 1707747330,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164139.7,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
-				}, -- [63]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:15:44]|h|r Stonesplinter Seer attempts to run away in fear!",
-					["serverTime"] = 1707747343,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164153.05,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
-				}, -- [64]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:15:47]|h|r You receive loot: |cffffffff|Hitem:2455::::::::15:::::::::|h[Minor Mana Potion]|h|r.",
-					["serverTime"] = 1707747346,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164155.726,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [65]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:15:47]|h|r You receive loot: |cffffffff|Hitem:2589::::::::15:::::::::|h[Linen Cloth]|h|rx3.",
-					["serverTime"] = 1707747346,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164155.726,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [66]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:15:48]|h|r You loot 9 Copper",
-					["serverTime"] = 1707747347,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164156.83,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [67]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:15:49]|h|r You receive loot: |cffffffff|Hitem:2589::::::::15:::::::::|h[Linen Cloth]|h|rx3.",
-					["serverTime"] = 1707747348,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164158.109,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [68]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:15:50]|h|r You loot 19 Copper",
-					["serverTime"] = 1707747349,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164159.116,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [69]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:15:53]|h|r You loot 5 Copper",
-					["serverTime"] = 1707747352,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164161.625,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [70]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:16:05]|h|r You create: |cffffffff|Hitem:1251::::::::15:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747364,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164174.405,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [71]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:16:06]|h|r Your skill in First Aid has increased to 2.",
-					["serverTime"] = 1707747365,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164174.739,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [72]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:16:08]|h|r You create: |cffffffff|Hitem:1251::::::::15:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747367,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164177.407,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [73]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:16:09]|h|r Your skill in First Aid has increased to 3.",
-					["serverTime"] = 1707747368,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164177.652,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [74]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:16:11]|h|r You create: |cffffffff|Hitem:1251::::::::15:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747370,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164180.52,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [75]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:16:12]|h|r Your skill in First Aid has increased to 4.",
-					["serverTime"] = 1707747371,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164180.902,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [76]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:16:14]|h|r You create: |cffffffff|Hitem:1251::::::::15:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747373,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164183.542,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [77]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:16:15]|h|r Your skill in First Aid has increased to 5.",
-					["serverTime"] = 1707747374,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164183.737,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [78]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:16:18]|h|r You create: |cffffffff|Hitem:1251::::::::15:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747377,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164186.593,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [79]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:16:18]|h|r Your skill in First Aid has increased to 6.",
-					["serverTime"] = 1707747377,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164186.975,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [80]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:16:53]|h|r You receive loot: |cffffffff|Hitem:2589::::::::15:::::::::|h[Linen Cloth]|h|rx3.",
-					["serverTime"] = 1707747412,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164222.437,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [81]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:16:54]|h|r You loot 15 Copper",
-					["serverTime"] = 1707747413,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164223.445,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [82]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:05]|h|r Stonesplinter Seer attempts to run away in fear!",
-					["serverTime"] = 1707747424,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164233.654,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
-				}, -- [83]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:06]|h|r Congratulations, you have reached level 16!",
-					["serverTime"] = 1707747425,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 164234.759,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [84]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:06]|h|r You have gained 20 hit points and 34 mana.",
-					["serverTime"] = 1707747425,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 164234.759,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [85]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:06]|h|r You have gained 1 talent point.",
-					["serverTime"] = 1707747425,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 164234.759,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [86]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:06]|h|r Your Strength increases by 1.",
-					["serverTime"] = 1707747425,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 164234.759,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [87]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:06]|h|r Your Agility increases by 1.",
-					["serverTime"] = 1707747425,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 164234.759,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [88]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:06]|h|r Your Stamina increases by 1.",
-					["serverTime"] = 1707747425,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 164234.759,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [89]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:06]|h|r Your Spirit increases by 1.",
-					["serverTime"] = 1707747425,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 164234.759,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [90]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:06]|h|r Your skill in Beast Mastery has increased to 80.",
-					["serverTime"] = 1707747425,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164234.759,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [91]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:06]|h|r Your skill in Survival has increased to 80.",
-					["serverTime"] = 1707747425,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164234.759,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [92]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:06]|h|r Your skill in Marksmanship has increased to 80.",
-					["serverTime"] = 1707747425,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164234.759,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [93]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:13]|h|r Stonesplinter Seer attempts to run away in fear!",
-					["serverTime"] = 1707747432,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164242.166,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
-				}, -- [94]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:32]|h|r You receive loot: |cff1eff00|Hitem:2266::::::::16:::::::::|h[Stonesplinter Dagger]|h|r.",
-					["serverTime"] = 1707747451,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164260.911,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [95]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:32]|h|r You loot 24 Copper",
-					["serverTime"] = 1707747451,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164260.932,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [96]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:32]|h|r You receive loot: |cffffffff|Hitem:2589::::::::16:::::::::|h[Linen Cloth]|h|rx2.",
-					["serverTime"] = 1707747451,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164260.939,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [97]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:33]|h|r You loot 17 Copper",
-					["serverTime"] = 1707747452,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164262.039,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [98]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:51]|h|r Stonesplinter Seer attempts to run away in fear!",
-					["serverTime"] = 1707747470,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164280.209,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
-				}, -- [99]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:17:55]|h|r You loot 29 Copper",
-					["serverTime"] = 1707747474,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164283.871,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [100]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:18:02]|h|r Your skill in Guns has increased to 81.",
-					["serverTime"] = 1707747481,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164291.432,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [101]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:18:16]|h|r Stonesplinter Skullthumper attempts to run away in fear!",
-					["serverTime"] = 1707747495,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164304.927,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
-				}, -- [102]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:18:19]|h|r You loot 24 Copper",
-					["serverTime"] = 1707747498,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164307.992,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [103]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:18:43]|h|r You receive loot: |cffffffff|Hitem:2589::::::::16:::::::::|h[Linen Cloth]|h|rx2.",
-					["serverTime"] = 1707747522,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164331.613,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [104]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:18:44]|h|r You loot 11 Copper",
-					["serverTime"] = 1707747523,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164332.69,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [105]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:18:54]|h|r Your skill in Guns has increased to 82.",
-					["serverTime"] = 1707747533,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164343.288,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [106]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:00]|h|r Stonesplinter Skullthumper attempts to run away in fear!",
-					["serverTime"] = 1707747539,
-					["r"] = 1,
-					["extraData"] = {
-						17, -- [1]
-						3, -- [2]
-						4, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164349.07,
-					["g"] = 0.501960813999176,
-					["b"] = 0.250980406999588,
-				}, -- [107]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:03]|h|r You receive loot: |cff9d9d9d|Hitem:1514::::::::16:::::::::|h[Rusty Warhammer]|h|r.",
-					["serverTime"] = 1707747542,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164351.954,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [108]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:03]|h|r You receive loot: |cffffffff|Hitem:2589::::::::16:::::::::|h[Linen Cloth]|h|r.",
-					["serverTime"] = 1707747542,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164351.954,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [109]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:04]|h|r You loot 16 Copper",
-					["serverTime"] = 1707747543,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164353.017,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [110]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:27]|h|r Your skill in Guns has increased to 83.",
-					["serverTime"] = 1707747566,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164376.082,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [111]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:33]|h|r You receive loot: |cffffffff|Hitem:2589::::::::16:::::::::|h[Linen Cloth]|h|r.",
-					["serverTime"] = 1707747572,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164381.705,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [112]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:34]|h|r You loot 16 Copper",
-					["serverTime"] = 1707747573,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164382.781,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [113]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:39]|h|r You loot 26 Copper",
-					["serverTime"] = 1707747578,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164387.979,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [114]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:48]|h|r You receive loot: |cffffffff|Hitem:1179::::::::16:::::::::|h[Ice Cold Milk]|h|r.",
-					["serverTime"] = 1707747587,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164396.801,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [115]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:48]|h|r You receive loot: |cffffffff|Hitem:2835::::::::16:::::::::|h[Rough Stone]|h|rx2.",
-					["serverTime"] = 1707747587,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164396.863,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [116]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:48]|h|r You receive loot: |cffffffff|Hitem:2455::::::::16:::::::::|h[Minor Mana Potion]|h|rx2.",
-					["serverTime"] = 1707747587,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164396.863,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [117]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:49]|h|r You loot 49 Copper",
-					["serverTime"] = 1707747588,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						5, -- [2]
-						6, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164397.941,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [118]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:19:59]|h|r You receive loot: |cff1eff00|Hitem:211321::::::::16:::::::::|h[Waylaid Supplies: Lesser Magic Wands]|h|r.",
-					["serverTime"] = 1707747598,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164407.649,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [119]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:35]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747634,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164443.758,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [120]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:35]|h|r Your skill in First Aid has increased to 7.",
-					["serverTime"] = 1707747634,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164444.091,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [121]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:38]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747637,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164446.808,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [122]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:38]|h|r Your skill in First Aid has increased to 8.",
-					["serverTime"] = 1707747637,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164446.934,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [123]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:41]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747640,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164449.853,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [124]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:41]|h|r Your skill in First Aid has increased to 9.",
-					["serverTime"] = 1707747640,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164450.152,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [125]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:44]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747643,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164452.841,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [126]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:44]|h|r Your skill in First Aid has increased to 10.",
-					["serverTime"] = 1707747643,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						9, -- [2]
-						10, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164452.91,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [127]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:20:47]|h|r You create: |cffffffff|Hitem:1251::::::::16:::::::::|h[Linen Bandage]|h|r.",
-					["serverTime"] = 1707747646,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 164455.954,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [128]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
