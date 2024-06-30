@@ -13,6 +13,13 @@ X: 261
 Y: -51
 W: 1
 H: 1
+Frame: WorldMapFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 17
+Y: 21
+W: 1024
+H: 740
 Frame: AtlasFrame
 FrameLevel: 1
 Anchor: CENTER

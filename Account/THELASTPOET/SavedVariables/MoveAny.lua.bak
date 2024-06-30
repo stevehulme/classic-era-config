@@ -868,9 +868,9 @@ MATAB = {
 				["POINTS"] = {
 					["QuestLogFrame"] = {
 						["AN"] = "BOTTOMLEFT",
-						["PY"] = 297,
-						["RE"] = "BOTTOMLEFT",
 						["PX"] = 328,
+						["PY"] = 298,
+						["RE"] = "BOTTOMLEFT",
 					},
 					["TradeSkillFrame"] = {
 						["AN"] = "BOTTOMLEFT",
@@ -899,6 +899,8 @@ MATAB = {
 					["MacroFrame"] = {
 					},
 					["ScriptErrorsFrame"] = {
+					},
+					["TabardFrame"] = {
 					},
 					["StaticPopup1"] = {
 						["AN"] = "BOTTOMLEFT",
@@ -943,6 +945,8 @@ MATAB = {
 					["BankFrame"] = {
 					},
 					["SettingsPanel"] = {
+					},
+					["ModelPreviewFrame"] = {
 					},
 					["OpenMailFrame"] = {
 						["AN"] = "BOTTOMLEFT",
@@ -1028,6 +1032,8 @@ MATAB = {
 					},
 					["ScriptErrorsFrame"] = {
 					},
+					["TabardFrame"] = {
+					},
 					["StaticPopup1"] = {
 					},
 					["PlayerTalentFrame"] = {
@@ -1052,6 +1058,8 @@ MATAB = {
 					["BankFrame"] = {
 					},
 					["SettingsPanel"] = {
+					},
+					["ModelPreviewFrame"] = {
 					},
 					["OpenMailFrame"] = {
 					},
@@ -1152,6 +1160,9 @@ MATAB = {
 					["GHOSTFRAME"] = {
 						["ENABLED"] = false,
 					},
+					["TARGETFRAMETOTBUFF1"] = {
+						["ENABLED"] = false,
+					},
 					["ARCHEOLOGYDIGSITEPROGRESSBAR"] = {
 						["ENABLED"] = false,
 					},
@@ -1159,6 +1170,9 @@ MATAB = {
 						["ENABLED"] = false,
 					},
 					["ROLEPOLLPOPUP"] = {
+						["ENABLED"] = false,
+					},
+					["CHAT8"] = {
 						["ENABLED"] = false,
 					},
 					["BAGS"] = {
@@ -1197,7 +1211,7 @@ MATAB = {
 					["POSSESSBAR"] = {
 						["ENABLED"] = false,
 					},
-					["CHAT8"] = {
+					["TARGETFRAMEDEBUFF1"] = {
 						["ENABLED"] = false,
 					},
 					["UIERRORSFRAME"] = {

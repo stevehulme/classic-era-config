@@ -29,7 +29,7 @@ Prat3HighCPUPerCharDB = {
 	["scrollback"] = {
 		["ChatFrame5"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 3,
+			["headIndex"] = 0,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -42,26 +42,6 @@ Prat3HighCPUPerCharDB = {
 			["IsEmpty"] = nil --[[ skipped inline function ]],
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
-					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 10504.47,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["serverTime"] = 1714132243,
-				}, -- [1]
-				{
-					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
-					["timestamp"] = 10504.47,
-				}, -- [2]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 10504.47,
-				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -72,7 +52,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame4"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 3,
+			["headIndex"] = 0,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -85,26 +65,6 @@ Prat3HighCPUPerCharDB = {
 			["IsEmpty"] = nil --[[ skipped inline function ]],
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
-					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 10504.47,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["serverTime"] = 1714132243,
-				}, -- [1]
-				{
-					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
-					["timestamp"] = 10504.47,
-				}, -- [2]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 10504.47,
-				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -115,7 +75,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 8,
+			["headIndex"] = 4,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -130,83 +90,35 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["serverTime"] = 1718737947,
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 9954.508,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["b"] = 0,
 					["g"] = 1,
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714132180,
-					["r"] = 1,
 				}, -- [1]
 				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["b"] = 0,
-					["r"] = 1,
-					["serverTime"] = 1714134130,
-					["timestamp"] = 10504.47,
-					["g"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
+					["message"] = "0 days, 0 hours, 0 minutes, 0 seconds",
+					["timestamp"] = 9954.508,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
-					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 10504.47,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["serverTime"] = 1714132243,
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 9954.508,
 				}, -- [3]
 				{
 					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["g"] = 1,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714138684,
+					["timestamp"] = 9940.356,
+					["g"] = 1,
 					["b"] = 0,
 				}, -- [4]
-				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["serverTime"] = 1714144524,
-					["r"] = 1,
-					["b"] = 0,
-					["timestamp"] = 10504.47,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["g"] = 1,
-				}, -- [5]
-				{
-					["message"] = "0 days, 0 hours, 0 minutes, 0 seconds",
-					["timestamp"] = 10504.47,
-				}, -- [6]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 10504.47,
-				}, -- [7]
-				{
-					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 10498.004,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [8]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -217,7 +129,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame7"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 3,
+			["headIndex"] = 0,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -230,26 +142,6 @@ Prat3HighCPUPerCharDB = {
 			["IsEmpty"] = nil --[[ skipped inline function ]],
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
-					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 10504.47,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["serverTime"] = 1714132243,
-				}, -- [1]
-				{
-					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
-					["timestamp"] = 10504.47,
-				}, -- [2]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 10504.47,
-				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -260,7 +152,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame6"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 3,
+			["headIndex"] = 0,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -273,26 +165,6 @@ Prat3HighCPUPerCharDB = {
 			["IsEmpty"] = nil --[[ skipped inline function ]],
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
-					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 10504.47,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["serverTime"] = 1714132243,
-				}, -- [1]
-				{
-					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
-					["timestamp"] = 10504.47,
-				}, -- [2]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 10504.47,
-				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -303,7 +175,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame8"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 3,
+			["headIndex"] = 0,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -316,26 +188,6 @@ Prat3HighCPUPerCharDB = {
 			["IsEmpty"] = nil --[[ skipped inline function ]],
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
-					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 10504.47,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["serverTime"] = 1714132243,
-				}, -- [1]
-				{
-					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
-					["timestamp"] = 10504.47,
-				}, -- [2]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 10504.47,
-				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -346,7 +198,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame10"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 3,
+			["headIndex"] = 0,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -359,26 +211,6 @@ Prat3HighCPUPerCharDB = {
 			["IsEmpty"] = nil --[[ skipped inline function ]],
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
-					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 10504.47,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["serverTime"] = 1714132243,
-				}, -- [1]
-				{
-					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
-					["timestamp"] = 10504.47,
-				}, -- [2]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 10504.47,
-				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -389,7 +221,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame9"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 3,
+			["headIndex"] = 0,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -402,26 +234,6 @@ Prat3HighCPUPerCharDB = {
 			["IsEmpty"] = nil --[[ skipped inline function ]],
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
-				{
-					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
-					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 10504.47,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["serverTime"] = 1714132243,
-				}, -- [1]
-				{
-					["message"] = "0 days, 3 hours, 24 minutes, 41 seconds",
-					["timestamp"] = 10504.47,
-				}, -- [2]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 10504.47,
-				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],
@@ -432,7 +244,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 48,
+			["headIndex"] = 73,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -446,369 +258,639 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:33:03]|h|r Guild Message of the Day: Signups for our second ST on Tuesday are up, read tactics and get your consumes! || Incursions are the best way to level!",
+					["message"] = "|cff979797|Hpratcopy|h[20:20:19]|h|r Guild Message of the Day: No raids 14th and 21st of May, come level with us in Cata on Firemaw Alliance instead! || Incursions are the best way to level!",
+					["serverTime"] = 1718737947,
+					["r"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+					["timestamp"] = 9954.508,
 					["extraData"] = {
 						5, -- [1]
 						["n"] = 1,
 					},
-					["b"] = 0.250980406999588,
 					["g"] = 1,
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714132180,
-					["r"] = 0.250980406999588,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:33:03]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:<BNET REMOVED>:4:0:BN_INLINE_TOAST_ALERT:0|h[<BNET REMOVED>] (|T-2:10:10:0:0:32:32:0:32:0:32|t Jadax)|h has come online.",
-					["extraData"] = {
-						54, -- [1]
-						["n"] = 1,
-					},
-					["b"] = 1,
-					["g"] = 0.7725490927696228,
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714132180,
-					["r"] = 0.5098039507865906,
+					["message"] = "0 days, 0 hours, 0 minutes, 0 seconds",
+					["timestamp"] = 9954.508,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:49:40]|h|r Guild Message of the Day: Signups for our FOURTH ST on Tuesday are up, read tactics and get your consumes! || Incursions are the best way to level!",
-					["b"] = 0.250980406999588,
-					["r"] = 0.250980406999588,
-					["serverTime"] = 1714134130,
-					["timestamp"] = 10504.47,
-					["g"] = 1,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 9954.508,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:49:44]|h|r |Hchannel:channel:4|h[4] |h Changed Channel: |Hchannel:CHANNEL:4|h[4. goons]|h",
-					["r"] = 1,
-					["b"] = 0.7490196228027344,
-					["g"] = 0.7490196228027344,
-					["timestamp"] = 10504.47,
-					["extraData"] = {
-						72, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["serverTime"] = 1714132183,
+					["message"] = "|Hbuggrabber:Rawnok:000001E954334D40:|h|cffff0000[Error 000001E954334D40]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 9940.356,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[12:50:44]|h|r You have been disconnected from Blizzard services.",
-					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 10504.47,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["serverTime"] = 1714132243,
+					["message"] = "|cff33ff99ArkInventory|r: Loading Connected Realm (EU) Data",
+					["timestamp"] = 9940.356,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[13:22:11]|h|r Guild Message of the Day: Signups for our FOURTH ST on Tuesday are up, read tactics and get your consumes! || Incursions are the best way to level!",
-					["g"] = 1,
+					["message"] = "|Hbuggrabber:Rawnok:000001E954334E30:|h|cffff0000[Error 000001E954334E30]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 9940.356,
+				}, -- [6]
+				{
+					["message"] = "|Hbuggrabber:Rawnok:000001E954334F20:|h|cffff0000[Error 000001E954334F20]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 9940.356,
+				}, -- [7]
+				{
+					["message"] = "|Hbuggrabber:Rawnok:000001E954335010:|h|cffff0000[Error 000001E954335010]|r|h |cffffff00captured, click the link for more information.|r",
+					["timestamp"] = 9940.356,
+				}, -- [8]
+				{
+					["message"] = "|cff3FC7EB[MoveAny |T135994:16:16:0:0|t]|r |cFFFFFF00 Bartender4 Detected, please make sure that an element is only controlled by one addon at a time!",
+					["timestamp"] = 9940.356,
+				}, -- [9]
+				{
+					["message"] = "|cff3FC7EB[MoveAny |T135994:16:16:0:0|t]|r |cFFFFFF00 Click the MoveAny Minimap Button to open the settings.",
+					["timestamp"] = 9940.356,
+				}, -- [10]
+				{
+					["message"] = "|cff3FC7EB[MoveAny |T135994:16:16:0:0|t]|r |cFFFFFF00 Or tap /move or /moveany in chat to open the settings.",
+					["timestamp"] = 9940.356,
+				}, -- [11]
+				{
+					["message"] = "|cff3FC7EB[MoveAny |T135994:16:16:0:0|t]|r |cFFFFFF00 To hide these messages deactivate tips in the MoveAny menu.",
+					["timestamp"] = 9940.356,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:36]|h|r |cffCC33FFTodoChecklister|r You have no pending tasks.",
+					["timestamp"] = 9940.356,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:38]|h|r Guild Message of the Day: No raids 14th and 21st of May, come level with us in Cata on Firemaw Alliance instead! || Incursions are the best way to level!",
 					["r"] = 0.250980406999588,
 					["extraData"] = {
 						5, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714138684,
+					["timestamp"] = 9954.261,
+					["g"] = 1,
 					["b"] = 0.250980406999588,
-				}, -- [6]
+				}, -- [14]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[13:22:14]|h|r |Hchannel:channel:4|h[4] |h Changed Channel: |Hchannel:CHANNEL:4|h[4. goons]|h",
+					["message"] = "|cff979797|Hpratcopy|h[20:12:38]|h|r |cff33ff99ArkInventory|r: Rules Enabled",
+					["timestamp"] = 9954.508,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:39]|h|r |cff33ff99ArkInventory|r: v31033 [Classic] Enabled",
+					["timestamp"] = 9954.508,
+					["serverTime"] = 1718737948,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:39]|h|r |cff9900ffWeakAuras:|r  Aura 'Soul Shards Bar - Not's mod': This aura has caused a Lua error.\nInstall the addons BugSack and BugGrabber for detailed error logs.",
+					["timestamp"] = 9954.508,
+					["serverTime"] = 1718737948,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:39]|h|r |cff9900ffWeakAuras:|r  Aura 'Power Bar': This aura has caused a Lua error.\nInstall the addons BugSack and BugGrabber for detailed error logs.",
+					["timestamp"] = 9954.508,
+					["serverTime"] = 1718737948,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:39]|h|r Distance set to: 80",
+					["timestamp"] = 9954.508,
+					["serverTime"] = 1718737948,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:39]|h|r MoLib embedded in WhoTracker / WhoTracker v3.2.2-classic / 1 running on WoW classic v1.15.2-55140",
+					["timestamp"] = 9954.508,
+					["serverTime"] = 1718737948,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:39]|h|r WhoTracker is paused.  /wt resume or /wt query [query] to resume.",
+					["timestamp"] = 9954.508,
+					["serverTime"] = 1718737948,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:39]|h|r |cffffd700Titan Panel Classic|r|cff19ff19 1.3.6.11500|r|cffffd700|cffffd700 by the |cffff8c00Titan Panel Development Team|r\n|cffff1919WARNING: |r|cffffd700This is the last update of Titan Panel Classic!|r|cffff1919\nPlease delete this version and upgrade to |r|cffffd700Titan Panel 8|r|cff19ff19|r",
+					["timestamp"] = 9954.508,
+					["serverTime"] = 1718737948,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:39]|h|r |cffffd700Titan: |r|r|cff19ff19Register Titan Panel Classic plugins...|r",
+					["timestamp"] = 9954.508,
+					["serverTime"] = 1718737948,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:39]|h|r |cffffd700Titan: |r|r|cff19ff19Registration process done. 39|r",
+					["timestamp"] = 9954.508,
+					["serverTime"] = 1718737948,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:40]|h|r |cff2da3cf[Rune Reminder]|r Version 1.1.0 Loaded",
+					["timestamp"] = 9954.508,
+					["serverTime"] = 1718737949,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:40]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Legs - |cffabdaebKill Command|cffffffff has been added.",
+					["r"] = 0,
+					["serverTime"] = 1718737949,
+					["timestamp"] = 9956.18,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:40]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Feet - |cffabdaebInvigoration|cffffffff has been added.",
+					["r"] = 0,
+					["serverTime"] = 1718737949,
+					["timestamp"] = 9956.18,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:40]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Chest - |cffabdaebHeart of the Lion|cffffffff has been added.",
+					["r"] = 0,
+					["serverTime"] = 1718737949,
+					["timestamp"] = 9956.18,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:40]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Hands - |cffabdaebBeast Mastery|cffffffff has been added.",
+					["r"] = 0,
+					["serverTime"] = 1718737949,
+					["timestamp"] = 9956.18,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:40]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Waist - |cffabdaebSteady Shot|cffffffff has been added.",
+					["r"] = 0,
+					["serverTime"] = 1718737949,
+					["timestamp"] = 9956.18,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:40]|h|r |cFFAAEEFFQuestie DB has updated!|r|cFFFF6F22 Data is being processed, this may take a few moments and cause some lag...",
+					["timestamp"] = 9956.812,
+					["serverTime"] = 1718737949,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:40]|h|r |cFF4DDBFF [1/9] Loading database...",
+					["timestamp"] = 9956.812,
+					["serverTime"] = 1718737949,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:41]|h|r |cFF4DDBFF [2/9] Applying database corrections...",
+					["timestamp"] = 9957.161,
+					["serverTime"] = 1718737950,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:41]|h|r |Hchannel:channel:4|h[4] |h Changed Channel: |Hchannel:CHANNEL:4|h[4. goons]|h",
+					["serverTime"] = 1718737950,
+					["r"] = 1,
 					["extraData"] = {
 						72, -- [1]
 						1, -- [2]
 						2, -- [3]
 						["n"] = 3,
 					},
-					["b"] = 0.7490196228027344,
-					["serverTime"] = 1714134133,
-					["timestamp"] = 10504.47,
+					["timestamp"] = 9957.213,
 					["g"] = 0.7490196228027344,
-					["r"] = 1,
-				}, -- [7]
+					["b"] = 0.7490196228027344,
+				}, -- [34]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[13:23:48]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Badlands]|h",
+					["message"] = "|cff979797|Hpratcopy|h[20:12:41]|h|r |cFF4DDBFF [3/9] Initializing townfolks...",
+					["timestamp"] = 9957.213,
+					["serverTime"] = 1718737950,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:42]|h|r |cFFffff00[Questie]|r |cFF6ce314The 'Darkmoon Faire' world event is active!",
+					["timestamp"] = 9958.217,
+					["serverTime"] = 1718737951,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:42]|h|r |cFF4DDBFF [4/9] Initializing locale...",
+					["timestamp"] = 9958.867,
+					["serverTime"] = 1718737951,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:42]|h|r |cFF4DDBFF [5/9] Optimizing waypoints...",
+					["timestamp"] = 9958.901,
+					["serverTime"] = 1718737951,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:43]|h|r |cff33ff99ArkInventory|r: English (US) translations - attempt 1 of 5.",
+					["timestamp"] = 9959.267,
+					["serverTime"] = 1718737952,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:43]|h|r |cff33ff99ArkInventory|r: English (US) translations successfully loaded.",
+					["timestamp"] = 9959.267,
+					["serverTime"] = 1718737952,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:43]|h|r |cFF4DDBFF [6/9] Updating NPCs...",
+					["timestamp"] = 9959.284,
+					["serverTime"] = 1718737952,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:47]|h|r |cFF4DDBFF [7/9] Updating objects...",
+					["timestamp"] = 9963.066,
+					["serverTime"] = 1718737956,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:49]|h|r |cFF4DDBFF [8/9] Updating quests...",
+					["timestamp"] = 9965.49,
+					["serverTime"] = 1718737958,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:50]|h|r |cFF4DDBFF [9/9] Updating items...",
+					["timestamp"] = 9966.489,
+					["serverTime"] = 1718737959,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:51]|h|r |cFFAAEEFFQuestie DB update complete!",
+					["timestamp"] = 9967.406,
+					["serverTime"] = 1718737960,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:15]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Badlands]|h",
+					["serverTime"] = 1718738104,
+					["r"] = 1,
 					["extraData"] = {
 						69, -- [1]
 						4, -- [2]
 						5, -- [3]
 						["n"] = 3,
 					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1714134227,
-					["timestamp"] = 10504.47,
+					["timestamp"] = 10111.853,
 					["g"] = 0.7529412508010864,
-					["r"] = 1,
-				}, -- [8]
+					["b"] = 0.7529412508010864,
+				}, -- [46]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[13:23:48]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Badlands]|h",
+					["message"] = "|cff979797|Hpratcopy|h[20:15:15]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Badlands]|h",
+					["serverTime"] = 1718738104,
+					["r"] = 1,
 					["extraData"] = {
 						71, -- [1]
 						7, -- [2]
 						8, -- [3]
 						["n"] = 3,
 					},
-					["b"] = 0.7529412508010864,
-					["serverTime"] = 1714134227,
-					["timestamp"] = 10504.47,
+					["timestamp"] = 10111.853,
 					["g"] = 0.7529412508010864,
-					["r"] = 1,
-				}, -- [9]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:38:05]|h|r Guild Message of the Day: Signups for our FOURTH ST on Tuesday are up, read tactics and get your consumes! || Incursions are the best way to level!",
-					["serverTime"] = 1714144524,
-					["r"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
-					["timestamp"] = 10504.47,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["g"] = 1,
-				}, -- [10]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:38:08]|h|r |Hchannel:channel:4|h[4] |h Changed Channel: |Hchannel:CHANNEL:4|h[4. goons]|h",
-					["b"] = 0.7490196228027344,
-					["r"] = 1,
-					["g"] = 0.7490196228027344,
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714138687,
-					["extraData"] = {
-						72, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-				}, -- [11]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:39:04]|h|r You receive loot: |cffffffff|Hitem:2772::::::::40:::::::::|h[Iron Ore]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714138743,
-					["extraData"] = {
-						28, -- [1]
-						4, -- [2]
-						5, -- [3]
-						["n"] = 3,
-					},
-				}, -- [12]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[14:39:09]|h|r You receive loot: |cffffffff|Hitem:2772::::::::40:::::::::|h[Iron Ore]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714138748,
-					["extraData"] = {
-						28, -- [1]
-						4, -- [2]
-						5, -- [3]
-						["n"] = 3,
-					},
-				}, -- [13]
-				{
-					["message"] = "0 days, 1 hours, 36 minutes, 16 seconds",
-					["timestamp"] = 10504.47,
-				}, -- [14]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 10504.47,
-				}, -- [15]
-				{
-					["message"] = "|Hbuggrabber:Rawnok:000001A617824FD0:|h|cffff0000[Error 000001A617824FD0]|r|h |cffffff00captured, click the link for more information.|r",
-					["timestamp"] = 10498.004,
-				}, -- [16]
-				{
-					["message"] = "|cff33ff99ArkInventory|r: Loading Connected Realm (EU) Data",
-					["timestamp"] = 10498.004,
-				}, -- [17]
-				{
-					["message"] = "|Hbuggrabber:Rawnok:000001A6178250C0:|h|cffff0000[Error 000001A6178250C0]|r|h |cffffff00captured, click the link for more information.|r",
-					["timestamp"] = 10498.004,
-				}, -- [18]
-				{
-					["message"] = "|Hbuggrabber:Rawnok:000001A6178251B0:|h|cffff0000[Error 000001A6178251B0]|r|h |cffffff00captured, click the link for more information.|r",
-					["timestamp"] = 10498.004,
-				}, -- [19]
-				{
-					["message"] = "|Hbuggrabber:Rawnok:000001A6178252A0:|h|cffff0000[Error 000001A6178252A0]|r|h |cffffff00captured, click the link for more information.|r",
-					["timestamp"] = 10498.004,
-				}, -- [20]
-				{
-					["message"] = "|cff3FC7EB[MoveAny |T135994:16:16:0:0|t]|r |cFFFFFF00 Bartender4 Detected, please make sure that an element is only controlled by one addon at a time!",
-					["timestamp"] = 10498.004,
-				}, -- [21]
-				{
-					["message"] = "|cff3FC7EB[MoveAny |T135994:16:16:0:0|t]|r |cFFFFFF00 Click the MoveAny Minimap Button to open the settings.",
-					["timestamp"] = 10498.004,
-				}, -- [22]
-				{
-					["message"] = "|cff3FC7EB[MoveAny |T135994:16:16:0:0|t]|r |cFFFFFF00 Or tap /move or /moveany in chat to open the settings.",
-					["timestamp"] = 10498.004,
-				}, -- [23]
-				{
-					["message"] = "|cff3FC7EB[MoveAny |T135994:16:16:0:0|t]|r |cFFFFFF00 To hide these messages deactivate tips in the MoveAny menu.",
-					["timestamp"] = 10498.004,
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:23]|h|r |cffCC33FFTodoChecklister|r You have no pending tasks.",
-					["timestamp"] = 10498.004,
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:24]|h|r Guild Message of the Day: Signups for our FOURTH ST on Tuesday are up, read tactics and get your consumes! || Incursions are the best way to level!",
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 10504.208,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:24]|h|r |cff33ff99ArkInventory|r: Rules Enabled",
-					["timestamp"] = 10504.47,
-				}, -- [27]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r |cff33ff99ArkInventory|r: v31027 [Classic] Enabled",
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714144525,
-				}, -- [28]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r |cff9900ffWeakAuras:|r  Aura 'Soul Shards Bar - Not's mod': This aura has caused a Lua error.\nInstall the addons BugSack and BugGrabber for detailed error logs.",
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714144525,
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r |cff9900ffWeakAuras:|r  Aura 'Power Bar': This aura has caused a Lua error.\nInstall the addons BugSack and BugGrabber for detailed error logs.",
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714144525,
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r Distance set to: 80",
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714144525,
-				}, -- [31]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r MoLib embedded in WhoTracker / WhoTracker v3.2.2-classic / 1 running on WoW classic v1.15.2-54332",
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714144525,
-				}, -- [32]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r WhoTracker is paused.  /wt resume or /wt query [query] to resume.",
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714144525,
-				}, -- [33]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r |cffffd700Titan Panel Classic|r|cff19ff19 1.3.6.11500|r|cffffd700|cffffd700 by the |cffff8c00Titan Panel Development Team|r\n|cffff1919WARNING: |r|cffffd700This is the last update of Titan Panel Classic!|r|cffff1919\nPlease delete this version and upgrade to |r|cffffd700Titan Panel 8|r|cff19ff19|r",
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714144525,
-				}, -- [34]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r |cffffd700Titan: |r|r|cff19ff19Register Titan Panel Classic plugins...|r",
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714144525,
-				}, -- [35]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:25]|h|r |cffffd700Titan: |r|r|cff19ff19Registration process done. 38|r",
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714144525,
-				}, -- [36]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:26]|h|r |cff2da3cf[Rune Reminder]|r Version 1.1.0 Loaded",
-					["timestamp"] = 10504.47,
-					["serverTime"] = 1714144526,
-				}, -- [37]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:26]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Legs - |cffabdaebKill Command|cffffffff has been added.",
-					["r"] = 0,
-					["serverTime"] = 1714144526,
-					["timestamp"] = 10506.692,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [38]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:26]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Feet - |cffabdaebInvigoration|cffffffff has been added.",
-					["r"] = 0,
-					["serverTime"] = 1714144526,
-					["timestamp"] = 10506.692,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [39]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:26]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Chest - |cffabdaebHeart of the Lion|cffffffff has been added.",
-					["r"] = 0,
-					["serverTime"] = 1714144526,
-					["timestamp"] = 10506.692,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [40]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:26]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Hands - |cffabdaebBeast Mastery|cffffffff has been added.",
-					["r"] = 0,
-					["serverTime"] = 1714144526,
-					["timestamp"] = 10506.692,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [41]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:26]|h|r |cff2da3cf[Rune Reminder]|cffffffff updated Waist - |cffabdaebSteady Shot|cffffffff has been added.",
-					["r"] = 0,
-					["serverTime"] = 1714144526,
-					["timestamp"] = 10506.692,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [42]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:27]|h|r |Hchannel:channel:4|h[4] |h Changed Channel: |Hchannel:CHANNEL:4|h[4. goons]|h",
-					["serverTime"] = 1714144527,
-					["r"] = 1,
-					["extraData"] = {
-						72, -- [1]
-						1, -- [2]
-						2, -- [3]
-						["n"] = 3,
-					},
-					["timestamp"] = 10507.286,
-					["g"] = 0.7490196228027344,
-					["b"] = 0.7490196228027344,
-				}, -- [43]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:28]|h|r |cFFffff00[Questie]|r |cFF6ce314The 'Darkmoon Faire' world event is active!",
-					["timestamp"] = 10508.059,
-					["serverTime"] = 1714144528,
-				}, -- [44]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:29]|h|r |cff33ff99ArkInventory|r: English (US) translations - attempt 1 of 5.",
-					["timestamp"] = 10509.209,
-					["serverTime"] = 1714144529,
-				}, -- [45]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:15:29]|h|r |cff33ff99ArkInventory|r: English (US) translations successfully loaded.",
-					["timestamp"] = 10509.209,
-					["serverTime"] = 1714144529,
-				}, -- [46]
-				{
-					["message"] = "OnDatabaseShutdown table: 000001A61FE79C70",
-					["timestamp"] = 10538.556,
-					["serverTime"] = 1714144558,
+					["b"] = 0.7529412508010864,
 				}, -- [47]
 				{
-					["message"] = "Fri Apr 26 16:15 end of tracking (logout)",
+					["message"] = "|cff979797|Hpratcopy|h[20:15:33]|h|r You receive loot: |cffffffff|Hitem:2772::::::::40:::::::::|h[Iron Ore]|h|r.",
+					["serverTime"] = 1718738122,
 					["r"] = 0,
-					["timestamp"] = 10538.556,
+					["extraData"] = {
+						28, -- [1]
+						10, -- [2]
+						11, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10129.043,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:37]|h|r You receive loot: |cffffffff|Hitem:2838::::::::40:::::::::|h[Heavy Stone]|h|rx3.",
+					["serverTime"] = 1718738126,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						10, -- [2]
+						11, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10133.343,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:37]|h|r You receive loot: |cffffffff|Hitem:2772::::::::40:::::::::|h[Iron Ore]|h|r.",
+					["serverTime"] = 1718738126,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						10, -- [2]
+						11, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10133.343,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:41]|h|r You receive loot: |cffffffff|Hitem:2772::::::::40:::::::::|h[Iron Ore]|h|r.",
+					["serverTime"] = 1718738130,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						10, -- [2]
+						11, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10137.263,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:45]|h|r You receive loot: |cffffffff|Hitem:2772::::::::40:::::::::|h[Iron Ore]|h|r.",
+					["serverTime"] = 1718738134,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						10, -- [2]
+						11, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10141.533,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:47]|h|r You receive loot: |cff9d9d9d|Hitem:8746::::::::40:::::::::|h[Interlaced Cowl]|h|r.",
+					["serverTime"] = 1718738196,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						10, -- [2]
+						11, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10203.639,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:48]|h|r You loot 67 Copper",
+					["serverTime"] = 1718738197,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						12, -- [2]
+						13, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10204.644,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:14]|h|r You receive loot: |cffffffff|Hitem:4306::::::::40:::::::::|h[Silk Cloth]|h|rx3.",
+					["serverTime"] = 1718738223,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						10, -- [2]
+						11, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10230.218,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:15]|h|r You loot 1 Silver, 42 Copper",
+					["serverTime"] = 1718738224,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						12, -- [2]
+						13, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10231.223,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:17]|h|r Dustbelcher Mystic says: Raaaaaaaaaaaaaaaaaaaaaaaaaaaaaar!!! Me smash Cat!",
+					["serverTime"] = 1718738226,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						14, -- [2]
+						15, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10233.541,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:35]|h|r You receive loot: |cffffffff|Hitem:4629::::::::40:::::::::|h[Supply Crate]|h|r.",
+					["serverTime"] = 1718738244,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						10, -- [2]
+						11, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10251.108,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:36]|h|r You receive loot: |cffffffff|Hitem:4306::::::::40:::::::::|h[Silk Cloth]|h|rx2.",
+					["serverTime"] = 1718738245,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						10, -- [2]
+						11, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10252.902,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:37]|h|r You loot 2 Silver, 82 Copper",
+					["serverTime"] = 1718738246,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						12, -- [2]
+						13, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10253.91,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:36]|h|r Shadowforge Tunneler attempts to run away in fear!",
+					["serverTime"] = 1718738305,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						16, -- [2]
+						17, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10312.489,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:41]|h|r You receive loot: |cff9d9d9d|Hitem:3784::::::::40:::::::::|h[Metal Stave]|h|r.",
+					["serverTime"] = 1718738310,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						10, -- [2]
+						11, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10317.746,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:41]|h|r You receive loot: |cffffffff|Hitem:1710::::::::40:::::::::|h[Greater Healing Potion]|h|r.",
+					["serverTime"] = 1718738310,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						10, -- [2]
+						11, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10317.746,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:42]|h|r You loot 1 Silver, 80 Copper",
+					["serverTime"] = 1718738311,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						12, -- [2]
+						13, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10318.847,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:19:13]|h|r Shadowforge Darkweaver attempts to run away in fear!",
+					["serverTime"] = 1718738342,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						16, -- [2]
+						17, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10349.689,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:19:18]|h|r You loot 2 Silver, 31 Copper",
+					["serverTime"] = 1718738347,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						12, -- [2]
+						13, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10354.306,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:19:45]|h|r Your Ironforge reputation has increased by 75.",
+					["serverTime"] = 1718738374,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						18, -- [2]
+						19, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10381.209,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:19:45]|h|r Mirages completed.",
+					["serverTime"] = 1718738374,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						20, -- [2]
+						21, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10381.23,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:19:45]|h|r Experience gained: 4300.",
+					["serverTime"] = 1718738374,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						20, -- [2]
+						21, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10381.23,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:19:50]|h|r Quest accepted: Scrounging",
+					["serverTime"] = 1718738379,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						20, -- [2]
+						21, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10386.742,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:38]|h|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:CHANNEL:1|h[1. General - Loch Modan]|h",
+					["serverTime"] = 1718738427,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						4, -- [2]
+						5, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10434.109,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:20:38]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Loch Modan]|h",
+					["serverTime"] = 1718738427,
+					["r"] = 1,
+					["extraData"] = {
+						71, -- [1]
+						7, -- [2]
+						8, -- [3]
+						["n"] = 3,
+					},
+					["timestamp"] = 10434.109,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [72]
+				{
+					["message"] = "Tue Jun 18 20:21 end of tracking (logout)",
+					["r"] = 0,
+					["timestamp"] = 10464.213,
 					["g"] = 0,
 					["b"] = 1,
-				}, -- [48]
+				}, -- [73]
 			},
 			["maxElements"] = 128,
 			["TransformIf"] = nil --[[ skipped inline function ]],

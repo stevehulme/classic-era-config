@@ -8,7 +8,7 @@ GoldSave = {
 	["Rawnok_Crusader Strike::Alliance"] = {
 		["show"] = true,
 		["name"] = "Rawnok",
-		["gold"] = 559962,
+		["gold"] = 545938,
 	},
 	["Durthal_Stitches::Horde"] = {
 		["show"] = true,

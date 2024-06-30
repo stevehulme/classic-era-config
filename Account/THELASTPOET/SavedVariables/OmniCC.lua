@@ -1,6 +1,5 @@
 
 OmniCC4Config = {
-	["version"] = "8.1.1",
 	["groupSettings"] = {
 		["base"] = {
 			["fontSize"] = 18,
@@ -35,4 +34,5 @@ OmniCC4Config = {
 	},
 	["groups"] = {
 	},
+	["version"] = "8.1.1",
 }

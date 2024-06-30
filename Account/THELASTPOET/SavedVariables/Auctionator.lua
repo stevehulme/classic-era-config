@@ -2,59 +2,60 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 1,
 	["_2000"] = 1,
-	["STARTING_DISCOUNT"] = 5,
 	["LOG_DE_DATA_X"] = true,
-	["_1000000"] = 1,
-	["_5000000"] = 1,
 	["_500"] = 1,
-	["_10000"] = 1,
+	["_1000000"] = 1,
 	["_200000"] = 1,
+	["STARTING_DISCOUNT"] = 5,
+	["_5000000"] = 1,
+	["_10000"] = 1,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 }
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"pack", -- [1]
-			"bag", -- [2]
-			"frost oil", -- [3]
-			"solid stone", -- [4]
-			"mithril ore", -- [5]
-			"medium leather", -- [6]
-			"heavy-bore", -- [7]
-			"Greater healing", -- [8]
-			"lotus", -- [9]
-			"elixir of", -- [10]
-			"barbaric", -- [11]
-			"whisker", -- [12]
-			"magic wand", -- [13]
-			"bolt of", -- [14]
-			"hillman", -- [15]
-			"\"Shredder Turbocharger\"", -- [16]
-			"shredder auto", -- [17]
-			"thick leather", -- [18]
-			"fadeleaf", -- [19]
-			"\"Turtle Meat\"", -- [20]
-			"\"Dark Iron Ordinance\"", -- [21]
-			"\"Boar Ribs\"", -- [22]
-			"\"Murloc Fin\"", -- [23]
-			"clam meat", -- [24]
-			"\"Chunk of Boar Meat\"", -- [25]
-			"\"Stringy Wolf Meat\"", -- [26]
-			"moss agate", -- [27]
-			"scope", -- [28]
-			"tigerseye", -- [29]
-			"wolf meat", -- [30]
-			"hops", -- [31]
-			"Ammo pouch", -- [32]
-			"moss", -- [33]
-			"heavy stone", -- [34]
-			"strong troll", -- [35]
-			"silver ore", -- [36]
-			"light leather", -- [37]
-			"shredder", -- [38]
-			"bow", -- [39]
-			"meat", -- [40]
+			"lesser", -- [1]
+			"pack", -- [2]
+			"bag", -- [3]
+			"frost oil", -- [4]
+			"solid stone", -- [5]
+			"mithril ore", -- [6]
+			"medium leather", -- [7]
+			"heavy-bore", -- [8]
+			"Greater healing", -- [9]
+			"lotus", -- [10]
+			"elixir of", -- [11]
+			"barbaric", -- [12]
+			"whisker", -- [13]
+			"magic wand", -- [14]
+			"bolt of", -- [15]
+			"hillman", -- [16]
+			"\"Shredder Turbocharger\"", -- [17]
+			"shredder auto", -- [18]
+			"thick leather", -- [19]
+			"fadeleaf", -- [20]
+			"\"Turtle Meat\"", -- [21]
+			"\"Dark Iron Ordinance\"", -- [22]
+			"\"Boar Ribs\"", -- [23]
+			"\"Murloc Fin\"", -- [24]
+			"clam meat", -- [25]
+			"\"Chunk of Boar Meat\"", -- [26]
+			"\"Stringy Wolf Meat\"", -- [27]
+			"moss agate", -- [28]
+			"scope", -- [29]
+			"tigerseye", -- [30]
+			"wolf meat", -- [31]
+			"hops", -- [32]
+			"Ammo pouch", -- [33]
+			"moss", -- [34]
+			"heavy stone", -- [35]
+			"strong troll", -- [36]
+			"silver ore", -- [37]
+			"light leather", -- [38]
+			"shredder", -- [39]
+			"bow", -- [40]
+			"meat", -- [41]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -127,6 +128,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H4857"] = 21482,
 			["id"] = "9301:0:0:0:0",
 			["sc"] = 6,
+		},
+		["Formula: Enchant Cloak - Lesser Agility"] = {
+			["mr"] = 199798,
+			["cc"] = 9,
+			["id"] = "11206:0:0:0:0",
+			["sc"] = 8,
+			["H4957"] = 199798,
 		},
 		["Exploding Shot"] = {
 			["mr"] = 16,
@@ -234,6 +242,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "12984:0:0:0:0",
 			["cc"] = 2,
 		},
+		["Formula: Enchant Bracer - Lesser Spirit"] = {
+			["mr"] = 1490000,
+			["cc"] = 9,
+			["id"] = "6375:0:0:0:0",
+			["sc"] = 8,
+			["H4957"] = 1490000,
+		},
 		["Greater Healing Potion"] = {
 			["mr"] = 1300,
 			["cc"] = 0,
@@ -262,6 +277,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "6531:0:0:0:0",
 			["sc"] = 1,
 		},
+		["Lesser Eternal Essence"] = {
+			["mr"] = 28683,
+			["cc"] = 7,
+			["id"] = "16202:0:0:0:0",
+			["sc"] = 0,
+			["H4957"] = 28683,
+		},
 		["Bolt of Linen Cloth"] = {
 			["H4856"] = 117,
 			["mr"] = 117,
@@ -284,10 +306,10 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 6,
 		},
 		["Elixir of Detect Lesser Invisibility"] = {
-			["mr"] = 4922,
+			["mr"] = 9447,
 			["cc"] = 0,
 			["id"] = "3828:0:0:0:0",
-			["H4863"] = 4922,
+			["H4957"] = 9447,
 			["sc"] = 0,
 		},
 		["Pattern: Barbaric Leggings"] = {
@@ -382,6 +404,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H4863"] = 12995,
 			["sc"] = 2,
 		},
+		["Lesser Stoneshield Potion"] = {
+			["mr"] = 4670,
+			["cc"] = 0,
+			["id"] = "4623:0:0:0:0",
+			["sc"] = 0,
+			["H4957"] = 4670,
+		},
 		["Barbaric Battle Axe of the Tiger"] = {
 			["mr"] = 4400,
 			["cc"] = 2,
@@ -461,11 +490,18 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["L4856"] = 9910,
 		},
 		["Lesser Magic Wand"] = {
-			["H4856"] = 1549,
-			["mr"] = 1549,
+			["mr"] = 3712,
 			["sc"] = 19,
 			["id"] = "11287:0:0:0:0",
+			["H4957"] = 3712,
 			["cc"] = 2,
+		},
+		["Lesser Bloodstone Ore"] = {
+			["mr"] = 2495,
+			["cc"] = 12,
+			["id"] = "4278:0:0:0:0",
+			["sc"] = 0,
+			["H4957"] = 2495,
 		},
 		["Mageweave Bag"] = {
 			["mr"] = 11998,
@@ -473,6 +509,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H4897"] = 11998,
 			["id"] = "10050:0:0:0:0",
 			["cc"] = 1,
+		},
+		["Lesser Astral Essence"] = {
+			["mr"] = 1990,
+			["cc"] = 7,
+			["id"] = "10998:0:0:0:0",
+			["sc"] = 0,
+			["H4957"] = 1990,
 		},
 		["Greater Magic Wand"] = {
 			["H4856"] = 2727,
@@ -545,6 +588,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H4863"] = 14732,
 			["sc"] = 1,
 		},
+		["Lesser Healing Potion"] = {
+			["mr"] = 118,
+			["cc"] = 0,
+			["id"] = "858:0:0:0:0",
+			["sc"] = 0,
+			["H4957"] = 118,
+		},
 		["Red Wolf Meat"] = {
 			["mr"] = 184,
 			["cc"] = 7,
@@ -587,6 +637,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "1470:0:0:0:0",
 			["sc"] = 0,
 		},
+		["Formula: Enchant Bracer - Lesser Strength"] = {
+			["mr"] = 27059,
+			["cc"] = 9,
+			["id"] = "11101:0:0:0:0",
+			["sc"] = 8,
+			["H4957"] = 27059,
+		},
 		["Hillman's Leather Vest"] = {
 			["H4856"] = 8787,
 			["mr"] = 8787,
@@ -622,6 +679,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "14155:0:0:0:0",
 			["sc"] = 0,
 		},
+		["Lesser Nether Essence"] = {
+			["mr"] = 17537,
+			["cc"] = 7,
+			["id"] = "11174:0:0:0:0",
+			["sc"] = 0,
+			["H4957"] = 17537,
+		},
 		["Mithril Heavy-bore Rifle"] = {
 			["mr"] = 116272,
 			["cc"] = 2,
@@ -629,12 +693,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H4863"] = 116272,
 			["sc"] = 3,
 		},
+		["Lesser Mana Potion"] = {
+			["mr"] = 494,
+			["cc"] = 0,
+			["id"] = "3385:0:0:0:0",
+			["sc"] = 0,
+			["H4957"] = 494,
+		},
 		["Barbaric Battle Axe of the Boar"] = {
 			["mr"] = 2185,
 			["cc"] = 2,
 			["id"] = "3195:0:0:1100:0",
 			["H4863"] = 2185,
 			["sc"] = 1,
+		},
+		["Formula: Enchant Cloak - Lesser Shadow Resistance"] = {
+			["mr"] = 99989,
+			["cc"] = 9,
+			["id"] = "11098:0:0:0:0",
+			["sc"] = 8,
+			["H4957"] = 99989,
 		},
 		["Spiced Wolf Meat"] = {
 			["mr"] = 1420,
@@ -650,6 +728,48 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H4864"] = 2962,
 			["sc"] = 0,
 		},
+		["Formula: Lesser Wizard Oil"] = {
+			["mr"] = 89993,
+			["cc"] = 9,
+			["id"] = "20753:0:0:0:0",
+			["sc"] = 8,
+			["H4957"] = 89993,
+		},
+		["Recipe: Hot Lion Chops"] = {
+			["mr"] = 9869,
+			["cc"] = 9,
+			["id"] = "3735:0:0:0:0",
+			["sc"] = 5,
+			["H4842"] = 9869,
+		},
+		["Small Silk Pack"] = {
+			["mr"] = 3499,
+			["cc"] = 1,
+			["H4897"] = 3499,
+			["id"] = "4245:0:0:0:0",
+			["sc"] = 0,
+		},
+		["Lesser Wizard Oil"] = {
+			["mr"] = 17994,
+			["cc"] = 7,
+			["id"] = "20746:0:0:0:0",
+			["sc"] = 0,
+			["H4957"] = 17994,
+		},
+		["Lesser Magic Essence"] = {
+			["mr"] = 15212,
+			["cc"] = 7,
+			["id"] = "10938:0:0:0:0",
+			["sc"] = 0,
+			["H4957"] = 15212,
+		},
+		["Sniper Scope"] = {
+			["mr"] = 294945,
+			["cc"] = 7,
+			["H4843"] = 294945,
+			["id"] = "10548:0:0:0:0",
+			["sc"] = 3,
+		},
 		["Pattern: Hillman's Belt"] = {
 			["H4856"] = 503,
 			["mr"] = 503,
@@ -657,11 +777,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "4294:0:0:0:0",
 			["cc"] = 9,
 		},
-		["Small Silk Pack"] = {
-			["mr"] = 3499,
+		["Traveler's Backpack"] = {
+			["mr"] = 999995,
 			["cc"] = 1,
-			["H4897"] = 3499,
-			["id"] = "4245:0:0:0:0",
+			["H4897"] = 999995,
+			["id"] = "4500:0:0:0:0",
 			["sc"] = 0,
 		},
 		["Frost Oil"] = {
@@ -671,11 +791,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "3829:0:0:0:0",
 			["sc"] = 0,
 		},
-		["Packet of Tharlendris Seeds"] = {
-			["mr"] = 1868,
-			["cc"] = 12,
-			["H4897"] = 1868,
-			["id"] = "11022:0:0:0:0",
+		["Elixir of Minor Agility"] = {
+			["mr"] = 3747,
+			["cc"] = 0,
+			["id"] = "2457:0:0:0:0",
+			["H4863"] = 3747,
 			["sc"] = 0,
 		},
 		["Woolen Bag"] = {
@@ -685,26 +805,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "4240:0:0:0:0",
 			["sc"] = 0,
 		},
-		["Traveler's Backpack"] = {
-			["mr"] = 999995,
-			["cc"] = 1,
-			["H4897"] = 999995,
-			["id"] = "4500:0:0:0:0",
-			["sc"] = 0,
-		},
-		["Elixir of Minor Agility"] = {
-			["mr"] = 3747,
-			["cc"] = 0,
-			["id"] = "2457:0:0:0:0",
-			["H4863"] = 3747,
-			["sc"] = 0,
-		},
 		["Six Demon Bag"] = {
 			["mr"] = 1009998,
 			["cc"] = 4,
 			["H4897"] = 1009998,
 			["id"] = "7734:0:0:0:0",
 			["sc"] = 0,
+		},
+		["Recipe: Elixir of Superior Defense"] = {
+			["mr"] = 20032,
+			["cc"] = 9,
+			["id"] = "13478:0:0:0:0",
+			["H4863"] = 20032,
+			["sc"] = 6,
+		},
+		["Recipe: Bristle Whisker Catfish"] = {
+			["mr"] = 14999,
+			["cc"] = 9,
+			["H4857"] = 14999,
+			["id"] = "6330:0:0:0:0",
+			["sc"] = 5,
 		},
 		["Pattern: Hillman's Leather Vest"] = {
 			["H4856"] = 3094,
@@ -720,12 +840,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "210147:0:0:0:0",
 			["cc"] = 0,
 		},
-		["Recipe: Elixir of Superior Defense"] = {
-			["mr"] = 20032,
-			["cc"] = 9,
-			["id"] = "13478:0:0:0:0",
-			["H4863"] = 20032,
-			["sc"] = 6,
+		["Bolt of Runecloth"] = {
+			["H4856"] = 5986,
+			["mr"] = 5986,
+			["sc"] = 0,
+			["id"] = "14048:0:0:0:0",
+			["cc"] = 7,
 		},
 		["Tender Wolf Meat"] = {
 			["mr"] = 333,
@@ -741,12 +861,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H4850"] = 110,
 			["sc"] = 0,
 		},
-		["Sniper Scope"] = {
-			["mr"] = 294945,
-			["cc"] = 7,
-			["H4843"] = 294945,
-			["id"] = "10548:0:0:0:0",
-			["sc"] = 3,
+		["Elixir of Lion's Strength"] = {
+			["mr"] = 388,
+			["cc"] = 0,
+			["id"] = "2454:0:0:0:0",
+			["H4863"] = 388,
+			["sc"] = 0,
 		},
 		["Dark Iron Ordinance"] = {
 			["H4851"] = 1999,
@@ -755,33 +875,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["mr"] = 1999,
 		},
-		["Heavy Hide"] = {
-			["mr"] = 739,
-			["cc"] = 7,
-			["id"] = "4235:0:0:0:0",
-			["H4864"] = 739,
-			["sc"] = 0,
-		},
-		["Green Leather Bag"] = {
-			["mr"] = 1623,
-			["sc"] = 0,
-			["H4897"] = 1623,
-			["id"] = "5573:0:0:0:0",
-			["cc"] = 1,
-		},
 		["Feathered Arrow"] = {
 			["mr"] = 68,
 			["cc"] = 6,
 			["H4843"] = 68,
 			["id"] = "3464:0:0:0:0",
 			["sc"] = 2,
-		},
-		["Truesilver Bar"] = {
-			["mr"] = 13783,
-			["cc"] = 7,
-			["id"] = "6037:0:0:0:0",
-			["H4864"] = 13783,
-			["sc"] = 0,
 		},
 		["Small Leather Ammo Pouch"] = {
 			["mr"] = 499,
@@ -790,13 +889,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H4842"] = 499,
 		},
-		["Barbaric Cloth Boots"] = {
-			["mr"] = 20000,
-			["cc"] = 4,
-			["id"] = "3307:0:0:0:0",
-			["H4863"] = 20000,
-			["sc"] = 1,
-		},
 		["Deadly Scope"] = {
 			["mr"] = 40928,
 			["cc"] = 7,
@@ -804,19 +896,47 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "10546:0:0:0:0",
 			["sc"] = 3,
 		},
-		["Bolt of Runecloth"] = {
-			["H4856"] = 5986,
-			["mr"] = 5986,
-			["sc"] = 0,
-			["id"] = "14048:0:0:0:0",
+		["Truesilver Bar"] = {
+			["mr"] = 13783,
 			["cc"] = 7,
-		},
-		["Elixir of Lion's Strength"] = {
-			["mr"] = 388,
-			["cc"] = 0,
-			["id"] = "2454:0:0:0:0",
-			["H4863"] = 388,
+			["id"] = "6037:0:0:0:0",
+			["H4864"] = 13783,
 			["sc"] = 0,
+		},
+		["Heavy Hide"] = {
+			["mr"] = 739,
+			["cc"] = 7,
+			["id"] = "4235:0:0:0:0",
+			["H4864"] = 739,
+			["sc"] = 0,
+		},
+		["Barbaric Cloth Boots"] = {
+			["mr"] = 20000,
+			["cc"] = 4,
+			["id"] = "3307:0:0:0:0",
+			["H4863"] = 20000,
+			["sc"] = 1,
+		},
+		["Crimson Lotus"] = {
+			["mr"] = 300,
+			["cc"] = 7,
+			["id"] = "6986:0:0:0:0",
+			["H4863"] = 300,
+			["sc"] = 0,
+		},
+		["Elixir of Greater Water Breathing"] = {
+			["mr"] = 10997,
+			["cc"] = 0,
+			["id"] = "18294:0:0:0:0",
+			["H4863"] = 10997,
+			["sc"] = 0,
+		},
+		["Barbaric Battle Axe of the Monkey"] = {
+			["mr"] = 13997,
+			["cc"] = 2,
+			["id"] = "3195:0:0:590:0",
+			["H4863"] = 13997,
+			["sc"] = 1,
 		},
 		["Recipe: Elixir of Detect Lesser Invisibility"] = {
 			["mr"] = 997,
@@ -846,12 +966,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "5774:0:0:0:0",
 			["sc"] = 2,
 		},
-		["Crimson Lotus"] = {
-			["mr"] = 300,
-			["cc"] = 7,
-			["id"] = "6986:0:0:0:0",
-			["H4863"] = 300,
+		["Medium Leather"] = {
+			["mr"] = 104,
 			["sc"] = 0,
+			["id"] = "2319:0:0:0:0",
+			["H4864"] = 104,
+			["cc"] = 7,
 		},
 		["Elixir of Wisdom"] = {
 			["mr"] = 263,
@@ -860,12 +980,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H4863"] = 263,
 			["sc"] = 0,
 		},
-		["Barbaric Battle Axe of the Monkey"] = {
-			["mr"] = 13997,
-			["cc"] = 2,
-			["id"] = "3195:0:0:590:0",
-			["H4863"] = 13997,
-			["sc"] = 1,
+		["Pattern: Red Woolen Bag"] = {
+			["mr"] = 1999,
+			["sc"] = 2,
+			["H4897"] = 1999,
+			["id"] = "5772:0:0:0:0",
+			["cc"] = 9,
 		},
 		["Red Woolen Bag"] = {
 			["mr"] = 3570,
@@ -881,19 +1001,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 3,
 			["H4842"] = 4072,
 		},
-		["Shredder Turbocharger"] = {
-			["H4856"] = 12982,
-			["mr"] = 12982,
-			["sc"] = 0,
-			["id"] = "210146:0:0:0:0",
-			["cc"] = 0,
-		},
-		["Medium Leather"] = {
-			["mr"] = 104,
-			["sc"] = 0,
-			["id"] = "2319:0:0:0:0",
-			["H4864"] = 104,
+		["Lesser Moonstone"] = {
+			["mr"] = 959,
 			["cc"] = 7,
+			["id"] = "1705:0:0:0:0",
+			["sc"] = 0,
+			["H4957"] = 959,
+		},
+		["Heavy Leather Ammo Pouch"] = {
+			["mr"] = 9898,
+			["cc"] = 11,
+			["id"] = "7372:0:0:0:0",
+			["sc"] = 3,
+			["H4842"] = 9898,
 		},
 		["Red Mageweave Bag"] = {
 			["mr"] = 14439,
@@ -909,19 +1029,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H4863"] = 5890,
 			["sc"] = 0,
 		},
-		["Heavy Leather Ammo Pouch"] = {
-			["mr"] = 9898,
-			["cc"] = 11,
-			["id"] = "7372:0:0:0:0",
-			["sc"] = 3,
-			["H4842"] = 9898,
-		},
 		["Barbaric Harness"] = {
 			["mr"] = 7718,
 			["cc"] = 4,
 			["id"] = "5739:0:0:0:0",
 			["H4863"] = 7718,
 			["sc"] = 2,
+		},
+		["Green Woolen Bag"] = {
+			["mr"] = 4400,
+			["cc"] = 1,
+			["H4843"] = 4496,
+			["id"] = "4241:0:0:0:0",
+			["sc"] = 0,
+			["L4843"] = 4400,
 		},
 		["Elixir of Frost Power"] = {
 			["mr"] = 4929,
@@ -944,13 +1065,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "7282:0:0:0:0",
 			["cc"] = 4,
 		},
-		["Green Woolen Bag"] = {
-			["mr"] = 4400,
-			["cc"] = 1,
-			["H4843"] = 4496,
-			["id"] = "4241:0:0:0:0",
+		["Lesser Invisibility Potion"] = {
+			["mr"] = 14671,
+			["cc"] = 0,
+			["id"] = "3823:0:0:0:0",
 			["sc"] = 0,
-			["L4843"] = 4400,
+			["H4957"] = 14671,
 		},
 		["Clam Meat"] = {
 			["mr"] = 18,
@@ -966,19 +1086,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H4863"] = 2055,
 			["sc"] = 1,
 		},
-		["Elixir of Poison Resistance"] = {
-			["mr"] = 2182,
-			["cc"] = 0,
-			["id"] = "3386:0:0:0:0",
-			["H4863"] = 2182,
-			["sc"] = 0,
-		},
 		["Barbaric Battle Axe of Agility"] = {
 			["mr"] = 4116,
 			["cc"] = 2,
 			["H4857"] = 4116,
 			["id"] = "3195:0:0:93:0",
 			["sc"] = 1,
+		},
+		["Elixir of Poison Resistance"] = {
+			["mr"] = 2182,
+			["cc"] = 0,
+			["id"] = "3386:0:0:0:0",
+			["H4863"] = 2182,
+			["sc"] = 0,
 		},
 		["Barbaric Linen Vest"] = {
 			["mr"] = 2900,
@@ -1107,10 +1227,10 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["cc"] = 7,
 		},
 		["Elixir of Lesser Agility"] = {
-			["mr"] = 4828,
+			["mr"] = 9762,
 			["cc"] = 0,
 			["id"] = "3390:0:0:0:0",
-			["H4863"] = 4828,
+			["H4957"] = 9762,
 			["sc"] = 0,
 		},
 		["Elixir of Fortitude"] = {
@@ -1120,19 +1240,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H4863"] = 7012,
 			["sc"] = 0,
 		},
-		["Recipe: Hot Lion Chops"] = {
-			["mr"] = 9869,
-			["cc"] = 9,
-			["id"] = "3735:0:0:0:0",
-			["sc"] = 5,
-			["H4842"] = 9869,
-		},
-		["Elixir of Greater Water Breathing"] = {
-			["mr"] = 10997,
-			["cc"] = 0,
-			["id"] = "18294:0:0:0:0",
-			["H4863"] = 10997,
+		["Lesser Mystic Essence"] = {
+			["mr"] = 3259,
+			["cc"] = 7,
+			["id"] = "11134:0:0:0:0",
 			["sc"] = 0,
+			["H4957"] = 3259,
+		},
+		["Shredder Turbocharger"] = {
+			["H4856"] = 12982,
+			["mr"] = 12982,
+			["sc"] = 0,
+			["id"] = "210146:0:0:0:0",
+			["cc"] = 0,
 		},
 		["Elixir of Coalesced Regret"] = {
 			["mr"] = 24963,
@@ -1149,6 +1269,20 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["sc"] = 0,
 			["L4843"] = 95,
 		},
+		["Green Leather Bag"] = {
+			["mr"] = 1623,
+			["sc"] = 0,
+			["H4897"] = 1623,
+			["id"] = "5573:0:0:0:0",
+			["cc"] = 1,
+		},
+		["Elixir of Greater Defense"] = {
+			["mr"] = 7460,
+			["cc"] = 0,
+			["id"] = "8951:0:0:0:0",
+			["H4863"] = 7460,
+			["sc"] = 0,
+		},
 		["Pattern: Runecloth Bag"] = {
 			["mr"] = 759896,
 			["cc"] = 9,
@@ -1162,20 +1296,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H4897"] = 1086,
 			["id"] = "5762:0:0:0:0",
 			["cc"] = 1,
-		},
-		["Pattern: Red Woolen Bag"] = {
-			["mr"] = 1999,
-			["sc"] = 2,
-			["H4897"] = 1999,
-			["id"] = "5772:0:0:0:0",
-			["cc"] = 9,
-		},
-		["Recipe: Bristle Whisker Catfish"] = {
-			["mr"] = 14999,
-			["cc"] = 9,
-			["H4857"] = 14999,
-			["id"] = "6330:0:0:0:0",
-			["sc"] = 5,
 		},
 		["The Black Knight"] = {
 			["mr"] = 25143,
@@ -1198,11 +1318,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "3195:0:0:1551:0",
 			["sc"] = 1,
 		},
-		["Elixir of Greater Defense"] = {
-			["mr"] = 7460,
-			["cc"] = 0,
-			["id"] = "8951:0:0:0:0",
-			["H4863"] = 7460,
+		["Packet of Tharlendris Seeds"] = {
+			["mr"] = 1868,
+			["cc"] = 12,
+			["H4897"] = 1868,
+			["id"] = "11022:0:0:0:0",
 			["sc"] = 0,
 		},
 		["Recipe: Elixir of Lesser Agility"] = {

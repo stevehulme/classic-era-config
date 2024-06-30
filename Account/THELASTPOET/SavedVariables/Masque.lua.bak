@@ -273,9 +273,8 @@ MasqueDB = {
 					["SkinID"] = "Dream",
 					["Inherit"] = false,
 				},
-				["WeakAuras_guGXKcDg4Ax"] = {
+				["WeakAuras"] = {
 					["Backdrop"] = true,
-					["Upgraded"] = true,
 					["SkinID"] = "Dream",
 					["Inherit"] = false,
 				},
@@ -297,12 +296,13 @@ MasqueDB = {
 					["SkinID"] = "Dream",
 					["Inherit"] = false,
 				},
-				["WeakAuras"] = {
+				["WeakAuras_OjXEpXtRv3q"] = {
 					["Backdrop"] = true,
+					["Upgraded"] = true,
 					["SkinID"] = "Dream",
 					["Inherit"] = false,
 				},
-				["WeakAuras_OjXEpXtRv3q"] = {
+				["WeakAuras_guGXKcDg4Ax"] = {
 					["Backdrop"] = true,
 					["Upgraded"] = true,
 					["SkinID"] = "Dream",

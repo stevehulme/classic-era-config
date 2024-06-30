@@ -9,8 +9,9 @@ TipTac_Config = {
 	["tipBackdropEdge"] = "Interface\\Tooltips\\UI-Tooltip-Border",
 	["optionsLeft"] = 942.8162841796875,
 	["backdropEdgeSize"] = 13,
-	["showTarget"] = "last",
 	["aurasAtBottom"] = true,
+	["showTarget"] = "last",
+	["anchorFrameTipPoint"] = "TOPLEFT",
 	["tipBackdropBG"] = "Interface\\Buttons\\WHITE8X8",
 	["t_showAverageItemLevel"] = false,
 	["tipColor"] = {
@@ -35,10 +36,10 @@ TipTac_Config = {
 		1, -- [4]
 	},
 	["classification_normal"] = "%s",
-	["anchorFrameTipPoint"] = "TOPLEFT",
-	["healthBarClassColor"] = true,
 	["showUnitTip"] = true,
+	["healthBarClassColor"] = true,
 	["modifyFonts"] = true,
+	["powerBar"] = false,
 	["enableAnchor"] = true,
 	["classification_minus"] = "-%s",
 	["barFontFlags"] = "OUTLINE",
@@ -48,30 +49,30 @@ TipTac_Config = {
 		0.75, -- [3]
 		1, -- [4]
 	},
-	["powerBar"] = false,
 	["barFontFace"] = "Fonts\\ARIALN.TTF",
+	["anchorFrameUnitPoint"] = "TOPLEFT",
 	["fontSize"] = 14,
 	["classification_rare"] = "%s|r (Rare)",
-	["anchorFrameUnitPoint"] = "TOPLEFT",
 	["optionsBottom"] = 548.3673706054688,
 	["anchorFrameTipType"] = "normal",
+	["classification_worldboss"] = "%s|r (Boss)",
 	["left"] = 7.119669437408447,
-	["t_enable"] = false,
 	["fadeTime"] = 0.1,
+	["t_enable"] = false,
 	["reactColoredBackdrop"] = false,
 	["anchorWorldUnitPoint"] = "TOPLEFT",
 	["classification_trivial"] = "~%s",
-	["classification_worldboss"] = "%s|r (Boss)",
-	["colorNameByClass"] = false,
+	["backdropInsets"] = 2.5,
 	["classification_rareelite"] = "+%s|r (Rare)",
-	["manaBar"] = false,
-	["anchorWorldTipPoint"] = "TOPLEFT",
 	["colorRace"] = {
 		1, -- [1]
 		1, -- [2]
 		1, -- [3]
 		1, -- [4]
 	},
+	["colorNameByClass"] = false,
+	["anchorWorldTipPoint"] = "TOPLEFT",
+	["manaBar"] = false,
 	["gradientColor"] = {
 		0.8, -- [1]
 		0.8, -- [2]
@@ -87,11 +88,12 @@ TipTac_Config = {
 		1, -- [4]
 	},
 	["targetYouText"] = "<<YOU>>",
-	["backdropInsets"] = 2.5,
+	["minimapConfig"] = {
+	},
 	["top"] = 1158.085571289063,
-	["hideWorldTips"] = true,
-	["gradientTip"] = true,
 	["anchorWorldTipType"] = "normal",
+	["gradientTip"] = true,
+	["hideWorldTips"] = true,
 	["preFadeTime"] = 0.1,
 	["barFontSize"] = 10,
 	["anchorFrameUnitType"] = "normal",

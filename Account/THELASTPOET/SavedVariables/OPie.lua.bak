@@ -4,7 +4,7 @@ OPie_SavedData = {
 	["CharProfiles"] = {
 	},
 	["_GameVersion"] = "1.15.2",
-	["_OPieVersion"] = "Zeta 5a (4.121)",
+	["_OPieVersion"] = "Zeta 6 (4.122)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["RingAtMouse"] = true,
@@ -21,25 +21,25 @@ OPie_SavedData = {
 		["RingKeeper"] = {
 			["Track"] = {
 				{
-					["id"] = 1494,
 					["sliceToken"] = "ABue6XFMgVw",
+					["id"] = 1494,
 				}, -- [1]
 				{
-					["id"] = 19883,
 					["sliceToken"] = "ABue6XFMgVe",
+					["id"] = 19883,
 				}, -- [2]
 				{
-					["id"] = 19884,
 					["sliceToken"] = "ABue6XFMgVr",
+					["id"] = 19884,
 				}, -- [3]
 				{
-					["id"] = 2580,
 					["sliceToken"] = "ABue6XFMgV1",
+					["id"] = 2580,
 				}, -- [4]
+				["limit"] = "HUNTER",
 				["name"] = "Track",
 				["save"] = true,
 				["hotkey"] = "SHIFT-M",
-				["limit"] = "HUNTER",
 			},
 			["Emote"] = {
 				{

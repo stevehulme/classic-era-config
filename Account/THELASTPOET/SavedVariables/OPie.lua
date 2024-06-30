@@ -4,7 +4,7 @@ OPie_SavedData = {
 	["CharProfiles"] = {
 	},
 	["_GameVersion"] = "1.15.2",
-	["_OPieVersion"] = "Zeta 5a (4.121)",
+	["_OPieVersion"] = "Zeta 6 (4.122)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["RingAtMouse"] = true,

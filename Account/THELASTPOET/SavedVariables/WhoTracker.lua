@@ -660,6 +660,14 @@ whoTrackerSaved = {
 		"Fri Apr 26 14:39 end of tracking (logout)", -- [657]
 		"Fri Apr 26 16:15 end of tracking (logout)", -- [658]
 		"Sat May 04 20:11 end of tracking (logout)", -- [659]
+		"Fri Jun 07 13:22 end of tracking (logout)", -- [660]
+		"Fri Jun 07 15:18 end of tracking (logout)", -- [661]
+		"Fri Jun 07 15:44 end of tracking (logout)", -- [662]
+		"Sun Jun 09 20:12 end of tracking (logout)", -- [663]
+		"Mon Jun 10 18:34 end of tracking (logout)", -- [664]
+		"Tue Jun 11 20:42 end of tracking (logout)", -- [665]
+		"Tue Jun 18 20:21 end of tracking (logout)", -- [666]
+		"Sat Jun 22 16:09 end of tracking (logout)", -- [667]
 	},
 	["paused"] = 1,
 	["query"] = "g-ChangeThis",

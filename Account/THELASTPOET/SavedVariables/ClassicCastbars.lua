@@ -140,9 +140,9 @@ ClassicCastbarsDB = {
 		["frameLevel"] = 10,
 		["castBorder"] = "Interface\\CastingBar\\UI-CastingBar-Border",
 		["borderPaddingWidth"] = 1.17,
-		["showInterruptSchool"] = false,
-		["showCastInfoOnly"] = false,
 		["textOutline"] = "",
+		["showCastInfoOnly"] = false,
+		["width"] = 195,
 		["position"] = {
 			"CENTER", -- [1]
 			-18, -- [2]
@@ -163,7 +163,7 @@ ClassicCastbarsDB = {
 			0, -- [3]
 			0.535, -- [4]
 		},
-		["width"] = 195,
+		["showInterruptSchool"] = false,
 		["textColor"] = {
 			1, -- [1]
 			1, -- [2]
@@ -228,9 +228,9 @@ ClassicCastbarsDB = {
 		["frameLevel"] = 10,
 		["castBorder"] = "Interface\\CastingBar\\UI-CastingBar-Border-Small",
 		["borderPaddingWidth"] = 1.17,
-		["showInterruptSchool"] = true,
-		["showCastInfoOnly"] = false,
 		["textOutline"] = "",
+		["showCastInfoOnly"] = false,
+		["width"] = 150,
 		["autoPosition"] = false,
 		["frameStrata"] = "HIGH",
 		["position"] = {
@@ -246,7 +246,7 @@ ClassicCastbarsDB = {
 			0, -- [3]
 			0.535, -- [4]
 		},
-		["width"] = 150,
+		["showInterruptSchool"] = true,
 		["textColor"] = {
 			1, -- [1]
 			1, -- [2]
@@ -310,9 +310,9 @@ ClassicCastbarsDB = {
 		["frameLevel"] = 10,
 		["castBorder"] = "Interface\\CastingBar\\UI-CastingBar-Border-Small",
 		["borderPaddingWidth"] = 1.17,
-		["showInterruptSchool"] = true,
-		["showCastInfoOnly"] = false,
 		["textOutline"] = "",
+		["showCastInfoOnly"] = false,
+		["width"] = 150,
 		["position"] = {
 			"CENTER", -- [1]
 			-18, -- [2]
@@ -328,7 +328,7 @@ ClassicCastbarsDB = {
 			0, -- [3]
 			0.535, -- [4]
 		},
-		["width"] = 150,
+		["showInterruptSchool"] = true,
 		["textColor"] = {
 			1, -- [1]
 			1, -- [2]
@@ -473,9 +473,9 @@ ClassicCastbarsDB = {
 		["frameLevel"] = 10,
 		["castBorder"] = "Interface\\CastingBar\\UI-CastingBar-Border",
 		["borderPaddingWidth"] = 1.17,
-		["showInterruptSchool"] = true,
-		["showCastInfoOnly"] = false,
 		["textOutline"] = "",
+		["showCastInfoOnly"] = false,
+		["width"] = 120,
 		["position"] = {
 			"CENTER", -- [1]
 			141, -- [2]
@@ -491,7 +491,7 @@ ClassicCastbarsDB = {
 			0, -- [3]
 			0.535, -- [4]
 		},
-		["width"] = 120,
+		["showInterruptSchool"] = true,
 		["textColor"] = {
 			1, -- [1]
 			1, -- [2]

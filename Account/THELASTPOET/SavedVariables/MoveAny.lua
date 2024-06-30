@@ -868,9 +868,9 @@ MATAB = {
 				["POINTS"] = {
 					["QuestLogFrame"] = {
 						["AN"] = "BOTTOMLEFT",
-						["PY"] = 297,
-						["PX"] = 328,
+						["PY"] = 298,
 						["RE"] = "BOTTOMLEFT",
+						["PX"] = 328,
 					},
 					["TradeSkillFrame"] = {
 						["AN"] = "BOTTOMLEFT",
@@ -899,6 +899,8 @@ MATAB = {
 					["MacroFrame"] = {
 					},
 					["ScriptErrorsFrame"] = {
+					},
+					["TabardFrame"] = {
 					},
 					["StaticPopup1"] = {
 						["AN"] = "BOTTOMLEFT",
@@ -943,6 +945,8 @@ MATAB = {
 					["BankFrame"] = {
 					},
 					["SettingsPanel"] = {
+					},
+					["ModelPreviewFrame"] = {
 					},
 					["OpenMailFrame"] = {
 						["AN"] = "BOTTOMLEFT",
@@ -1028,6 +1032,8 @@ MATAB = {
 					},
 					["ScriptErrorsFrame"] = {
 					},
+					["TabardFrame"] = {
+					},
 					["StaticPopup1"] = {
 					},
 					["PlayerTalentFrame"] = {
@@ -1052,6 +1058,8 @@ MATAB = {
 					["BankFrame"] = {
 					},
 					["SettingsPanel"] = {
+					},
+					["ModelPreviewFrame"] = {
 					},
 					["OpenMailFrame"] = {
 					},
@@ -1152,6 +1160,9 @@ MATAB = {
 					["GHOSTFRAME"] = {
 						["ENABLED"] = false,
 					},
+					["CHAT8"] = {
+						["ENABLED"] = false,
+					},
 					["ARCHEOLOGYDIGSITEPROGRESSBAR"] = {
 						["ENABLED"] = false,
 					},
@@ -1161,10 +1172,13 @@ MATAB = {
 					["ROLEPOLLPOPUP"] = {
 						["ENABLED"] = false,
 					},
+					["TARGETFRAMESPELLBAR"] = {
+						["ENABLED"] = false,
+					},
 					["BAGS"] = {
 						["ENABLED"] = false,
 					},
-					["TARGETFRAMESPELLBAR"] = {
+					["TARGETFRAMETOTBUFF1"] = {
 						["ENABLED"] = false,
 					},
 					["SAVEFRAMEPOSITION"] = {
@@ -1176,25 +1190,19 @@ MATAB = {
 					["COMPACTARENAFRAME"] = {
 						["ENABLED"] = false,
 					},
-					["TIMERTRACKER1"] = {
-						["ENABLED"] = false,
-					},
-					["MOVEFRAMES"] = {
-						["ENABLED"] = true,
-					},
-					["DURABILITY"] = {
-						["ENABLED"] = false,
-					},
 					["CHAT7"] = {
-						["ENABLED"] = false,
-					},
-					["CHAT2"] = {
 						["ENABLED"] = false,
 					},
 					["RAIDBOSSEMOTEFRAME"] = {
 						["ENABLED"] = false,
 					},
+					["DURABILITY"] = {
+						["ENABLED"] = false,
+					},
 					["GAMETOOLTIP_ONCURSOR"] = {
+						["ENABLED"] = false,
+					},
+					["CHAT2"] = {
 						["ENABLED"] = false,
 					},
 					["LOSSOFCONTROLFRAME"] = {
@@ -1203,14 +1211,20 @@ MATAB = {
 					["ACTIONBAR4"] = {
 						["ENABLED"] = false,
 					},
-					["VEHICLESEATINDICATOR"] = {
+					["TARGETFRAMEDEBUFF1"] = {
 						["ENABLED"] = false,
 					},
-					["UIWIDGETTOPCENTER"] = {
+					["UIERRORSFRAME"] = {
+						["ENABLED"] = false,
+					},
+					["VEHICLESEATINDICATOR"] = {
 						["ENABLED"] = false,
 					},
 					["PETFRAMEHAPPINESS"] = {
 						["ENABLED"] = true,
+					},
+					["UIWIDGETTOPCENTER"] = {
+						["ENABLED"] = false,
 					},
 					["PetFrameHappiness"] = {
 					},
@@ -1235,16 +1249,16 @@ MATAB = {
 					["TARGETFRAMENAMEBACKGROUND"] = {
 						["ENABLED"] = false,
 					},
-					["MALOCK"] = {
-						["ENABLED"] = false,
+					["SHOWTIPS"] = {
+						["ENABLED"] = true,
 					},
 					["MAFPSFrame"] = {
 						["ENABLED"] = false,
 					},
-					["SHOWTIPS"] = {
-						["ENABLED"] = true,
-					},
 					["CHATBUTTONFRAME7"] = {
+						["ENABLED"] = false,
+					},
+					["REPUTATIONWATCHBAR"] = {
 						["ENABLED"] = false,
 					},
 					["BOSSTARGETFRAMECONTAINER"] = {
@@ -1262,13 +1276,13 @@ MATAB = {
 					["CHATBUTTONFRAME2"] = {
 						["ENABLED"] = false,
 					},
-					["CASTINGBAR"] = {
-						["ENABLED"] = false,
-					},
 					["ACTIONBAR8"] = {
 						["ENABLED"] = false,
 					},
 					["UIWIDGETBELOWMINIMAP"] = {
+						["ENABLED"] = false,
+					},
+					["MAPETFRAME"] = {
 						["ENABLED"] = false,
 					},
 					["TARGETOFTARGETFRAME"] = {
@@ -1277,13 +1291,13 @@ MATAB = {
 					["CHATBUTTONFRAME3"] = {
 						["ENABLED"] = false,
 					},
-					["GAMETOOLTIP"] = {
-						["ENABLED"] = true,
-					},
 					["UIWIDGETPOWERBAR"] = {
 						["ENABLED"] = false,
 					},
 					["MICROMENU"] = {
+						["ENABLED"] = false,
+					},
+					["BNToastFrame"] = {
 						["ENABLED"] = false,
 					},
 					["MINIMAPZONETEXT"] = {
@@ -1292,10 +1306,10 @@ MATAB = {
 					["CHATQUICKJOIN"] = {
 						["ENABLED"] = false,
 					},
-					["FRAMESKEYSCALE"] = {
-						["ENABLED"] = false,
-					},
 					["MAGameTooltip"] = {
+					},
+					["TARGETFRAME"] = {
+						["ENABLED"] = false,
 					},
 					["ACTIONBAR3"] = {
 						["ENABLED"] = false,
@@ -1342,13 +1356,13 @@ MATAB = {
 					["COMPACTRAIDFRAMECONTAINER"] = {
 						["ENABLED"] = false,
 					},
-					["QUEUESTATUSFRAME"] = {
+					["FOCUSFRAME"] = {
 						["ENABLED"] = false,
 					},
 					["TARGETFRAMEBUFF1"] = {
 						["ENABLED"] = false,
 					},
-					["FOCUSFRAME"] = {
+					["CHAT9"] = {
 						["ENABLED"] = false,
 					},
 					["LEAVEVEHICLE"] = {
@@ -1357,7 +1371,7 @@ MATAB = {
 					["GROUPLOOTCONTAINER"] = {
 						["ENABLED"] = false,
 					},
-					["CHAT9"] = {
+					["TARGETFRAMETOTDEBUFF1"] = {
 						["ENABLED"] = false,
 					},
 					["BUFFS"] = {
@@ -1372,7 +1386,7 @@ MATAB = {
 					["CHAT4"] = {
 						["ENABLED"] = false,
 					},
-					["TARGETFRAMETOTDEBUFF1"] = {
+					["QUEUESTATUSFRAME"] = {
 						["ENABLED"] = false,
 					},
 					["ACTIONBAR9"] = {
@@ -1393,7 +1407,7 @@ MATAB = {
 					["FRAMESKEYDRAG"] = {
 						["ENABLED"] = false,
 					},
-					["TARGETFRAME"] = {
+					["FRAMESKEYSCALE"] = {
 						["ENABLED"] = false,
 					},
 					["TICKETSTATUSFRAME"] = {
@@ -1402,8 +1416,8 @@ MATAB = {
 					["DEBUFFS"] = {
 						["ENABLED"] = false,
 					},
-					["BNToastFrame"] = {
-						["ENABLED"] = false,
+					["GAMETOOLTIP"] = {
+						["ENABLED"] = true,
 					},
 					["TargetFrameNumericalThreat"] = {
 						["ENABLED"] = false,
@@ -1411,7 +1425,7 @@ MATAB = {
 					["QUEUESTATUSBUTTON"] = {
 						["ENABLED"] = false,
 					},
-					["MAPETFRAME"] = {
+					["CASTINGBAR"] = {
 						["ENABLED"] = false,
 					},
 					["OVERRIDEACTIONBAR"] = {
@@ -1423,7 +1437,7 @@ MATAB = {
 					["MOVESMALLBAGS"] = {
 						["ENABLED"] = false,
 					},
-					["REPUTATIONWATCHBAR"] = {
+					["MALOCK"] = {
 						["ENABLED"] = false,
 					},
 					["ENDCAPS"] = {
@@ -1444,16 +1458,16 @@ MATAB = {
 					["CHATBUTTONFRAME4"] = {
 						["ENABLED"] = false,
 					},
-					["UIERRORSFRAME"] = {
+					["TIMERTRACKER1"] = {
 						["ENABLED"] = false,
 					},
-					["CHAT8"] = {
-						["ENABLED"] = false,
+					["SHOWMINIMAPBUTTON"] = {
+						["ENABLED"] = true,
 					},
 					["POSSESSBAR"] = {
 						["ENABLED"] = false,
 					},
-					["SHOWMINIMAPBUTTON"] = {
+					["MOVEFRAMES"] = {
 						["ENABLED"] = true,
 					},
 					["CHAT1"] = {
