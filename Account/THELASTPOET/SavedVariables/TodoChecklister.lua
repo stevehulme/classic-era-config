@@ -2,16 +2,16 @@
 TodoChecklisterDB = {
 }
 TodoChecklisterMapIcon = {
-	["hide"] = false,
+["hide"] = false,
 }
 TodoChecklisterSettingsDB = {
-	["playFanfare"] = true,
-	["keepFocus"] = false,
-	["displayChargesOnLinked"] = true,
-	["isShown"] = false,
-	["displayBankOnLinked"] = true,
-	["isKeepFocusShown"] = true,
-	["displayMinimapIcon"] = true,
-	["displayLinked"] = true,
-	["windowOpacity"] = 1,
+["playFanfare"] = true,
+["keepFocus"] = false,
+["displayChargesOnLinked"] = true,
+["isShown"] = false,
+["displayBankOnLinked"] = true,
+["isKeepFocusShown"] = true,
+["displayMinimapIcon"] = true,
+["displayLinked"] = true,
+["windowOpacity"] = 1,
 }

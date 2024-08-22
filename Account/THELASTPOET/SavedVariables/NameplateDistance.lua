@@ -1,4 +1,4 @@
 
 NameplateDistanceDB = {
-	["value"] = "80",
+["value"] = "80",
 }

@@ -1,7 +1,7 @@
 
 TRAINER_FILTER_IGNORED = 0
 ClassTrainerPlusDBPC = {
-	["MIGRATED"] = true,
+["MIGRATED"] = true,
 }
 FusionIgnoreStore = {
 }
