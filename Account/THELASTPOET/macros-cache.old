@@ -1,6 +1,9 @@
 VER 3 0000000000000005 "bow" "136047"
 /bow
 END
+VER 3 0000000000000007 "bye" "132366"
+/bye
+END
 VER 3 0000000000000003 "RXPTargeting" "Ability_eyeoftheowl"
 //RestedXP Guides - current step has no configured targets
 END

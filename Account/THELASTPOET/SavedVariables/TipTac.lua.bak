@@ -1,6 +1,6 @@
 
 TipTac_Config = {
-["version_TipTac_Config"] = "24.08.19",
+["version_TipTac_Config"] = "24.09.02",
 ["showCurrentUnitSpeed"] = false,
 ["showUnitTip"] = true,
 ["classification_elite"] = "+%s",
@@ -8,7 +8,7 @@ TipTac_Config = {
 ["overrideFade"] = true,
 ["if_enable"] = false,
 ["preFadeTime"] = 0.1,
-["hideWorldTips"] = true,
+["optionsLeft"] = 942.8162841796875,
 ["backdropEdgeSize"] = 13,
 ["anchorFrameUnitType"] = "normal",
 ["showTarget"] = "last",
@@ -54,10 +54,10 @@ TipTac_Config = {
 ["classification_rare"] = "%s|r (Rare)",
 ["fontSize"] = 14,
 ["anchorWorldTipType"] = "normal",
-["optionsBottom"] = 548.3673706054688,
+["left"] = 7.119669437408447,
 ["anchorWorldUnitPoint"] = "TOPLEFT",
 ["fadeTime"] = 0.1,
-["left"] = 7.119669437408447,
+["optionsBottom"] = 548.3673706054688,
 ["classification_worldboss"] = "%s|r (Boss)",
 ["minimapConfig"] = {
 },
@@ -81,7 +81,7 @@ TipTac_Config = {
 0.8,
 0.15,
 },
-["classification_rareelite"] = "+%s|r (Rare)",
+["classColoredBorder"] = false,
 ["anchorWorldUnitType"] = "parent",
 ["healthBarColor"] = {
 0.3,
@@ -90,7 +90,7 @@ TipTac_Config = {
 1,
 },
 ["targetYouText"] = "<<YOU>>",
-["classColoredBorder"] = false,
+["classification_rareelite"] = "+%s|r (Rare)",
 ["top"] = 1158.085571289063,
 ["showMount"] = false,
 ["gradientTip"] = true,
@@ -98,5 +98,5 @@ TipTac_Config = {
 ["powerBar"] = false,
 ["barFontSize"] = 10,
 ["anchorFrameTipPoint"] = "TOPLEFT",
-["optionsLeft"] = 942.8162841796875,
+["hideWorldTips"] = true,
 }

@@ -71,19 +71,19 @@ Bartender4DB = {
 },
 {
 ["enabled"] = true,
-["fadeout"] = true,
 ["fadeoutalpha"] = 0,
-["buttons"] = 2,
-["version"] = 3,
-["rows"] = 2,
-["visibility"] = {
-["always"] = false,
-},
+["fadeout"] = true,
 ["position"] = {
 ["y"] = 80.06006622314453,
 ["x"] = 255.2412109375,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["rows"] = 2,
+["visibility"] = {
+["always"] = false,
+},
+["buttons"] = 2,
 },
 {
 },

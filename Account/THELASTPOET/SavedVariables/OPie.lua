@@ -3,8 +3,8 @@ OneRing_Config = nil
 OPie_SavedData = {
 ["CharProfiles"] = {
 },
-["_GameVersion"] = "1.15.3",
-["_OPieVersion"] = "Ælling 4 (4.128)",
+["_GameVersion"] = "1.15.4",
+["_OPieVersion"] = "Ælling 5a (4.129)",
 ["ProfileStorage"] = {
 ["default"] = {
 ["RingAtMouse"] = true,
@@ -36,10 +36,10 @@ OPie_SavedData = {
 ["sliceToken"] = "ABue6XFMgV1",
 ["id"] = 2580,
 },
-["name"] = "Track",
 ["limit"] = "HUNTER",
 ["save"] = true,
 ["hotkey"] = "SHIFT-M",
+["name"] = "Track",
 },
 ["Emote"] = {
 {
