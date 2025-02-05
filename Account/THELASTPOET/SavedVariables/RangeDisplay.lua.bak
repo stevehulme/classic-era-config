@@ -10,6 +10,7 @@ RangeDisplayDB3 = {
 ["Durthal - Stitches"] = "Default",
 ["Rawnok - Zandalar Tribe"] = "Default",
 ["Rawnok - Crusader Strike"] = "Default",
+["Farlie - Wild Growth"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {

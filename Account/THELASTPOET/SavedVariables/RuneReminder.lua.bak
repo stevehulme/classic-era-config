@@ -6,6 +6,7 @@ RR_Profiles = {
 }
 RR_CharacterProfiles = {
 ["Rawnok-CrusaderStrike"] = "SharedSettings",
+["Farlie-WildGrowth"] = "SharedSettings",
 }
 RuneReminderSharedSettings = {
 ["runeDirection"] = "Standard",
@@ -47,8 +48,8 @@ RuneReminderSharedSettings = {
 ["hideWristsSlot"] = false,
 ["disableRemoveNotify"] = false,
 ["tooltipAnchor"] = "ANCHOR_RIGHT",
-["hideUnknownRunes"] = false,
 ["hideReapplyButton"] = false,
+["hideUnknownRunes"] = false,
 ["buttonSize"] = 34,
 ["anchorVisible"] = false,
 ["displayRuneSets"] = true,

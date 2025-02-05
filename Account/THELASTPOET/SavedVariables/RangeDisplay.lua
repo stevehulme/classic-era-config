@@ -8,6 +8,7 @@ RangeDisplayDB3 = {
 ["Durthaltwo - Pyrewood Village"] = "Default",
 ["Durthal - Pyrewood Village"] = "Default",
 ["Durthal - Stitches"] = "Default",
+["Farlie - Wild Growth"] = "Default",
 ["Rawnok - Crusader Strike"] = "Default",
 ["Rawnok - Zandalar Tribe"] = "Default",
 },

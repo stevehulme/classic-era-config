@@ -1,0 +1,12 @@
+VER 3 0000000001000002 "Agony" "136139"
+/petattack
+/cast Curse of Agony
+END
+VER 3 0000000001000003 "Chaos Bolt" "236291"
+/petattack
+/cast Chaos Bolt
+END
+VER 3 0000000001000001 "Haunt" "236298"
+/petattack
+/cast Haunt
+END

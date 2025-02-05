@@ -1,0 +1,63 @@
+
+RuneReminderSettings = nil
+RR_RuneSets = {
+}
+RR_Profiles = {
+}
+RR_CharacterProfiles = {
+["Dearthal-WildGrowth"] = "SharedSettings",
+}
+RuneReminderSharedSettings = {
+["runeDirection"] = "Standard",
+["autoToggleOnHover"] = false,
+["disableSwapNotify"] = true,
+["xOffset"] = 0,
+["toggleSets"] = true,
+["hideHandsSlot"] = false,
+["yOffset"] = 0,
+["alternateLoad"] = false,
+["runeSetsIcon"] = "Interface/Icons/INV_MISC_RUNE_06",
+["hideLegsSlot"] = false,
+["hideUnknownSlots"] = true,
+["simpleTooltips"] = false,
+["enabled"] = true,
+["anchorLocked"] = false,
+["charLocation"] = {
+["yOfs"] = -20.53006744384766,
+["xOfs"] = 160.1401977539063,
+["relativePoint"] = "TOPLEFT",
+},
+["disableGlow"] = false,
+["disableLeftClickKeepOpen"] = false,
+["toggleSetsTogglesAll"] = false,
+["glowOpacity"] = 0.3,
+["hideNeckSlot"] = false,
+["buttonLabelSize"] = 1,
+["keepOpen"] = false,
+["showSetsLabel"] = false,
+["displayCooldown"] = true,
+["enableChecked"] = false,
+["collapseRunesPanel"] = true,
+["hideFeetSlot"] = false,
+["hideHeadSlot"] = false,
+["displayRunes"] = false,
+["hideReapplyButton"] = false,
+["hideWristsSlot"] = false,
+["disableRemoveNotify"] = false,
+["tooltipAnchor"] = "ANCHOR_RIGHT",
+["glowTexture"] = "Buttons/CheckButtonHilight",
+["hideUnknownRunes"] = false,
+["setEngraveOnLoad"] = true,
+["anchorPosition"] = "Normal",
+["anchorVisible"] = false,
+["displayRuneSets"] = true,
+["runeAlignment"] = "Horizontal",
+["displayCooldownText"] = false,
+["hideShoulderSlot"] = false,
+["engravingMode"] = "TOGGLE",
+["showSlotLabels"] = true,
+["hideChestSlot"] = false,
+["hideWaistSlot"] = false,
+["hideViewRunesButton"] = true,
+["soundNotification"] = false,
+}

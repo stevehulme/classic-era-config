@@ -1,0 +1,130 @@
+
+deathlog_settings = {
+["Heatmap Indicator"] = {
+["size_x"] = 40,
+["show_value"] = false,
+["enable"] = false,
+["size_y"] = 40,
+["pos_y"] = 0,
+["pos_x"] = 0,
+},
+["Creature Ranking Tooltip"] = {
+["by_zone"] = true,
+["crt_metric"] = "Normalized Score",
+["enable_avg_lvl"] = true,
+["enable_crt"] = true,
+},
+["DeathAlert"] = {
+["font_color_g"] = 1,
+["font_color_r"] = 1,
+["min_lvl"] = 1,
+["display_time"] = 6,
+["min_lvl_player"] = false,
+["fire_message"] = "<name> the <race> <class> has died from fire.\n at lvl <level> in <zone>.",
+["enable"] = true,
+["pos_x"] = 0,
+["font_color_b"] = 1,
+["accent_color_g"] = 1,
+["alert_sound"] = "default_hardcore",
+["accent_color_r"] = 1,
+["font_size"] = 16,
+["slime_message"] = "<name> the <race> <class> has died from slime.\n at lvl <level> in <zone>.",
+["lava_message"] = "<name> the <race> <class> drowned in lava.\n at lvl <level> in <zone>.",
+["fall_message"] = "<name> the <race> <class> fell to\ndeath at lvl <level> in <zone>.",
+["font_color_a"] = 1,
+["enable_sound"] = true,
+["size_x"] = 600,
+["drown_message"] = "<name> the <race> <class> drowned\n at lvl <level> in <zone>.",
+["accent_color_b"] = 1,
+["size_y"] = 200,
+["current_zone_filter"] = false,
+["fatigue_message"] = "<name> the <race> <class> has died from fatigue.\n at lvl <level> in <zone>.",
+["message"] = "<name> the <race> <class> has been slain\nby <source> at lvl <level> in <zone>.",
+["font"] = "Nimrod MT",
+["style"] = "boss_banner_enemy_icon_medium",
+["accent_color_a"] = 1,
+["guild_only"] = false,
+["max_lvl"] = 60,
+["pos_y"] = 250,
+["alert_subset"] = "faction_wide",
+},
+["Corpse Tooltip"] = {
+["enable_ctt"] = true,
+},
+["minilog"] = {
+["title_color_a"] = 1,
+["entry_font_size"] = 14,
+["title_color_b"] = 0,
+["title_color_g"] = 0.8196079134941101,
+["lock"] = false,
+["show_icon"] = true,
+["pos_x"] = 470,
+["title_font_size"] = 19,
+["size_x"] = 255,
+["entry_x_offset"] = 0,
+["font"] = "default_font",
+["title_x_offset"] = 0,
+["pos_y"] = -100,
+["border_alpha"] = 1,
+["title_color_r"] = 1,
+["enable"] = true,
+["tooltip_class"] = true,
+["max_lvl"] = 60,
+["tooltip_race"] = true,
+["tooltip_name"] = true,
+["hide_subtitle_heading"] = false,
+["theme"] = "None",
+["entry_y_offset"] = 0,
+["columns"] = {
+"Name",
+"Class",
+"Race",
+"Lvl",
+},
+["tooltip_lastwords"] = true,
+["tooltip_guild"] = true,
+["entry_font"] = "default_font",
+["title_y_offset"] = 0,
+["size_y"] = 125,
+["tooltip_zone"] = true,
+["tooltip_killedby"] = true,
+["tooltip_date"] = true,
+["presets"] = "Yazpad",
+["show_title"] = true,
+["min_lvl"] = 1,
+["tooltip_loc"] = true,
+},
+["Heatmap WorldMap Overlay"] = {
+["enable"] = true,
+["show_checkbox_on_map"] = true,
+},
+}
+deathlog_data = {
+["Wild Growth"] = {
+["Myû-57483"] = {
+["class_id"] = 2,
+["guild"] = "Schwarze Rose",
+["date"] = 1736703459,
+["map_pos"] = "",
+["source_id"] = 5709,
+["name"] = "Myû",
+["last_words"] = "{rt3} RestedXP Guides: I just leveled from 54 to 55 in 42 minutes 21 seconds",
+["level"] = 55,
+["race_id"] = 1,
+["instance_id"] = 109,
+},
+},
+}
+deathlog_data_map = {
+["Wild Growth"] = {
+["Myû"] = "Myû-57483",
+},
+}
+dev_precomputed_general_stats = nil
+dev_precomputed_log_normal_params = nil
+dev_precomputed_skull_locs = nil
+dev_class_data = nil
+deathlog_watchlist_entries = {
+}
+deathlog_record_econ_stats = {
+}

@@ -1,8 +1,19 @@
+VER 3 000000000000000A "AS + pet" "132218"
+/cast Arcane Shot(Rank 1)
+/petattack
+END
 VER 3 0000000000000005 "bow" "136047"
 /bow
 END
 VER 3 0000000000000007 "bye" "132366"
 /bye
+END
+VER 3 0000000000000008 "Hawk Viper" "132160"
+/castsequence !Aspect of the Viper, !Aspect of the Hawk
+END
+VER 3 0000000000000009 "HM +  pet attack" "132212"
+/cast Hunter's Mark
+/petattack
 END
 VER 3 0000000000000003 "RXPTargeting" "Ability_eyeoftheowl"
 //RestedXP Guides - current step has no configured targets

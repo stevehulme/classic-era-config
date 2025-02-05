@@ -3,8 +3,10 @@ OneRing_Config = nil
 OPie_SavedData = {
 ["CharProfiles"] = {
 },
-["_GameVersion"] = "1.15.4",
-["_OPieVersion"] = "Ælling 5a (4.129)",
+["_OPieVersion"] = "Ånd 2 (4.133)",
+["_StoreVersion"] = 122,
+["_GameVersion"] = "1.15.6",
+["_StoreVersion2"] = 122,
 ["ProfileStorage"] = {
 ["default"] = {
 ["RingAtMouse"] = true,
@@ -33,8 +35,8 @@ OPie_SavedData = {
 ["id"] = 19884,
 },
 {
-["sliceToken"] = "ABue6XFMgV1",
 ["id"] = 2580,
+["sliceToken"] = "ABue6XFMgV1",
 },
 ["limit"] = "HUNTER",
 ["save"] = true,

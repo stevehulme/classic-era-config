@@ -16,8 +16,8 @@ H: 1
 Frame: WorldMapFrame
 FrameLevel: 1
 Anchor: TOP
-X: 82
-Y: -19
+X: 81
+Y: -18
 W: 1024
 H: 712
 Frame: AtlasFrame

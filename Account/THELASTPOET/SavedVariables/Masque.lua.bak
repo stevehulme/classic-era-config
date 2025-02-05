@@ -10,6 +10,7 @@ MasqueDB = {
 ["Durthal - Stitches"] = "Default",
 ["Rawnok - Zandalar Tribe"] = "Default",
 ["Rawnok - Crusader Strike"] = "Default",
+["Farlie - Wild Growth"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -89,6 +90,24 @@ MasqueDB = {
 ["Inherit"] = false,
 ["SkinID"] = "Dream",
 },
+["WeakAuras_B2gHWOr3bEu"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras_Ebbwlci4Liz"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["Inherit"] = false,
+["SkinID"] = "Dream",
+},
+["WeakAuras_4g2IDG79hK)"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
 ["Bartender4_6"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
@@ -129,7 +148,42 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
+["WeakAuras_PpH0h7m2)Jk"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras_KtGKFqWsmfp"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
 ["WeakAuras_5BnIpbeZXQY"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras_0uL4dAvbqR9"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["Raven_Debuff Icons"] = {
+["Backdrop"] = true,
+["Inherit"] = false,
+["SkinID"] = "Dream",
+},
+["WeakAuras_UcmNEYVScOw"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["Bartender4_7"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
@@ -152,8 +206,19 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
+["Raven_Pet Debuffs"] = {
+["Backdrop"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
 ["Raven"] = {
 ["Backdrop"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras_MT7rA)iHOg9"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
@@ -174,53 +239,54 @@ MasqueDB = {
 ["Inherit"] = false,
 ["SkinID"] = "Dream",
 },
-["WeakAuras_B2gHWOr3bEu"] = {
+["WeakAuras_OBM17CN3KVS"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_Ebbwlci4Liz"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["Inherit"] = false,
-["SkinID"] = "Dream",
-},
-["WeakAuras_4g2IDG79hK)"] = {
+["WeakAuras_ZlF7fRHxDIS"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_PpH0h7m2)Jk"] = {
+["WeakAuras_phUr2slYsa3"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["Plater Nameplates_Aura Frame 2"] = {
+["WeakAuras_RrQR5aNJNDC"] = {
 ["Backdrop"] = true,
-["SkinID"] = "Dream",
+["Upgraded"] = true,
 ["Inherit"] = false,
+["SkinID"] = "Dream",
 },
-["WeakAuras_KtGKFqWsmfp"] = {
+["WeakAuras_I3)RCEOtZUJ"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_0uL4dAvbqR9"] = {
+["WeakAuras_(pimSS6)PSV"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["Inherit"] = false,
+["SkinID"] = "Dream",
+},
+["Raven_Debuffs as Icons Alt"] = {
+["Backdrop"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["Bartender4_1"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["Raven_Debuff Icons"] = {
-["Backdrop"] = true,
-["Inherit"] = false,
-["SkinID"] = "Dream",
-},
-["Raven_Pet"] = {
+["Plater Nameplates_Boss Mod Icons"] = {
 ["Backdrop"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
@@ -229,11 +295,11 @@ MasqueDB = {
 ["Backdrop"] = true,
 ["SkinID"] = "Dream",
 },
-["WeakAuras_RrQR5aNJNDC"] = {
+["WeakAuras_OjXEpXtRv3q"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
-["Inherit"] = false,
 ["SkinID"] = "Dream",
+["Inherit"] = false,
 },
 ["WeakAuras_y5p9yG2nxQA"] = {
 ["Backdrop"] = true,
@@ -253,33 +319,13 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_UcmNEYVScOw"] = {
+["Raven_Debuffs as Bars"] = {
 ["Backdrop"] = true,
-["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_MT7rA)iHOg9"] = {
+["Raven_Pet Debuffs as Icons"] = {
 ["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["WeakAuras_mvEyv6bjQq)"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["Bartender4_1"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["WeakAuras_OBM17CN3KVS"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
@@ -289,100 +335,7 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["Bartender4_3"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["WeakAuras_3jwsxFajjkQ"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["WeakAuras_Kl7W)IW7gXb"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["WeakAuras"] = {
-["Backdrop"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["WeakAuras_OjXEpXtRv3q"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["WeakAuras_(pimSS6)PSV"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["Inherit"] = false,
-["SkinID"] = "Dream",
-},
-["Bartender4_4"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["WeakAuras_JmEAJ1iL7nk"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["Inherit"] = false,
-["SkinID"] = "Dream",
-},
-["WeakAuras_iti0yMhTFMr"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["Inherit"] = false,
-["SkinID"] = "Dream",
-},
-["Plater Nameplates_Aura Frame 1"] = {
-["Backdrop"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["Bartender4_PetBar"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["Bartender4_5"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["WeakAuras_ZlF7fRHxDIS"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["Raven_Pet Buffs"] = {
-["Backdrop"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["WeakAuras_VYErBWJHHQN"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["WeakAuras_GCqbKW6X3h0"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["SkinID"] = "Dream",
-["Inherit"] = false,
-},
-["WeakAuras_ih6mEtzaN(c"] = {
+["WeakAuras_FNLZIlrIKTv"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
@@ -400,13 +353,122 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
+["Bartender4_3"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras_EVhOnctGukM"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["Inherit"] = false,
+["SkinID"] = "Dream",
+},
+["WeakAuras_Kl7W)IW7gXb"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["Bartender4_4"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras"] = {
+["Backdrop"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["Raven_Buffs as Small Bars"] = {
+["Backdrop"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
 ["WeakAuras_A78aWVuUb4c"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["RuneReminder_RuneWidget"] = {
+["WeakAuras_JmEAJ1iL7nk"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["Inherit"] = false,
+["SkinID"] = "Dream",
+},
+["WeakAuras_iti0yMhTFMr"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["Inherit"] = false,
+["SkinID"] = "Dream",
+},
+["WeakAuras_jbB1alGGm5X"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras_zy(HsOO6wOj"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["Bartender4_5"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["Plater Nameplates_Aura Frame 1"] = {
+["Backdrop"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["Raven_Pet Buffs"] = {
+["Backdrop"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras_VYErBWJHHQN"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras_ydAZkl3z1Ka"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras_GCqbKW6X3h0"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras_mIe2041L3hU"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras_r6Q3BrrYSRu"] = {
+["Backdrop"] = true,
+["Upgraded"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["Raven_Buffs as Bars"] = {
+["Backdrop"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["Raven_Debuffs"] = {
 ["Backdrop"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
@@ -417,7 +479,7 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["Raven_Debuffs"] = {
+["RuneReminder_RuneWidget"] = {
 ["Backdrop"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
@@ -434,13 +496,12 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_jbB1alGGm5X"] = {
+["Raven_Pet Debuffs as Bars"] = {
 ["Backdrop"] = true,
-["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_mIe2041L3hU"] = {
+["Bartender4_PetBar"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
@@ -452,13 +513,12 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_FNLZIlrIKTv"] = {
+["Raven_Pet Buffs as Icons"] = {
 ["Backdrop"] = true,
-["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_ydAZkl3z1Ka"] = {
+["WeakAuras_ih6mEtzaN(c"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
@@ -480,7 +540,7 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_r6Q3BrrYSRu"] = {
+["WeakAuras_3jwsxFajjkQ"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
@@ -492,13 +552,13 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_zy(HsOO6wOj"] = {
+["WeakAuras_mvEyv6bjQq)"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["Plater Nameplates_Boss Mod Icons"] = {
+["Raven_Buffs as Icons"] = {
 ["Backdrop"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
@@ -515,27 +575,25 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_phUr2slYsa3"] = {
+["Plater Nameplates_Aura Frame 2"] = {
+["Backdrop"] = true,
+["SkinID"] = "Dream",
+["Inherit"] = false,
+},
+["WeakAuras_zXkGBgnwus6"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_EVhOnctGukM"] = {
-["Backdrop"] = true,
-["Upgraded"] = true,
-["Inherit"] = false,
-["SkinID"] = "Dream",
-},
-["WeakAuras_DUQN53nzf9j"] = {
+["WeakAuras_pFNZas0Z()y"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_I3)RCEOtZUJ"] = {
+["Raven_Pet"] = {
 ["Backdrop"] = true,
-["Upgraded"] = true,
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
@@ -550,10 +608,10 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["Raven_Debuffs as Icons"] = {
+["Raven_Pet Buffs as Bars"] = {
 ["Backdrop"] = true,
-["Inherit"] = false,
 ["SkinID"] = "Dream",
+["Inherit"] = false,
 },
 ["WeakAuras_TXKORI9FtOf"] = {
 ["Backdrop"] = true,
@@ -561,7 +619,7 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["WeakAuras_pFNZas0Z()y"] = {
+["WeakAuras_DUQN53nzf9j"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",
@@ -579,10 +637,10 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["Raven_Pet Debuffs"] = {
+["Raven_Debuffs as Icons"] = {
 ["Backdrop"] = true,
-["SkinID"] = "Dream",
 ["Inherit"] = false,
+["SkinID"] = "Dream",
 },
 ["WeakAuras_nOyJfOXKsp7"] = {
 ["Backdrop"] = true,
@@ -590,7 +648,7 @@ MasqueDB = {
 ["SkinID"] = "Dream",
 ["Inherit"] = false,
 },
-["Bartender4_7"] = {
+["WeakAuras_TKSP3ISxaVB"] = {
 ["Backdrop"] = true,
 ["Upgraded"] = true,
 ["SkinID"] = "Dream",

@@ -1,5 +1,5 @@
 VER 3 0000000001000002 "Aspect" "136076"
-/castsequence !Aspect of the Viper, !Aspect of the Hawk
+/castsequence !Aspect of the Viper, !Aspect of the Hawk(Rank 6)
 END
 VER 3 0000000001000001 "Pet + Mark" "132212"
 /petattack

@@ -1,0 +1,113 @@
+
+deathlog_settings = {
+["Heatmap Indicator"] = {
+["size_x"] = 40,
+["pos_y"] = 0,
+["enable"] = false,
+["size_y"] = 40,
+["show_value"] = false,
+["pos_x"] = 0,
+},
+["Creature Ranking Tooltip"] = {
+["enable_avg_lvl"] = true,
+["enable_crt"] = true,
+["crt_metric"] = "Normalized Score",
+["by_zone"] = true,
+},
+["DeathAlert"] = {
+["accent_color_g"] = 1,
+["font_color_r"] = 1,
+["pos_y"] = 250,
+["display_time"] = 6,
+["min_lvl_player"] = false,
+["fire_message"] = "<name> the <race> <class> has died from fire.\n at lvl <level> in <zone>.",
+["font_color_g"] = 1,
+["message"] = "<name> the <race> <class> has been slain\nby <source> at lvl <level> in <zone>.",
+["font_color_b"] = 1,
+["max_lvl"] = 60,
+["alert_sound"] = "default_hardcore",
+["font_color_a"] = 1,
+["drown_message"] = "<name> the <race> <class> drowned\n at lvl <level> in <zone>.",
+["font"] = "Nimrod MT",
+["lava_message"] = "<name> the <race> <class> drowned in lava.\n at lvl <level> in <zone>.",
+["fall_message"] = "<name> the <race> <class> fell to\ndeath at lvl <level> in <zone>.",
+["guild_only"] = false,
+["enable_sound"] = true,
+["size_x"] = 600,
+["accent_color_r"] = 1,
+["accent_color_b"] = 1,
+["size_y"] = 200,
+["current_zone_filter"] = false,
+["font_size"] = 16,
+["fatigue_message"] = "<name> the <race> <class> has died from fatigue.\n at lvl <level> in <zone>.",
+["slime_message"] = "<name> the <race> <class> has died from slime.\n at lvl <level> in <zone>.",
+["style"] = "boss_banner_enemy_icon_medium",
+["accent_color_a"] = 1,
+["pos_x"] = 0,
+["enable"] = true,
+["min_lvl"] = 1,
+["alert_subset"] = "faction_wide",
+},
+["Heatmap WorldMap Overlay"] = {
+["enable"] = true,
+["show_checkbox_on_map"] = true,
+},
+["minilog"] = {
+["title_color_a"] = 1,
+["entry_font_size"] = 14,
+["title_color_b"] = 0,
+["title_color_g"] = 0.8196079134941101,
+["lock"] = false,
+["show_icon"] = true,
+["pos_x"] = 470,
+["title_font_size"] = 19,
+["size_x"] = 255,
+["entry_x_offset"] = 0,
+["font"] = "default_font",
+["title_x_offset"] = 0,
+["pos_y"] = -100,
+["border_alpha"] = 1,
+["title_color_r"] = 1,
+["enable"] = true,
+["tooltip_class"] = true,
+["max_lvl"] = 60,
+["tooltip_race"] = true,
+["tooltip_name"] = true,
+["hide_subtitle_heading"] = false,
+["theme"] = "None",
+["entry_y_offset"] = 0,
+["columns"] = {
+"Name",
+"Class",
+"Race",
+"Lvl",
+},
+["tooltip_lastwords"] = true,
+["min_lvl"] = 1,
+["entry_font"] = "default_font",
+["show_title"] = true,
+["presets"] = "Yazpad",
+["tooltip_zone"] = true,
+["tooltip_date"] = true,
+["tooltip_killedby"] = true,
+["size_y"] = 125,
+["title_y_offset"] = 0,
+["tooltip_guild"] = true,
+["tooltip_loc"] = true,
+},
+["Corpse Tooltip"] = {
+["enable_ctt"] = true,
+},
+}
+deathlog_data = {
+}
+deathlog_data_map = {
+}
+dev_precomputed_general_stats = nil
+dev_precomputed_log_normal_params = nil
+dev_precomputed_skull_locs = nil
+dev_class_data = nil
+deathlog_watchlist_entries = {
+}
+deathlog_record_econ_stats = {
+}

@@ -1,0 +1,11 @@
+
+SoulSortOptions = {
+["AutoSort"] = true,
+["ShowCounter"] = false,
+["SortReverse"] = false,
+["MaxShards"] = 0,
+["ShowSortInfo"] = false,
+["AutoMax"] = false,
+["ShowCombatWarning"] = true,
+["ShowCounterPerBag"] = true,
+}
